@@ -80,9 +80,8 @@ DATABASES = {
         # 'ENGINE': 'mysql.connector.django',
         'ENGINE': 'django.db.backends.mysql',  # 或者使用 mysql.connector.django
         'NAME': 'douban',
-        'TABLE':'edge_v1',
         'USER': 'root',
-        'PASSWORD': 'one11111',
+        'PASSWORD': '123456',
         'HOST':'localhost',
         'PORT':'3306',
     }
