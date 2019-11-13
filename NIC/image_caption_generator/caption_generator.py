@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 from random import shuffle
-from .convfeatures import *
+from convfeatures import *
 import tensorflow as tf
 from PIL import Image
 import numpy as np

@@ -1,6 +1,6 @@
-from .caption_generator import *
-from .utils.data_util import generate_captions
-from .configuration import Configuration
+from caption_generator import *
+from utils.data_util import generate_captions
+from configuration import Configuration
 import os, sys
 import argparse
 import json
