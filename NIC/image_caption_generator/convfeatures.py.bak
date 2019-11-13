@@ -45,21 +45,21 @@ def load_next_batch(sess, io, img_path):
     for batch_idx in range(0, len(files), batch_size):
         batch = files[batch_idx:batch_idx + batch_size]
         batch = np.array(
-            [load_image(sess, io, img_path + x) for x in batch])
+            map(lambda x: load_image(sess, io, img_path + x), batch))
         batch = batch.reshape((batch_size, 299, 299, 3))
         yield batch
 
 def forward_pass(io, img_path):
     global output_layer, files
     files = sorted(np.array(os.listdir(img_path)))
-    print("#Images:", len(files))
+    print "#Images:", len(files)
     n_batch = len(files) / batch_size
     with tf.Session() as sess:
         init = tf.global_variables_initializer()
         sess.run(init)
         batch_iter = load_next_batch(sess, io, img_path)
-        for i in range(n_batch):
-            batch = next(batch_iter)
+        for i in xrange(n_batch):
+            batch = batch_iter.next()
             assert batch.shape == (batch_size, 299, 299, 3)
             feed_dict = {input_layer: batch}
             if i is 0:
@@ -76,10 +76,10 @@ def forward_pass(io, img_path):
                         1536),
                     axis=0)
             if i % 5 == 0:
-                print("Progress:" + str(((i + 1) / float(n_batch) * 100)) + "%\n")
-    print("Progress:" + str(((n_batch) / float(n_batch) * 100)) + "%\n")
-    print()
-    print("Saving Features : features.npy\n")
+                print "Progress:" + str(((i + 1) / float(n_batch) * 100)) + "%\n"
+    print "Progress:" + str(((n_batch) / float(n_batch) * 100)) + "%\n"
+    print
+    print "Saving Features : features.npy\n"
     np.save('Dataset/features', prob)
 
 
@@ -117,7 +117,7 @@ def get_arguments():
 if __name__ == "__main__":
     args=get_arguments()
 
-    print("Extracting Features")
+    print "Extracting Features"
     io = build_prepro_graph(args.inception_path)
     forward_pass(io, args.data_path)
-    print("done")
+    print "done"

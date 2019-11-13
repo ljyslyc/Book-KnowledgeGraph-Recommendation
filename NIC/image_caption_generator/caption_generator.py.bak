@@ -260,13 +260,13 @@ class Caption_Generator():
             sess.run(init)
             if self.resume is 1:
                 print("Loading Previously Trained Model")
-                print((self.current_epoch, "Out of", self.nb_epochs, "Completed in previous run."))
+                print(self.current_epoch, "Out of", self.nb_epochs, "Completed in previous run.")
                 try:
                     ckpt_file = "./model/model.ckpt-" + str(self.current_step)
                     saver.restore(sess, ckpt_file)
                     print("Resuming Training")
                 except Exception as e:
-                    print((str(e).split('\n')[0]))
+                    print(str(e).split('\n')[0])
                     print("Checkpoints not found")
                     sys.exit(0)
             writer = tf.summary.FileWriter(
@@ -288,10 +288,10 @@ class Caption_Generator():
                         run, feed_dict=feed_dict)
                     writer.add_summary(summary, step)
                     if step % 100 == 0:
-                        print((epoch, ": Global Step:", step, "\tLoss: ", current_loss))
+                        print(epoch, ": Global Step:", step, "\tLoss: ", current_loss)
                     loss.append(current_loss)
                 print()
-                print(("Epoch: ", epoch, "\tAverage Loss: ", np.mean(loss)))
+                print("Epoch: ", epoch, "\tAverage Loss: ", np.mean(loss))
                 print("\nSaving Model..\n")
                 saver.save(sess, "./model/model.ckpt", global_step=global_step)
                 np.save("model/save", (epoch, step))
@@ -347,5 +347,5 @@ class Caption_Generator():
                             self.idxtow, caption_IDs))
                     sentence = sentence.split("</S>")[0]
                     if i % 1000 == 0:
-                        print(("Progress", i, "out of", features.shape[0]))
+                        print("Progress", i, "out of", features.shape[0])
                     f.write(filenames[i] + "\t" + sentence + "\n")

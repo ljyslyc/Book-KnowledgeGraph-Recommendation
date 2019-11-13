@@ -46,7 +46,7 @@ if args.read_file==1:
         "encoder/Preprocessed_JPG",
         "encoder/Preprocessed_PNG"]
 else:
-    print("without File I/O")
+    print "without File I/O"
     output_node_names = []
 
 with open("../model/Decoder/DecoderOutputs.txt", 'r') as f:
@@ -70,4 +70,4 @@ if args.read_file == 1:
 
 with tf.gfile.GFile(output_graph, "wb") as f:
     f.write(output_graph_def.SerializeToString())
-print("Merged ProtoBuf File Saved:", output_graph)
+print "Merged ProtoBuf File Saved:", output_graph

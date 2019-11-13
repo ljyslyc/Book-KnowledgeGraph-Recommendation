@@ -42,16 +42,16 @@ for i, row in df.iterrows():
       bleu3_scores.append(score3)
       bleu4_scores.append(score4)
       if i%10000 == 0 and i!=0:
-          print((float(i)/df.shape[0])*100,"%"," done")
+          print (float(i)/df.shape[0])*100,"%"," done"
   except:
       index1=df.index[i]
       index2=i
-      print("Invalid Caption Generated for: ", model_filenames[i])
+      print "Invalid Caption Generated for: ", model_filenames[i]
 
-print("\nMean Sentence-Level BLEU-1 score: ", np.mean(bleu1_scores))
-print("Mean Sentence-Level BLEU-2 score: ", np.mean(bleu2_scores))
-print("Mean Sentence-Level BLEU-3 score: ", np.mean(bleu3_scores))
-print("Mean Sentence-Level BLEU-4 score: ", np.mean(bleu4_scores))
+print "\nMean Sentence-Level BLEU-1 score: ", np.mean(bleu1_scores)
+print "Mean Sentence-Level BLEU-2 score: ", np.mean(bleu2_scores)
+print "Mean Sentence-Level BLEU-3 score: ", np.mean(bleu3_scores)
+print "Mean Sentence-Level BLEU-4 score: ", np.mean(bleu4_scores)
 
 
 if index1 and index2:
@@ -63,10 +63,10 @@ references=df.caption
 model_captions = [caption.split() for caption in model_captions]
 
 score1 = nltk.translate.bleu_score.corpus_bleu(references,model_captions, weights=[1.0])
-print("\n\nCorpus-Level BLEU-1 score: ", score1)
+print "\n\nCorpus-Level BLEU-1 score: ", score1
 score2 = nltk.translate.bleu_score.corpus_bleu(references,model_captions, weights=[0.5,0.5])
-print("Corpus-Level BLEU-2 score: ", score2)
+print "Corpus-Level BLEU-2 score: ", score2
 score3 = nltk.translate.bleu_score.corpus_bleu(references,model_captions, weights=[1.0/3,1.0/3,1-2*(1.0/3)])
-print("Corpus-Level BLEU-3 score: ", score3)
+print "Corpus-Level BLEU-3 score: ", score3
 score4 = nltk.translate.bleu_score.corpus_bleu(references,model_captions)
-print("Corpus-Level BLEU-4 score: ", score4)
+print "Corpus-Level BLEU-4 score: ", score4

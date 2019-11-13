@@ -17,7 +17,7 @@ def freeze_graph(mode, read_file ,model_folder):
                 "Preprocessed_PNG",
                 "Output_Features"]
         else:
-            print("without file I/O")
+            print "without file I/O"
             output_node_names = ["Output_Features"]
     if mode == 'decoder':
         with open("../model/Decoder/DecoderOutputs.txt", 'r') as f:
@@ -39,7 +39,7 @@ def freeze_graph(mode, read_file ,model_folder):
 
         with tf.gfile.GFile(output_graph, "wb") as f:
             f.write(output_graph_def.SerializeToString())
-        print("ProtoBuf File Saved:", output_graph)
+        print "ProtoBuf File Saved:", output_graph
 
 
 if __name__ == '__main__':

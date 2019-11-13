@@ -1,6 +1,6 @@
-from .caption_generator import *
-from .utils.data_util import generate_captions
-from .configuration import Configuration
+from caption_generator import *
+from utils.data_util import generate_captions
+from configuration import Configuration
 import os, sys
 import argparse
 import json
@@ -75,12 +75,12 @@ elif config.mode == "test":
         model = Caption_Generator(config)
         model.decode(args.image_path)
     else:
-        print("Please provide a valid image path.\n Usage:\n python main.py --mode test --image_path VALID_PATH")
+        print "Please provide a valid image path.\n Usage:\n python main.py --mode test --image_path VALID_PATH"
 
 elif config.mode == "eval":
     config.mode = "test"
     config.batch_decode = True
-    print(args.validation_data)
+    print args.validation_data
     if os.path.exists(args.validation_data):
         features = np.load(args.validation_data)
         #with open("Dataset/Validation_Captions.txt") as f:
