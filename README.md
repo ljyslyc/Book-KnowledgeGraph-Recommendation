@@ -9,4 +9,3 @@
 数据集来自
 [北京大学开放研究数据平台](https://opendata.pku.edu.cn/dataverse/pku)>北京大学数据与信息管理研究组的[豆瓣图书评分数据](https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/LA9GRH) 
 
-## 项目网站(47.101.167.180:8080)
