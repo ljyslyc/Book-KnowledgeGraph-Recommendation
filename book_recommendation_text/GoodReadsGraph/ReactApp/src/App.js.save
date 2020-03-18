@@ -1,0 +1,34 @@
+
+Nimport React, {Component,useEffect,useState} from "react";
+import { View, Image, StyleSheet } from 'react-native';
+import './App.css';
+import { Container } from "semantic-ui-react";
+
+function App() {
+  const [inputBook, setInputBook] = useState("");
+  const [outputBook, setOutputBook] = useState("");
+
+  return (
+    <div className="App">
+      <Container style={{marginTop: 40}}>
+
+      </Container>
+      
+      <Image
+        style={{width: 50, height: 50}}
+        source={{uri: }}
+        />
+        export default class DisplayAnImage extends Component {
+          render() {
+            return (
+              <View>
+                <Image
+                  style={{width: 50, height: 50}}
+                  source={{uri: 'https://images.gr-assets.com/books/1408753140s/249.jpg'}}
+                />
+              </View>
+    </div>
+  );
+}
+
+export default App;

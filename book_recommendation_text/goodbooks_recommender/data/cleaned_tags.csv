@@ -1,0 +1,6715 @@
+tag_id,tag_name
+11305,['fantasy']
+11557,['favorites']
+8717,"['currently', 'reading']"
+33114,"['young', 'adult']"
+11743,['fiction']
+14017,"['harry', 'potter']"
+5207,['books']
+22743,['owned']
+27199,['series']
+11590,['favourites']
+18886,['magic']
+6857,['children']
+6888,['children']
+2104,"['time', 'favorites']"
+9221,['default']
+3389,['audiobook']
+22034,['novels']
+17124,['kids']
+11370,"['fantasy', 'sci']"
+11497,['favorite']
+22973,['paranormal']
+20849,['library']
+33009,['fantasy']
+29452,['teen']
+32623,['witches']
+31617,"['urban', 'fantasy']"
+5751,['british']
+16427,['rowling']
+24964,['reads']
+6953,['childrens']
+1691,['adventure']
+22753,"['owned', 'books']"
+15965,['rowling']
+6828,['childhood']
+26785,"['sci', 'fantasy']"
+19974,"['middle', 'grade']"
+7457,['classics']
+25765,['reread']
+20774,['books']
+6895,"['children', 'books']"
+11505,"['favorite', 'books']"
+1128,['stars']
+3392,['audiobooks']
+26837,"['science', 'fiction']"
+26771,['sci']
+15048,['humor']
+26894,['scifi']
+7725,['comedy']
+15067,['humour']
+12680,['funny']
+14552,['history']
+21773,['nonfiction']
+21689,['fiction']
+26816,['science']
+31155,['travel']
+3461,['australia']
+19733,['memoir']
+3371,['audio']
+4522,"['bill', 'bryson']"
+19742,['memoirs']
+31186,"['travel', 'writing']"
+4949,"['book', 'club']"
+4605,['biography']
+31190,['travelogue']
+17213,['kindle']
+18045,['library']
+10891,['essays']
+2271,['america']
+3611,['autobiography']
+31656,['usa']
+5858,['bryson']
+10197,['ebook']
+4615,"['biography', 'memoir']"
+27669,"['short', 'stories']"
+8683,['culture']
+1642,['adult']
+10210,['ebooks']
+28009,['social']
+31528,"['united', 'states']"
+1416,['abandoned']
+19738,"['memoir', 'biography']"
+15060,['humorous']
+32865,['writing']
+18130,['life']
+4521,['bill']
+3379,"['audio', 'books']"
+28601,['states']
+10644,['english']
+12940,['general']
+31526,['united']
+8738,['customs']
+2497,['anecdotes']
+10641,['england']
+18318,['literary']
+12388,['form']
+31099,['traditions']
+9306,['description']
+8055,['contemporary']
+3377,"['audio', 'book']"
+31162,"['travel', 'books']"
+17591,['language']
+7404,['classic']
+10731,"['epic', 'fantasy']"
+15979,['tolkien']
+14361,"['high', 'fantasy']"
+18566,"['lord', 'rings']"
+10729,['epic']
+26897,"['scifi', 'fantasy']"
+7423,"['classic', 'literature']"
+11376,"['fantasy', 'scifi']"
+20824,['favorites']
+21989,['novel']
+26842,"['science', 'fiction', 'fantasy']"
+16674,"['jrr', 'tolkien']"
+19959,"['middle', 'earth']"
+5090,['books']
+1659,"['adult', 'fiction']"
+21024,['mythology']
+30909,['tolkien']
+2938,['art']
+29045,['survival']
+25438,"['realistic', 'fiction']"
+26735,['school']
+25114,['school']
+6838,"['childhood', 'favorites']"
+21457,['newbery']
+12315,['school']
+26740,"['school', 'books']"
+16799,['juvenile']
+6960,"['childrens', 'books']"
+19983,"['middle', 'school']"
+17129,"['kids', 'books']"
+6829,"['childhood', 'books']"
+7852,"['coming', 'age']"
+14046,['hatchet']
+33165,['youth']
+6914,"['children', 'lit']"
+6920,"['children', 'literature']"
+33012,['fiction']
+16805,"['juvenile', 'fiction']"
+21466,"['newbery', 'honor']"
+25191,['school']
+1542,"['action', 'adventure']"
+6847,"['childhood', 'reads']"
+33023,['lit']
+32477,['wilderness']
+6178,['canada']
+12850,"['gary', 'paulsen']"
+6597,"['chapter', 'books']"
+33124,"['young', 'adult', 'fiction']"
+25034,['kid']
+6976,"['childrens', 'lit']"
+7484,"['classroom', 'library']"
+26754,"['school', 'reads']"
+25436,['realistic']
+12948,"['general', 'fiction']"
+21195,['nature']
+8075,"['contemporary', 'realistic', 'fiction']"
+21447,['newberry']
+1200,['grade']
+1173,['grade']
+32996,['books']
+20785,['childhood']
+10404,"['elementary', 'school']"
+14487,"['historical', 'fiction']"
+24609,['pulitzer']
+23005,['parenting']
+3739,['baby']
+25562,['reference']
+14134,['health']
+11221,['family']
+3735,['babies']
+10007,['dune']
+12479,"['frank', 'herbert']"
+28247,"['space', 'opera']"
+10013,"['dune', 'series']"
+28300,"['speculative', 'fiction']"
+25647,['religion']
+27403,['fantasy']
+28235,['space']
+26774,"['sci', 'fantasy']"
+14278,['herbert']
+18367,['literature']
+10009,"['dune', 'chronicles']"
+26838,"['science', 'fiction', 'fantasy']"
+3358,['audible']
+11287,['fantascienza']
+2277,['american']
+923,['century']
+22944,['paperback']
+23931,['politics']
+23694,['place']
+26884,['sciencefiction']
+15301,['imaginary']
+23471,['philosophy']
+14280,"['herbert', 'frank']"
+7308,"['ciencia', 'ficción']"
+10094,['books']
+31557,['unread']
+6122,['calibre']
+2982,"['art', 'books']"
+1746,['africa']
+8067,"['contemporary', 'fiction']"
+31505,['unfinished']
+18326,"['literary', 'fiction']"
+2313,"['american', 'literature']"
+10817,['erotic']
+20299,"['modern', 'library', 'top']"
+9477,['finish']
+7478,['classics']
+18292,['lit']
+261,['import']
+254,"['books', 'must']"
+20294,"['modern', 'library', 'best', 'novels']"
+26138,['romance']
+10835,['erótica']
+240,['books']
+248,['books']
+20731,['must']
+30976,['top']
+30463,"['time', 'top']"
+9484,['finish']
+30635,['classics']
+10932,['europe']
+5051,['bookclub']
+2098,"['time', 'novels']"
+2294,"['american', 'fiction']"
+12869,['gave']
+3885,"['banned', 'books']"
+21111,['narrativa']
+20291,"['modern', 'library']"
+8346,['finish']
+2335,['americana']
+19524,['maybe']
+9638,['dnf']
+14752,['home']
+23026,['paris']
+28805,"['stream', 'consciousness']"
+14267,"['henry', 'miller']"
+27556,"['shelfari', 'wishlist']"
+14764,"['home', 'library']"
+20279,['modern']
+11834,['fiction']
+28740,"['stopped', 'reading']"
+3069,"['art', 'manliness']"
+9886,['drama']
+25506,['recommended']
+11978,['finished']
+22376,['shelf']
+23349,"['personal', 'library']"
+18606,"['lost', 'generation']"
+210,"['essential', 'novels']"
+3886,"['banned', 'challenged']"
+30672,['fiction']
+29316,['tbr']
+21374,"['never', 'finished']"
+8344,"['could', 'finish']"
+8104,['controversial']
+27535,"['shelfari', 'favorites']"
+20282,"['modern', 'classics']"
+509,['century']
+2312,"['american', 'lit']"
+7417,"['classic', 'fiction']"
+14266,"['henry', 'james']"
+31859,['victorian']
+251,['books']
+12553,['french']
+23831,['poetry']
+2828,['arabic']
+33390,['أدب']
+28384,['spirituality']
+16841,"['kahlil', 'gibran']"
+17069,"['khalil', 'gibran']"
+33410,"['أدب', 'عربي']"
+10093,['book']
+15392,['library']
+2829,"['arabic', 'books']"
+2835,"['arabic', 'literature']"
+33910,['عربي']
+29543,['terjemahan']
+26630,['sastra']
+28341,['spiritual']
+2838,"['arabic', 'novels']"
+33825,['رواية']
+33559,['الروايات']
+17827,['lebanon']
+33665,['جبرانيات']
+11574,['favourite']
+32586,"['wish', 'list']"
+5481,['borrowed']
+33819,"['روايات', 'وقصص']"
+34206,['ورقي']
+2833,"['arabic', 'fiction']"
+13167,['gibran']
+5776,"['british', 'literature']"
+13060,"['george', 'eliot']"
+16383,['jewish']
+10658,"['english', 'literature']"
+5746,"['brit', 'lit']"
+14467,['historical']
+5775,"['british', 'lit']"
+17639,"['latin', 'america']"
+28261,['spanish']
+18896,"['magic', 'realism']"
+17640,"['latin', 'american']"
+7686,['colombia']
+33777,['روايات']
+28189,"['south', 'america']"
+17645,"['latin', 'american', 'literature']"
+21662,"['nobel', 'prize']"
+31133,['translated']
+21656,['nobel']
+26256,"['rory', 'gilmore', 'reading', 'challenge']"
+10862,['español']
+28269,"['spanish', 'literature']"
+11570,['favoritos']
+12767,"['gabriel', 'garcia', 'marquez']"
+14821,['horror']
+30464,"['time', 'travel']"
+14209,['heinlein']
+27405,['masterworks']
+26004,"['robert', 'heinlein']"
+26020,"['robert', 'heinlein']"
+14983,['hugo']
+20939,['mystery']
+9801,"['douglas', 'adams']"
+8517,['crime']
+5500,['boston']
+5413,['books']
+1195,['books']
+30445,['time']
+6131,['california']
+11665,['feminism']
+18589,['angeles']
+32686,['women']
+14719,['hollywood']
+11643,"['female', 'author']"
+11644,"['female', 'authors']"
+16436,"['joan', 'didion']"
+32688,"['women', 'authors']"
+1029,"['books', 'change', 'life']"
+5390,"['books', 'change', 'life']"
+32724,"['women', 'writers']"
+18139,"['life', 'changing']"
+30471,['times']
+24338,['priority']
+30444,['time']
+21437,"['new', 'york']"
+23131,"['paul', 'auster']"
+3456,['auster']
+26126,['roman']
+24083,['postmodernism']
+20288,"['modern', 'fiction']"
+5565,['boxall']
+22111,['nyc']
+9684,['dogs']
+22009,['novela']
+2705,['anthropology']
+20673,['music']
+11937,['finance']
+23339,"['personal', 'finance']"
+5951,['business']
+20376,['money']
+10245,['economics']
+28052,['sociology']
+19294,['marketing']
+28046,['society']
+23909,['political']
+8039,['consumerism']
+10059,['dystopia']
+10064,['dystopian']
+3704,"['ayn', 'rand']"
+26371,['russia']
+22159,['objectivism']
+24883,['rand']
+26374,['russian']
+7884,['communism']
+3703,['ayn']
+1629,['adoption']
+2173,"['alternate', 'history']"
+23569,['physics']
+3288,['astronomy']
+23996,"['popular', 'science']"
+8327,['cosmology']
+30358,['thriller']
+8755,['cyberpunk']
+28610,['steampunk']
+8751,"['cyber', 'punk']"
+9318,['design']
+19052,['manga']
+13561,"['graphic', 'novels']"
+13547,"['graphic', 'novel']"
+19083,"['manga', 'comics']"
+1540,['action']
+2593,['anime']
+15924,['italy']
+7563,['clàssics']
+14370,"['high', 'school']"
+24526,['psychology']
+27095,"['self', 'help']"
+7077,['christian']
+25630,['relationships']
+8865,['brown']
+29076,['suspense']
+20994,"['mystery', 'thriller']"
+30386,['thrillers']
+20989,"['mystery', 'suspense']"
+20926,['mysteries']
+8020,['conspiracy']
+23334,"['personal', 'development']"
+27089,"['self', 'development']"
+28904,['success']
+23343,"['personal', 'growth']"
+20520,['motivational']
+5963,"['business', 'books']"
+10700,['entrepreneurship']
+17780,['leadership']
+15626,['inspirational']
+11949,['financial']
+27111,"['self', 'improvement']"
+24401,['productivity']
+15758,['investing']
+20519,['motivation']
+32262,['wealth']
+27077,['self']
+15624,['inspiration']
+10698,['entrepreneur']
+30289,"['think', 'grow', 'rich']"
+30620,['business']
+5979,"['business', 'finance']"
+9375,['development']
+15763,['investment']
+6262,['career']
+22330,['hold']
+19039,['management']
+18168,['lifestyle']
+30755,['fiction']
+15339,['improvement']
+24662,['purchased']
+23323,['personal']
+2305,"['american', 'history']"
+7009,['china']
+3216,['asia']
+24624,"['pulitzer', 'prize']"
+3218,['asian']
+24632,"['pulitzer', 'prize', 'winners']"
+22456,"['oprah', 'book', 'club']"
+22449,['oprah']
+23189,"['pearl', 'buck']"
+4985,"['book', 'group']"
+8656,['cultural']
+7016,['chinese']
+24639,"['pulitzer', 'winners']"
+7422,"['classic', 'lit']"
+24642,['pulitzers']
+22451,"['oprah', 'book', 'club']"
+24615,"['pulitzer', 'fiction']"
+22465,"['oprahs', 'book', 'club']"
+4959,"['book', 'club', 'books']"
+21660,"['nobel', 'laureates']"
+3677,"['award', 'winners']"
+11780,"['fiction', 'historical']"
+11765,"['fiction', 'classics']"
+12175,['food']
+16518,"['john', 'grisham']"
+13720,['grisham']
+17863,"['legal', 'thriller']"
+17857,['legal']
+13723,"['grisham', 'john']"
+8150,['cookbooks']
+8209,['cooking']
+8130,['cookbook']
+24207,['prehistoric']
+28422,['sports']
+3956,['baseball']
+28420,['sport']
+9882,['dragons']
+19230,"['margaret', 'weis']"
+9152,"['death', 'gate', 'cycle']"
+8491,['creativity']
+2435,"['ancient', 'history']"
+13646,['greek']
+13643,['greece']
+23743,['plays']
+27438,['shakespeare']
+23150,"['paulo', 'coelho']"
+19786,"['mental', 'health']"
+7606,['coelho']
+30208,['theatre']
+23727,['play']
+31103,['tragedy']
+2424,['ancient']
+30205,['theater']
+2732,['antiquity']
+29412,['teatro']
+7438,['classical']
+2429,"['ancient', 'greece']"
+13654,"['greek', 'literature']"
+7668,['college']
+7448,"['classical', 'studies']"
+7446,"['classical', 'literature']"
+26752,"['school', 'reading']"
+31535,['university']
+13656,"['greek', 'mythology']"
+2438,"['ancient', 'literature']"
+25171,"['high', 'school']"
+2759,['lit']
+2425,"['ancient', 'classics']"
+28144,['sophocles']
+2431,"['ancient', 'greek']"
+3271,"['assigned', 'reading']"
+13660,"['greek', 'tragedy']"
+29716,['classics']
+5153,"['books', 'school']"
+31514,['uni']
+12290,['class']
+2448,"['ancient', 'world']"
+1078,['stars']
+1511,['academic']
+26964,['scripts']
+7440,"['classical', 'antiquity']"
+31140,['translation']
+13613,"['great', 'books']"
+7472,['classics']
+25110,['class']
+23838,"['poetry', 'plays']"
+13642,"['greco', 'roman']"
+13653,"['greek', 'lit']"
+8922,['dark']
+26753,"['school', 'readings']"
+9892,"['drama', 'plays']"
+32798,"['world', 'lit']"
+25091,['classics']
+15436,['incest']
+25111,['college']
+14378,"['high', 'school', 'reading']"
+30406,['théatre']
+26636,['satire']
+11673,['feminist']
+25761,"['required', 'reading']"
+27387,['sexuality']
+15424,['translation']
+31141,['translations']
+3883,['banned']
+18001,['lgbt']
+18011,['lgbtq']
+17638,['latin']
+2445,"['ancient', 'rome']"
+10740,"['epic', 'poetry']"
+21011,['myth']
+26221,['rome']
+23040,['partially']
+10743,['epics']
+20047,['military']
+7203,['christianity']
+7145,"['christian', 'living']"
+21317,"['nelson', 'demille']"
+9260,"['demille', 'nelson']"
+16500,"['john', 'corey']"
+2580,['animals']
+24099,['poverty']
+28024,"['social', 'issues']"
+28031,"['social', 'science']"
+30258,['theory']
+24728,['queer']
+12923,['gender']
+8571,"['critical', 'theory']"
+12421,['foucault']
+16157,"['jane', 'austen']"
+20811,['ebooks']
+14527,"['historical', 'romance']"
+20539,['mountaineering']
+9468,['dickens']
+6622,"['charles', 'dickens']"
+23233,"['penguin', 'english', 'library']"
+21672,['noir']
+9336,['detective']
+8527,"['crime', 'fiction']"
+13936,"['hard', 'boiled']"
+20957,"['mystery', 'crime']"
+9343,"['detective', 'fiction']"
+24946,"['raymond', 'chandler']"
+8533,"['crime', 'mystery']"
+13957,['hardboiled']
+6574,['chandler']
+24646,['pulp']
+9360,['detectives']
+8545,"['crime', 'thriller']"
+8536,"['crime', 'noir']"
+20963,"['mystery', 'detective']"
+8518,"['crime', 'mystery']"
+23441,"['philip', 'marlowe']"
+8524,"['crime', 'detective']"
+8535,"['crime', 'mystery', 'thriller']"
+24648,"['pulp', 'fiction']"
+20961,"['mystery', 'crime', 'thriller']"
+20979,"['mystery', 'noir']"
+18051,"['library', 'book']"
+9347,"['detective', 'mystery']"
+20947,"['mystery', 'crime']"
+3308,['atheism']
+10997,['evolution']
+4631,['biology']
+28659,"['stephen', 'hawking']"
+30802,['science']
+3291,['astrophysics']
+26885,['sciences']
+31533,['universe']
+7305,['ciencia']
+26888,['scientific']
+26862,"['science', 'nature']"
+12874,['gay']
+7116,"['christian', 'fiction']"
+6750,"['chick', 'lit']"
+14251,['hemingway']
+12452,['france']
+12567,"['french', 'lit']"
+12568,"['french', 'literature']"
+21815,['nook']
+12503,['français']
+7481,['classiques']
+12557,"['french', 'classics']"
+18428,"['littérature', 'française']"
+24044,['post']
+24147,['pre']
+8759,['cycling']
+28489,['spórt']
+6200,['cancer']
+24246,['presidents']
+4594,['biographies']
+31647,['history']
+14445,['hist']
+9051,"['david', 'mccullough']"
+31653,['presidents']
+24239,"['presidential', 'biographies']"
+28696,"['steve', 'martini']"
+9565,['discworld']
+29568,"['terry', 'pratchett']"
+24136,['pratchett']
+31324,['turkey']
+24009,['portugal']
+24012,['portuguese']
+24019,"['portuguese', 'literature']"
+26618,['saramago']
+18361,"['literatura', 'portuguesa']"
+24014,"['portuguese', 'authors']"
+18919,"['magical', 'realism']"
+3631,"['autores', 'portugueses']"
+25186,['portuguese']
+15401,['portuguese']
+24021,['portugueses']
+16648,"['josé', 'saramago']"
+7568,['clássicos']
+19961,"['middle', 'east']"
+25674,"['religion', 'spirituality']"
+33664,"['جبران', 'خليل', 'جبران']"
+25685,['religious']
+23465,['philosophical']
+15604,['innovation']
+15808,['irish']
+392,['century']
+15798,['ireland']
+10886,['essay']
+26251,"['rory', 'gilmore', 'challenge']"
+327,['century']
+26246,"['rory', 'gilmore']"
+1137,['books']
+19674,"['medieval', 'literature']"
+26257,"['rory', 'gilmore', 'reading', 'list']"
+13207,"['gilmore', 'girls']"
+19958,"['middle', 'ages']"
+6657,['chaucer']
+10657,"['english', 'lit']"
+19973,"['middle', 'english']"
+19673,"['medieval', 'lit']"
+19949,['microhistory']
+32796,"['world', 'history']"
+12228,"['food', 'history']"
+12186,"['food', 'drink']"
+12252,"['food', 'writing']"
+3027,"['art', 'history']"
+23535,['photography']
+31075,"['tracy', 'chevalier']"
+4755,['bleach']
+19165,['mangas']
+7778,['comics']
+30410,['tibet']
+31667,['utopia']
+11776,"['fiction', 'general']"
+27460,['shangri']
+16081,"['james', 'hilton']"
+11798,"['fiction', 'literature']"
+1153,"['must', 'books']"
+31669,['utopian']
+19666,['medieval']
+9904,['drawing']
+13270,['glbt']
+15844,"['isabel', 'allende']"
+6999,['chile']
+24420,['programming']
+31657,['usability']
+6184,['canadian']
+9802,"['douglas', 'coupland']"
+6216,['canlit']
+6190,"['canadian', 'literature']"
+6189,"['canadian', 'lit']"
+6195,['canadiana']
+32812,['world']
+4017,['bbc']
+31883,['vietnam']
+21529,"['nicholas', 'sparks']"
+28275,['sparks']
+18640,['love']
+18664,"['love', 'story']"
+18663,"['love', 'stories']"
+28525,"['stand', 'alone']"
+26194,['romantic']
+20547,['movie']
+5036,"['book', 'movie']"
+9147,['death']
+6729,"['chic', 'lit']"
+29402,"['tear', 'jerkers']"
+26459,['sad']
+28277,"['sparks', 'nicholas']"
+6766,['chicklit']
+5385,"['books', 'made', 'cry']"
+5295,"['books', 'made', 'movies']"
+11491,['faves']
+20781,['bookshelf']
+2158,['already']
+13794,"['guilty', 'pleasures']"
+29405,['tearjerker']
+26657,"['saw', 'movie']"
+21530,"['nicholas', 'sparks', 'books']"
+28528,"['stand', 'alones']"
+16184,"['janet', 'evanovich']"
+28642,"['stephanie', 'plum']"
+10951,['evanovich']
+28645,"['stephanie', 'plum', 'series']"
+15880,['israel']
+6840,"['childhood', 'favourites']"
+17525,['montgomery']
+33153,['youngadult']
+6949,"['children', 'young', 'adult']"
+17090,"['kid', 'lit']"
+6909,"['children', 'fiction']"
+6836,"['childhood', 'faves']"
+6948,['children']
+21892,['nostalgia']
+1489,"['absolute', 'favorites']"
+6905,"['children', 'classics']"
+6866,"['children', 'books']"
+6837,"['childhood', 'favorite']"
+6977,"['childrens', 'literature']"
+5161,"['books', 'childhood']"
+6841,"['childhood', 'favs']"
+11595,['favs']
+33116,"['young', 'adult', 'books']"
+6843,"['childhood', 'memories']"
+33150,"['young', 'readers']"
+6834,"['childhood', 'classics']"
+2657,"['anne', 'green', 'gables']"
+2106,"['time', 'favourites']"
+18680,['loved']
+33125,"['young', 'adult', 'lit']"
+22344,['bookshelf']
+17103,"['kid', 'stuff']"
+6992,['childrens']
+2100,"['time', 'faves']"
+6863,"['children', 'young', 'adult']"
+33166,"['youth', 'fiction']"
+2101,"['time', 'favorite']"
+11564,"['favorites', 'childhood']"
+6940,['children']
+27575,"['sherlock', 'holmes']"
+10081,['dystopias']
+5066,"['booker', 'prize']"
+19030,"['booker', 'prize']"
+19017,['booker']
+5058,['booker']
+5073,"['booker', 'prize', 'winners']"
+19860,['mexico']
+13507,"['graham', 'greene']"
+6432,['catholic']
+10866,['espionage']
+28466,['spy']
+31885,['vietnam']
+7276,"['chuck', 'palahniuk']"
+22897,['palahniuk']
+16651,['journalism']
+7273,['chuck']
+11503,"['favorite', 'authors']"
+16062,"['james', 'bond']"
+4895,['bond']
+15209,"['ian', 'fleming']"
+28321,['spies']
+28482,"['spy', 'thriller']"
+4896,"['bond', 'james', 'bond']"
+28473,"['spy', 'fiction']"
+16056,['james']
+28479,"['spy', 'novels']"
+6604,['character']
+11855,['fictitious']
+28477,"['spy', 'novel']"
+28751,['stories']
+13330,['gold']
+27974,['smuggling']
+7631,['cold']
+21152,"['national', 'book', 'award']"
+28259,['spain']
+362,['century']
+15453,['india']
+8116,"['cook', 'books']"
+33616,"['باولو', 'كويلو']"
+5655,['brazil']
+23148,['paulo']
+22930,"['paolo', 'coelho']"
+5661,"['brazilian', 'literature']"
+5656,['brazilian']
+20888,['shelf']
+13363,['good']
+250,['books']
+252,"['books', 'must']"
+267,['list']
+5510,['bought']
+33760,['رمان']
+10995,['evil']
+13364,"['good', 'evil']"
+9380,['devil']
+7607,"['coelho', 'paulo']"
+722,['reads']
+34155,['مكتبتي']
+27684,"['short', 'story', 'collections']"
+27661,"['short', 'fiction']"
+27696,['shortstories']
+26503,['salinger']
+24805,['racconti']
+27693,['shorts']
+7654,['collection']
+25167,['english']
+27679,"['short', 'stories', 'novellas']"
+2690,['anthology']
+2287,"['american', 'classics']"
+5444,['bookshelf']
+30860,['reread']
+7658,['collections']
+27683,"['short', 'story', 'collection']"
+33718,"['داستان', 'کوتاه']"
+18377,"['literature', 'fiction']"
+27678,"['short', 'stories', 'essays']"
+8634,['cuentos']
+2687,['anthologies']
+20797,['collection']
+25106,['fiction']
+17958,"['letteratura', 'americana']"
+27672,"['short', 'stories', 'essays']"
+26942,"['scott', 'turow']"
+7944,"['computer', 'science']"
+29425,['technical']
+29418,['tech']
+28064,['software']
+28068,"['software', 'development']"
+28069,"['software', 'engineering']"
+15125,['húmor']
+9057,"['david', 'sedaris']"
+12281,['football']
+21538,"['nick', 'hornby']"
+19316,['marriage']
+1499,['abuse']
+33004,['contemporary']
+26598,['sarah']
+4889,['bombay']
+15461,['indian']
+7334,['cities']
+6140,['cambodia']
+5105,"['books', 'books']"
+21308,"['neil', 'gaiman']"
+29011,['supernatural']
+19634,['medical']
+14169,['healthcare']
+26861,"['science', 'medicine']"
+13446,['gothic']
+12979,['genetics']
+23605,"['picture', 'books']"
+23596,"['picture', 'book']"
+4828,"['board', 'book']"
+4829,"['board', 'books']"
+27682,"['short', 'story']"
+10813,"['ernest', 'hemingway']"
+27656,['short']
+26247,"['rory', 'gilmore', 'book', 'challenge']"
+13214,"['gilmore', 'girls', 'reading', 'list']"
+13202,['gilmore']
+16524,"['john', 'irving']"
+15834,['irving']
+21406,"['new', 'england']"
+19659,['medicine']
+14523,"['historical', 'novel']"
+13098,['german']
+14548,"['historische', 'romane']"
+14460,['historic']
+14547,['historisch']
+19274,"['mark', 'haddon']"
+28623,['steinbeck']
+16563,"['john', 'steinbeck']"
+26508,"['salman', 'rushdie']"
+7879,['communication']
+32766,['work']
+24410,"['professional', 'development']"
+24407,['professional']
+23353,"['personal', 'mba']"
+26498,['sales']
+13744,['growth']
+33655,"['تنمية', 'بشرية']"
+24493,['psych']
+24557,['psychotherapy']
+10304,['education']
+24512,['psychoanalysis']
+8354,['counseling']
+24524,['psychologie']
+24481,['psicologia']
+30263,['therapy']
+28800,['strategy']
+4611,"['biography', 'autobiography']"
+3616,"['autobiography', 'memoir']"
+3596,"['auto', 'biography']"
+19735,"['memoir', 'autobiography']"
+4021,"['bbc', 'big']"
+12663,['fun']
+15362,['english']
+16349,"['jerome', 'jerome']"
+7451,['classici']
+5747,['britain']
+13759,['guardian']
+16203,['japan']
+26384,"['russian', 'literature']"
+26382,"['russian', 'lit']"
+17273,['king']
+28663,"['stephen', 'king']"
+8957,"['dark', 'tower']"
+31984,['vonnegut']
+17487,"['kurt', 'vonnegut']"
+24080,['postmodern']
+4968,"['book', 'club', 'reads']"
+29151,"['sword', 'truth']"
+29560,"['terry', 'goodkind']"
+13396,['goodkind']
+17002,"['ken', 'follett']"
+2867,['architecture']
+12167,['follett']
+32917,['wwii']
+32808,['world']
+17001,"['ken', 'follet']"
+32785,['world']
+12169,"['follett', 'ken']"
+15736,['intrigue']
+11642,['female']
+13609,['great']
+27030,['secret']
+20546,['movements']
+23043,['participation']
+22176,['occupation']
+27332,['service']
+31491,['underground']
+29744,"['dark', 'tower']"
+32353,['western']
+12600,['friendship']
+4834,"['boarding', 'school']"
+1753,"['african', 'american']"
+13856,['haiti']
+6274,['caribbean']
+2224,['amazon']
+206,"['books', 'lifetime']"
+15698,['international']
+6276,"['caribbean', 'lit']"
+18867,"['maeve', 'binchy']"
+22537,"['oscar', 'wilde']"
+7224,['christmas']
+31254,"['true', 'crime']"
+17721,['law']
+17864,"['legal', 'thrillers']"
+17860,"['legal', 'fiction']"
+19764,['memphis']
+8397,"['courtroom', 'drama']"
+15661,['insurance']
+29083,"['suspense', 'thriller']"
+2907,['arkansas']
+28204,['southern']
+28687,"['steve', 'berry']"
+31745,['vampires']
+15463,"['indian', 'authors']"
+2612,"['ann', 'brashares']"
+29464,"['teen', 'fiction']"
+27846,"['sisterhood', 'traveling', 'pants']"
+28974,"['summer', 'reads']"
+28945,['summer']
+27845,['sisterhood']
+34248,['ｆａｖｏｒｉｔｅｓ']
+13068,"['george', 'orwell']"
+10067,"['dystopian', 'fiction']"
+9597,['distopia']
+14730,['holocaust']
+4587,['biographical']
+4561,['bio']
+11710,['feynman']
+30756,['nonfiction']
+26868,"['science', 'physics']"
+26857,"['science', 'math']"
+26819,"['science', 'math']"
+26481,['saggistica']
+10711,['environmental']
+16095,"['james', 'patterson']"
+30924,"['tom', 'clancy']"
+18243,['linguistics']
+8782,['cómics']
+20292,"['modern', 'library']"
+31234,['trinidad']
+24057,"['post', 'colonial']"
+21071,['naipaul']
+195,"['best', 'novels']"
+21665,"['nobel', 'prize', 'winners']"
+15468,"['indian', 'fiction']"
+30449,"['time', 'novels']"
+6277,"['caribbean', 'literature']"
+32799,"['world', 'literature']"
+31235,"['trinidad', 'tobago']"
+23821,['poesia']
+23816,['poems']
+33860,['شعر']
+7000,['chilean']
+10859,['espanol']
+22855,"['pablo', 'neruda']"
+15409,['spanish']
+17644,"['latin', 'american', 'lit']"
+25195,['spanish']
+18353,"['literatura', 'latinoamericana']"
+23860,['poetry']
+30781,['poetry']
+10573,['español']
+28496,"['sri', 'lanka']"
+13109,"['german', 'literature']"
+13116,['germany']
+14297,"['hermann', 'hesse']"
+14318,['hesse']
+13108,"['german', 'lit']"
+9367,['deutsch']
+28184,"['south', 'africa']"
+21166,"['native', 'american']"
+14736,"['holocaust', 'literature']"
+32822,"['world', 'two']"
+10937,"['european', 'history']"
+16680,['judaism']
+33312,['áfrica']
+1774,"['african', 'literature']"
+1750,['african']
+28185,"['south', 'african']"
+32914,['wwi']
+2768,['apocalyptic']
+2766,['apocalypse']
+24051,"['post', 'apocalyptic']"
+24050,"['post', 'apocalypse']"
+8292,"['cormac', 'mccarthy']"
+941,['century']
+11152,"['fairy', 'tales']"
+4088,['beat']
+25992,"['roald', 'dahl']"
+25014,['aloud']
+25033,['child']
+6973,"['childrens', 'fiction']"
+20570,['movies']
+25020,['alouds']
+17086,"['kid', 'books']"
+6969,"['childrens', 'classics']"
+25329,['kids']
+6891,"['children', 'book']"
+4037,"['bbc', 'top']"
+10397,['elementary']
+5231,"['books', 'kid']"
+17206,['kinderboeken']
+12323,['kids']
+10954,"['evanovich', 'janet']"
+23086,"['patricia', 'cornwell']"
+8299,['cornwell']
+8304,"['cornwell', 'patricia']"
+26714,"['scarpetta', 'series']"
+20662,"['murder', 'mystery']"
+16959,"['kay', 'scarpetta']"
+26712,['scarpetta']
+16960,"['kay', 'scarpetta', 'series']"
+16559,"['john', 'saul']"
+1982,"['alex', 'cross']"
+6205,"['candace', 'bushnell']"
+4076,"['beach', 'reads']"
+12135,['fluff']
+16240,"['jasper', 'fforde']"
+11148,['fairy']
+11715,['fforde']
+8832,['dahl']
+1120,['star']
+33113,['young']
+17085,['kid']
+6995,['childrensbooks']
+6996,['childrenslit']
+8833,"['dahl', 'roald']"
+25323,['young']
+28218,"['southern', 'lit']"
+28215,"['southern', 'fiction']"
+20120,['mindfulness']
+9403,['dfw']
+28880,"['stéphanie', 'plum']"
+24348,['prison']
+5509,['botswana']
+2012,"['alexander', 'mccall', 'smith']"
+21616,"['ladies', 'detective', 'agency']"
+8429,"['cozy', 'mystery']"
+19571,"['mccall', 'smith']"
+7327,['circus']
+23440,"['philip', 'dick']"
+11035,['existentialism']
+26379,"['russian', 'classics']"
+9796,['dostoyevsky']
+6163,['lit']
+6186,"['canadian', 'authors']"
+6187,"['canadian', 'fiction']"
+6185,"['canadian', 'author']"
+16306,"['jeffrey', 'archer']"
+11290,['fantasia']
+11396,['fantasía']
+11773,"['fiction', 'fantasy']"
+11340,"['fantasy', 'fiction']"
+18615,['lotr']
+19357,['marvel']
+29005,['superheroes']
+14519,"['historical', 'mystery']"
+4090,"['beat', 'generation']"
+9959,['drugs']
+4104,['beats']
+2323,"['american', 'revolution']"
+23106,['patterson']
+5595,"['brad', 'thor']"
+26914,"['scot', 'harvath']"
+5870,['buddhism']
+15782,['iran']
+19897,"['michael', 'crichton']"
+8513,['crichton']
+19654,"['medical', 'thriller']"
+8514,"['crichton', 'michael']"
+9841,['seuss']
+2142,['alphabet']
+1441,"['abc', 'books']"
+1439,['abc']
+2144,"['alphabet', 'books']"
+9844,['suess']
+25850,['rhyming']
+23595,['picture']
+6931,"['children', 'picture', 'books']"
+27360,['seuss']
+6984,"['childrens', 'picture', 'books']"
+10182,"['easy', 'reader']"
+24224,['preschool']
+3742,"['baby', 'books']"
+17094,"['kid', 'books']"
+17210,['kindergarten']
+23624,['picturebooks']
+24167,['pre']
+6959,"['childrens', 'book']"
+10139,"['early', 'readers']"
+10138,"['early', 'reader']"
+1442,['abc']
+1443,['abcs']
+10708,['environment']
+11513,"['favorite', 'children', 'books']"
+17113,['kiddos']
+24148,['pre']
+8369,['counting']
+2801,['apples']
+19445,['math']
+25848,['rhyme']
+10183,"['easy', 'readers']"
+22090,['numbers']
+25305,['kids']
+7482,['classroom']
+28776,['storytime']
+18418,"['little', 'kids']"
+12296,['kids']
+6887,['children']
+6988,['childrens']
+25851,"['rhyming', 'books']"
+8370,"['counting', 'books']"
+5427,['books']
+25849,['rhymes']
+17166,"['kids', 'shelf']"
+3635,['autumn']
+4196,"['beginning', 'readers']"
+10221,['ece']
+13703,['grief']
+18413,"['little', 'house']"
+17678,"['laura', 'ingalls', 'wilder']"
+18415,"['little', 'house', 'prairie']"
+18416,"['little', 'house', 'series']"
+20138,['minnesota']
+17169,['kids']
+12614,['childhood']
+5230,"['books', 'child']"
+17217,"['kindle', 'books']"
+14779,['homeschool']
+16757,"['junior', 'fiction']"
+11511,"['favorite', 'childhood', 'books']"
+6965,"['childrens', 'chapter', 'books']"
+11240,"['family', 'alouds']"
+7410,"['classic', 'childrens']"
+22529,"['orson', 'scott', 'card']"
+25554,['redwall']
+5702,"['brian', 'jacques']"
+25556,"['redwall', 'series']"
+29244,"['talking', 'animals']"
+31723,['vampire']
+22983,"['paranormal', 'romance']"
+3909,"['barbara', 'taylor', 'bradford']"
+29010,['superman']
+23673,['pioneers']
+12484,"['frank', 'peretti']"
+25690,"['religious', 'fiction']"
+14877,['horses']
+9519,['dinosaurs']
+16763,"['jurassic', 'park']"
+30935,"['tom', 'robbins']"
+28080,['somalia']
+4600,"['biographies', 'memoirs']"
+31265,"['true', 'story']"
+31264,"['true', 'stories']"
+33268,['zombies']
+33262,['zombie']
+20054,"['military', 'history']"
+27573,['sherlock']
+3135,"['arthur', 'conan', 'doyle']"
+8975,['darren']
+7329,"['cirque', 'freak']"
+9537,['disabilities']
+12509,"['freak', 'mighty']"
+5918,['bullying']
+1225,['grade']
+19980,"['middle', 'grades']"
+9538,['disability']
+4002,"['battle', 'books']"
+31727,"['vampire', 'books']"
+31756,['vamps']
+7330,"['cirque', 'freak', 'series']"
+11366,"['fantasy', 'paranormal']"
+5025,"['book', 'series']"
+30082,"['saga', 'darren']"
+11550,"['favorite', 'series']"
+21274,['need']
+1243,['grade']
+25822,['reviewed']
+1010,['stars']
+14856,"['horror', 'thriller']"
+5263,['books']
+33951,['فانتزی']
+29492,['teens']
+19240,"['marian', 'keyes']"
+28141,"['sophie', 'kinsella']"
+8076,"['contemporary', 'romance']"
+27650,['shopaholic']
+14205,['hegel']
+23514,['philosophy']
+23430,['phenomenology']
+19841,['metaphysics']
+13105,"['german', 'idealism']"
+30776,['philosophy']
+23469,['philosophie']
+11930,['filosofía']
+11928,['filosofia']
+23513,"['philosophy', 'theory']"
+23920,"['political', 'philosophy']"
+23049,['partly']
+8093,"['continental', 'philosophy']"
+6639,"['charlie', 'bone']"
+16344,"['jenny', 'nimmo']"
+6971,"['childrens', 'fantasy']"
+12035,"['first', 'series']"
+20287,"['modern', 'fantasy']"
+6640,"['charlie', 'bone', 'series']"
+31359,['tween']
+7644,"['colet', 'court']"
+10600,['ender']
+10611,['enderverse']
+32401,"['wheel', 'time']"
+28541,"['star', 'wars']"
+16205,['japanese']
+14034,"['haruki', 'murakami']"
+16217,"['japanese', 'lit']"
+3232,"['asian', 'literature']"
+16212,"['japanese', 'fiction']"
+5084,['booklight']
+22352,['shelf']
+28298,['speculative']
+28014,"['social', 'commentary']"
+13962,['hardcover']
+30768,['owned']
+26638,['satirical']
+21362,['neutron']
+14907,['hotelkeepers']
+4888,['bomb']
+17491,['kurtvonnegut']
+22533,['orwell']
+18525,['london']
+23240,"['penguin', 'modern', 'classics']"
+5931,['burma']
+7693,['colonialism']
+20903,['myanmar']
+28203,"['southeast', 'asia']"
+10825,['erotica']
+27368,['sex']
+10793,"['erica', 'jong']"
+20318,['modernism']
+8800,['lawrence']
+14405,['hiking']
+22597,['outdoors']
+2791,"['appalachian', 'trail']"
+15904,['italian']
+16218,"['japanese', 'literature']"
+12465,"['francine', 'rivers']"
+15211,"['ian', 'mcewan']"
+9602,['disturbing']
+16209,"['japanese', 'authors']"
+11032,['existential']
+3231,"['asian', 'lit']"
+29038,['surrealism']
+17358,['klassiker']
+25170,['german']
+29137,['swiss']
+13102,"['german', 'classics']"
+29141,['switzerland']
+9369,"['deutsche', 'literatur']"
+4243,['belletristik']
+15368,['german']
+26179,['romane']
+6045,['bücherregal']
+13107,"['german', 'language']"
+13101,"['german', 'books']"
+13100,"['german', 'authors']"
+18337,['literatur']
+3408,['deutsch']
+29139,"['swiss', 'literature']"
+26767,['schule']
+29138,"['swiss', 'authors']"
+24447,['prose']
+9368,"['deutsche', 'bücher']"
+19492,"['max', 'frisch']"
+31315,['tudors']
+31304,['tudor']
+350,['century']
+31308,"['tudor', 'england']"
+14273,"['henry', 'viii']"
+26305,['royalty']
+10342,['egypt']
+6650,"['charlotte', 'bronte']"
+11579,"['favourite', 'books']"
+5807,['bronte']
+4514,['bildungsroman']
+18851,"['made', 'cry']"
+29401,"['tear', 'jerker']"
+20654,['murakami']
+28005,['soccer']
+15915,"['italian', 'literature']"
+10227,['eco']
+15914,"['italian', 'lit']"
+20302,"['modern', 'literature']"
+10939,"['european', 'literature']"
+31451,"['umberto', 'eco']"
+11753,"['fiction', 'literature']"
+18395,['literatuur']
+21915,['finished']
+18338,['literatura']
+15933,['itália']
+11740,['fictie']
+10031,['dutch']
+9487,"['didnt', 'finish']"
+19343,"['martial', 'arts']"
+32165,['warfare']
+23923,"['political', 'science']"
+13938,"['hard', 'case', 'crime']"
+17285,"['king', 'stephen']"
+8630,['cuba']
+16449,"['jodi', 'picoult']"
+23592,['picoult']
+23593,"['picoult', 'jodi']"
+32726,"['womens', 'fiction']"
+9703,"['domestic', 'violence']"
+16450,"['jodi', 'picoult', 'books']"
+20499,"['mother', 'daughter']"
+28936,['suicide']
+20212,"['mitch', 'albom']"
+33968,['فلسفه']
+26918,['scotland']
+9420,"['diana', 'gabaldon']"
+22602,"['outlander', 'series']"
+12758,['gabaldon']
+28216,"['southern', 'gothic']"
+11462,['faulkner']
+32512,"['william', 'faulkner']"
+28219,"['southern', 'literature']"
+30109,['south']
+2326,"['american', 'south']"
+22601,['outlander']
+6709,['chess']
+20205,['mistery']
+23896,['policier']
+28268,"['spanish', 'lit']"
+3016,"['art', 'fiction']"
+24698,"['pérez', 'reverte']"
+8624,['lewis']
+17987,['lewis']
+2113,['allegory']
+11166,['faith']
+7265,"['chronicles', 'narnia']"
+11372,"['fantasy', 'science', 'fiction']"
+11314,"['fantasy', 'sci']"
+29190,['séries']
+30241,['theology']
+2779,['apologetics']
+6070,['lewis']
+7154,"['christian', 'fiction']"
+7094,"['christian', 'books']"
+7141,"['christian', 'life']"
+7156,"['christian', 'nonfiction']"
+7186,"['christian', 'theology']"
+25670,"['religion', 'philosophy']"
+28356,"['spiritual', 'growth']"
+7279,['church']
+23504,"['philosophy', 'religion']"
+7080,"['christian', 'apologetics']"
+15593,['inklings']
+7100,"['christian', 'classics']"
+16374,['jesus']
+10753,['epistolary']
+9708,"['dominican', 'republic']"
+17653,['latino']
+20622,['multicultural']
+28964,"['summer', 'reading']"
+2928,"['around', 'world']"
+29037,['surreal']
+20655,"['murakami', 'haruki']"
+12347,['foreign']
+32302,['weird']
+13163,['giappone']
+14033,['haruki']
+8069,"['contemporary', 'lit']"
+18913,['magical']
+3223,"['asian', 'authors']"
+18352,"['literatura', 'japonesa']"
+25433,['realism']
+3140,['arthurian']
+15807,"['iris', 'murdoch']"
+220,"['novels', 'everyone']"
+30452,"['time', 'magazine']"
+23584,['picaresque']
+23824,['poesía']
+21333,['neruda']
+23812,['poem']
+23857,['poetry']
+23819,['poes']
+12351,"['foreign', 'language']"
+11544,"['favorite', 'poetry']"
+25547,"['redeeming', 'love']"
+7143,"['christian', 'lit']"
+11763,"['fiction', 'christian']"
+26154,"['romance', 'historical']"
+15629,"['inspirational', 'fiction']"
+7158,"['christian', 'novels']"
+4447,"['biblical', 'fiction']"
+20737,"['must', 'reads']"
+25957,['rivers']
+12294,['fun']
+25799,['retellings']
+7144,"['christian', 'literature']"
+5197,"['books', 'love']"
+25517,['recommended']
+7166,"['christian', 'reads']"
+18054,"['library', 'books']"
+893,"['reading', 'challenge']"
+28532,['standalone']
+1121,"['star', 'books']"
+20821,"['favorite', 'books']"
+15642,['inspiring']
+7165,"['christian', 'reading']"
+2107,"['time', 'favs']"
+15633,"['inspirational', 'romance']"
+16871,"['karen', 'kingsbury']"
+4010,"['baxter', 'family']"
+17299,"['kingsbury', 'karen']"
+7171,"['christian', 'romance']"
+17298,['kingsbury']
+7202,['christianfiction']
+16872,"['karen', 'kingsbury', 'books']"
+25548,['redemption']
+25549,"['redemption', 'series']"
+22585,"['shared', 'shelf']"
+13150,['ghosts']
+26717,['scary']
+30368,"['thriller', 'horror']"
+8507,['creepy']
+14852,"['horror', 'suspense']"
+29888,['king']
+28683,['stephenking']
+20656,['murder']
+13141,['ghost']
+3576,['authors']
+19623,['media']
+30414,['tie']
+29230,['tales']
+28668,"['stephen', 'king']"
+28674,"['stephen', 'king']"
+30416,['tie']
+28664,"['stephen', 'king', 'books']"
+14836,"['horror', 'fiction']"
+31325,['turkish']
+5078,"['booker', 'winners']"
+3465,['australian']
+19032,"['booker', 'prize', 'winners']"
+5077,"['booker', 'winner']"
+19911,"['michael', 'ondaatje']"
+21470,"['newbery', 'medal']"
+21474,"['newbery', 'winners']"
+21459,"['newbery', 'award']"
+21472,"['newbery', 'medal', 'winners']"
+21462,"['newbery', 'award', 'winners']"
+21464,"['newbery', 'books']"
+21456,"['newberry', 'winners']"
+21473,"['newbery', 'winner']"
+2660,"['anne', 'rice']"
+16991,"['kelley', 'armstrong']"
+32345,['werewolves']
+32702,"['women', 'otherworld']"
+27613,['shifters']
+27473,['shapeshifters']
+22571,['otherworld']
+32341,['werewolf']
+16993,"['kelly', 'armstrong']"
+9277,['demons']
+23796,['pnr']
+31614,['urban']
+22572,"['otherworld', 'series']"
+1943,"['albert', 'camus']"
+6162,['camus']
+2030,['algeria']
+12451,['francais']
+29732,['culture']
+22439,['opera']
+15203,"['iain', 'banks']"
+15202,"['iain', 'banks']"
+14358,['high']
+32647,['wittgenstein']
+18513,['logic']
+23764,['plays']
+1684,['adultery']
+21149,"['nathaniel', 'hawthorne']"
+14403,['highschool']
+14379,"['high', 'school', 'reads']"
+24674,['puritans']
+10651,"['english', 'class']"
+21547,['nietzsche']
+10916,['ethics']
+23458,['philo']
+12588,"['friedrich', 'nietzsche']"
+23432,['phil']
+6524,['century']
+10750,['epistemology']
+12587,['friedrich']
+24228,['present']
+23519,['philosphy']
+33966,['فلسفة']
+20431,['moral']
+32486,['wilhelm']
+29044,['surveys']
+3246,['aspects']
+22333,['kindle']
+24626,"['pulitzer', 'prize', 'fiction']"
+24187,['pregnancy']
+20508,['motherhood']
+24204,"['pregnancy', 'parenting']"
+22381,['writing']
+2389,"['amy', 'tan']"
+23926,"['political', 'theory']"
+14106,['hawaii']
+29584,['texas']
+19932,['michener']
+16092,"['james', 'michener']"
+16057,"['james', 'michener']"
+14524,"['historical', 'novels']"
+2762,['apartheid']
+19933,"['michener', 'james']"
+25379,"['reading', 'list']"
+14583,"['history', 'fiction']"
+14538,"['historical', 'fiction']"
+23993,"['popular', 'fiction']"
+28183,['south']
+14539,['historicalfiction']
+21948,['owned']
+11247,"['family', 'saga']"
+24462,['proust']
+19211,"['marcel', 'proust']"
+12719,"['fyodor', 'dostoyevsky']"
+9794,['dostoevsky']
+26392,['russians']
+26421,['rússia']
+17965,"['letteratura', 'russa']"
+26370,['russi']
+33401,"['أدب', 'روسي']"
+18517,"['lois', 'lowry']"
+29806,['giver']
+751,['reads']
+13145,"['ghost', 'stories']"
+22025,['novella']
+13450,"['gothic', 'horror']"
+32522,"['william', 'shakespeare']"
+23853,"['poetry', 'plays']"
+10653,"['english', 'classics']"
+12123,['florida']
+6280,"['carl', 'hiaasen']"
+14337,['hiaasen']
+14338,"['hiaasen', 'carl']"
+12126,"['florida', 'fiction']"
+18284,['listened']
+17667,"['laugh', 'loud']"
+12140,['flush']
+12717,['fyic']
+15191,['pretty']
+23950,['pollution']
+14408,['hilarious']
+25155,['grade']
+15959,['fic']
+1559,['activism']
+25156,['grade']
+8012,['conservation']
+27890,['skink']
+8943,"['dark', 'humor']"
+15057,"['humor', 'satire']"
+21392,"['new', 'age']"
+1988,"['alex', 'cross', 'series']"
+23114,"['patterson', 'james']"
+16096,"['james', 'patterson', 'alex', 'cross']"
+32716,"['women', 'murder', 'club']"
+32732,"['womens', 'murder', 'club']"
+32717,"['women', 'murder', 'club', 'series']"
+16122,"['james', 'patterson', 'women', 'murder', 'club']"
+7557,['club']
+29553,['terrorism']
+19496,"['maximum', 'ride']"
+23885,['police']
+24517,['psychological']
+8586,['cross']
+23108,"['patterson', 'alex', 'cross']"
+24387,['procedural']
+5180,['books']
+16100,"['james', 'patterson', 'books']"
+16097,"['james', 'patterson', 'alex', 'cross', 'series']"
+16116,"['james', 'patterson']"
+30373,"['thriller', 'mystery']"
+16135,['jamespatterson']
+21003,"['mystery', 'thrillers']"
+30381,"['thriller', 'suspense']"
+21001,"['mystery', 'thriller', 'suspense']"
+20991,"['mystery', 'suspense', 'thriller']"
+23111,"['patterson', 'cross']"
+8549,"['crime', 'thrillers']"
+16668,"['alex', 'cross']"
+7701,['colorado']
+12114,['flight']
+32412,"['wind', 'blows']"
+12976,['genetic']
+15757,['investigators']
+13458,['government']
+11055,['experimental']
+31838,['veterinarians']
+10638,['engineering']
+11293,['fantastic']
+4411,"['beverly', 'cleary']"
+19882,['mice']
+16665,"['joyce', 'meyer']"
+1377,"['song', 'ice', 'fire']"
+12811,"['game', 'thrones']"
+13070,"['george', 'martin']"
+13693,"['gregory', 'maguire']"
+7343,['civil']
+19175,['mangá']
+9156,"['death', 'note']"
+25223,['manga']
+7739,['comic']
+19141,['manga']
+7824,"['comics', 'manga']"
+27644,['shonen']
+27705,['shounen']
+30667,['fantasy']
+29146,"['sword', 'laser']"
+10152,['earthsea']
+32654,['wizards']
+24947,"['raymond', 'feist']"
+11634,['feist']
+29258,"['tamora', 'pierce']"
+31014,['tortall']
+33121,"['young', 'adult', 'fantasy']"
+11658,"['female', 'protagonist']"
+17370,['knights']
+28103,"['song', 'lioness']"
+23627,['pierce']
+29462,"['teen', 'fantasy']"
+26023,"['robert', 'jordan']"
+16722,"['juliet', 'marillier']"
+14484,"['historical', 'fantasy']"
+31708,['valdemar']
+19798,"['mercedes', 'lackey']"
+2166,['history']
+15473,"['indian', 'literature']"
+24794,['narayan']
+18998,"['malgudi', 'days']"
+15462,"['indian', 'author']"
+15485,"['indian', 'writing']"
+15472,"['indian', 'lit']"
+28195,"['south', 'asian', 'fiction']"
+28193,"['south', 'asia']"
+15484,"['indian', 'writers']"
+18997,['malgudi']
+25975,['narayan']
+28194,"['south', 'asian']"
+7921,['completed']
+15466,"['indian', 'books']"
+9580,['disney']
+23692,['pkd']
+2043,"['alice', 'munro']"
+13195,"['giller', 'prize']"
+4840,"['bob', 'dylan']"
+298,['grade']
+17439,"['kresley', 'cole']"
+15321,"['immortals', 'dark']"
+26163,"['romance', 'paranormal']"
+15322,"['immortals', 'dark', 'series']"
+31713,['valkyrie']
+28034,"['social', 'studies']"
+7341,"['civil', 'rights']"
+26010,"['robert', 'crais']"
+6333,"['carrie', 'vaughn']"
+17343,"['kitty', 'norville']"
+2263,"['amelia', 'bedelia']"
+27745,"['sidney', 'sheldon']"
+19682,['meditation']
+33244,['zen']
+33095,['yoga']
+28335,['spirit']
+5880,['buddhist']
+23180,['peace']
+9406,['dharma']
+24655,['punk']
+23970,"['pop', 'culture']"
+20702,['musica']
+28628,['stendhal']
+7480,['classique']
+18379,"['literature', 'french']"
+17960,"['letteratura', 'francese']"
+12460,['francese']
+12556,"['french', 'books']"
+18302,"['lit', 'french']"
+25169,['french']
+12463,['francia']
+26216,['romanzi']
+25709,['religión']
+16338,"['jennifer', 'weiner']"
+16550,"['john', 'sandford']"
+18717,"['lucas', 'davenport']"
+9464,['dick']
+1599,['addiction']
+9022,"['david', 'baldacci']"
+3829,['baldacci']
+3445,['austen']
+25596,['regency']
+2608,"['anita', 'shreve']"
+9124,"['dean', 'koontz']"
+17413,['koontz']
+22200,"['odd', 'thomas']"
+22201,"['odd', 'thomas', 'series']"
+17415,"['koontz', 'dean']"
+9122,['dean']
+19685,['mediums']
+23373,['persons']
+20176,['missing']
+22198,['odd']
+8573,['criticism']
+24941,['ray']
+17933,['lesbian']
+18015,['lgbtqia']
+16273,"['jeanette', 'winterson']"
+24731,"['queer', 'fiction']"
+16441,"['joanne', 'harris']"
+3833,"['baldacci', 'david']"
+6143,"['camel', 'club']"
+6144,"['camel', 'club', 'series']"
+23928,"['political', 'thriller']"
+3832,"['baldacci', 'camel', 'club']"
+23929,"['political', 'thrillers']"
+9026,"['david', 'baldacci', 'camel', 'club']"
+6142,['camel']
+29688,"['camel', 'club']"
+18282,['listened']
+1554,"['action', 'thriller']"
+13568,"['graphic', 'novels', 'comics']"
+12661,['fumetti']
+27176,"['sequential', 'art']"
+7858,['comix']
+13597,['graphicnovels']
+8779,['còmics']
+13550,"['graphic', 'novel', 'comic']"
+7760,"['comic', 'graphic', 'novel']"
+2602,"['anita', 'blake']"
+22977,"['paranormal', 'fantasy']"
+27472,['shapeshifter']
+4665,"['bit', 'lit']"
+17694,"['laurell', 'hamilton']"
+23037,"['part', 'series']"
+22992,"['paranormal', 'vampires']"
+31719,['vamp']
+27975,['smut']
+2607,"['anita', 'diamant']"
+19419,['massachusetts']
+32956,['xanth']
+23632,"['piers', 'anthony']"
+29559,"['terry', 'brooks']"
+27461,['shannara']
+5820,"['brooks', 'terry']"
+5818,['brooks']
+2666,"['anne', 'tyler']"
+26028,"['robert', 'ludlum']"
+19452,['mathematics']
+25634,['relativity']
+10359,['einstein']
+16693,"['judith', 'mcnaught']"
+14461,"['historic', 'fiction']"
+23447,"['philippa', 'gregory']"
+9573,['disease']
+16898,"['kate', 'atkinson']"
+26535,"['san', 'francisco']"
+12877,"['gay', 'fiction']"
+1800,"['agatha', 'christie']"
+14281,"['hercule', 'poirot']"
+23871,['poirot']
+7213,['christie']
+1798,['agatha']
+9354,"['detective', 'stories']"
+7214,"['christie', 'agatha']"
+18596,['lost']
+13873,['halloween']
+20172,"['miss', 'marple']"
+33304,"['ágatha', 'christie']"
+32667,['wodehouse']
+22847,['wodehouse']
+16282,['jeeves']
+23420,['wodehouse']
+16283,"['jeeves', 'wooster']"
+28121,['sons']
+29546,['terminally']
+23079,['patients']
+6529,['cerebrovascular']
+26211,['romanticism']
+14988,"['hugo', 'award']"
+15006,"['hugo', 'winners']"
+14995,"['hugo', 'award', 'winners']"
+23686,['pittsburgh']
+19891,"['michael', 'chabon']"
+6542,['chabon']
+24716,"['quarter', 'life', 'crisis']"
+32469,"['wilbur', 'smith']"
+24807,['race']
+7746,"['comic', 'books']"
+7806,"['comics', 'graphic', 'novels']"
+28999,['superhero']
+19359,"['marvel', 'comics']"
+7784,"['comics', 'graphic', 'novels']"
+13528,['graphic']
+7743,"['comic', 'book']"
+7843,['comics']
+21244,['nebraska']
+17374,['knitting']
+20512,"['mothers', 'daughters']"
+16907,"['kate', 'jacobs']"
+21438,"['new', 'york', 'city']"
+30408,['théâtre']
+6068,['lewis']
+14196,['heaven']
+30251,"['theology', 'philosophy']"
+30339,"['thought', 'provoking']"
+23276,['peretti']
+23277,"['peretti', 'frank']"
+18328,"['literary', 'itinerary']"
+25798,['retelling']
+27870,['skepticism']
+14868,"['horse', 'books']"
+14867,['horse']
+2545,['animal']
+2573,"['animal', 'stories']"
+2550,"['animal', 'books']"
+14873,"['horse', 'stories']"
+19234,"['marguerite', 'henry']"
+2556,"['animal', 'fiction']"
+10766,['equine']
+21469,"['newbery', 'honors']"
+32405,['kid']
+32408,['young']
+5309,"['books', 'childhood']"
+7015,['chincoteague']
+10671,"['enid', 'blyton']"
+11258,"['famous', 'five']"
+11257,['famous']
+15541,['infantil']
+16798,['juvenil']
+4823,['blyton']
+5158,"['books', 'childhood']"
+15513,['indonesian']
+6846,"['childhood', 'reading']"
+6845,['childhood']
+20786,"['childhood', 'books']"
+29784,"['famous', 'five']"
+15542,"['infantil', 'juvenil']"
+25168,['finnish']
+18215,['sekawan']
+15580,['infância']
+10670,['enid']
+11259,"['famous', 'five', 'series']"
+18630,"['louisa', 'may', 'alcott']"
+1962,['alcott']
+12936,"['gene', 'stratton', 'porter']"
+9928,"['dresden', 'files']"
+16418,"['jim', 'butcher']"
+3353,"['aubrey', 'maturin']"
+21209,['nautical']
+21831,"['nora', 'roberts']"
+26041,"['roberts', 'nora']"
+21827,['nora']
+26146,"['romance', 'contemporary']"
+26039,['roberts']
+16228,['japán']
+27826,['singularity']
+31128,['transhumanism']
+33394,"['أدب', 'السجون']"
+8921,['daria']
+33527,"['الأدب', 'الروسي']"
+33732,['دوستويفسكي']
+18387,"['literature', 'russian']"
+21187,"['natural', 'history']"
+23679,['pirates']
+15304,['imagination']
+14435,"['dark', 'materials']"
+4461,['biblioteca']
+22027,['novellas']
+30919,['tolstoy']
+17918,"['leo', 'tolstoy']"
+30081,['russians']
+18365,"['literatura', 'russa']"
+9148,"['death', 'dying']"
+27659,"['short', 'books']"
+25726,['renaissance']
+14128,['healing']
+23900,['polish']
+31940,"['virginia', 'woolf']"
+12932,"['gender', 'studies']"
+10135,"['early', 'modern']"
+31515,"['uni', 'books']"
+7254,"['christopher', 'marlowe']"
+28852,['studied']
+31537,"['university', 'reading']"
+10460,['elizabethan']
+25116,['uni']
+25161,['college']
+11463,['faust']
+3870,['bangladesh']
+21550,['nigeria']
+1773,"['african', 'lit']"
+4055,['bdsm']
+27924,"['sleeping', 'beauty']"
+10824,"['erotic', 'romance']"
+25856,['rice']
+10819,"['erotic', 'fiction']"
+10826,"['erotica', 'bdsm']"
+26150,"['romance', 'erotica']"
+25858,"['rice', 'anne']"
+27391,['sexy']
+17304,['kinky']
+8937,"['dark', 'erotica']"
+1355,['roquelaure']
+28612,['steamy']
+13792,"['guilty', 'pleasure']"
+21206,['naughty']
+2622,"['ann', 'rice']"
+17303,['kink']
+19775,['menage']
+21928,['interested']
+27919,['slavery']
+29205,['taboo']
+21041,['ménage']
+10828,"['erotica', 'romance']"
+27384,['sexual']
+4900,['bondage']
+27301,"['series', 'sleeping', 'beauty']"
+9037,"['david', 'eddings']"
+11162,['fairytales']
+2444,"['ancient', 'philosophy']"
+13658,"['greek', 'philosophy']"
+18406,"['little', 'black', 'classics']"
+23238,"['penguin', 'little', 'black', 'classics']"
+31436,['ukraine']
+21593,"['nikolai', 'gogol']"
+25190,['russian']
+26377,"['russian', 'classic']"
+247,['books']
+3072,"['art', 'novella']"
+26375,"['russian', 'authors']"
+29113,['swedish']
+26680,['scandinavian']
+29112,['sweden']
+3280,"['astrid', 'lindgren']"
+26679,['scandinavia']
+6902,"['children', 'chapter', 'books']"
+29117,"['swedish', 'literature']"
+17116,['kidlit']
+17208,['kinderbücher']
+21850,['nordic']
+3927,['barnebøker']
+17207,['kinderbuch']
+17203,['kinder']
+25196,['swedish']
+17632,['lastenkirjat']
+26688,"['scandinavian', 'literature']"
+29098,['svenska']
+5140,"['books', 'children']"
+17633,['lasteraamatud']
+4102,"['beatrix', 'potter']"
+24802,['rabbits']
+15285,['illustrated']
+31982,['voltaire']
+19689,['cabot']
+29490,['teenlit']
+2069,"['american', 'girl']"
+15505,['indonesia']
+10444,"['elizabeth', 'gilbert']"
+6098,['caldecott']
+23407,"['peter', 'straub']"
+7371,['clancy']
+16009,"['jack', 'ryan']"
+20053,"['military', 'fiction']"
+7373,"['clancy', 'tom']"
+29431,"['techno', 'thriller']"
+15670,['intelligence']
+15990,['jack']
+16010,"['jack', 'ryan']"
+11720,['fic']
+20072,"['military', 'thriller']"
+22220,['officers']
+11455,['fathers']
+16013,"['jack', 'ryan', 'universe']"
+31100,['traffic']
+9952,['drug']
+26411,['ryan']
+25627,['relations']
+24107,['power']
+11023,['executive']
+2651,"['anne', 'mccaffrey']"
+23300,['pern']
+19565,['mccaffrey']
+9848,['dragon']
+9880,"['dragonriders', 'pern']"
+26836,"['science', 'fantasy']"
+31864,"['victorian', 'literature']"
+28038,"['social', 'work']"
+24505,['psychiatry']
+24530,"['psychology', 'books']"
+8358,['counselling']
+19788,"['mental', 'illness']"
+30264,"['therapy', 'books']"
+24509,['psycho']
+24533,"['psychology', 'counseling']"
+33063,['yalom']
+32775,"['work', 'related']"
+24538,"['psychology', 'psychiatry']"
+24494,"['psych', 'books']"
+24548,"['psychology', 'therapy']"
+13479,"['grad', 'school']"
+24488,['psy']
+24541,"['psychology', 'related']"
+11109,['fables']
+31830,['vertigo']
+13564,"['graphic', 'novels', 'comics']"
+8780,['cómic']
+11159,['fairytale']
+7836,['comics']
+25093,['comics']
+31831,"['vertigo', 'comics']"
+13583,"['graphic', 'novels']"
+12487,['frankenstein']
+12161,['folklore']
+1729,['aesop']
+21035,['myths']
+11141,['fairy']
+9288,"['dennis', 'lehane']"
+16074,"['james', 'ellroy']"
+16883,"['karin', 'slaughter']"
+13524,"['grant', 'county']"
+17838,"['lee', 'child']"
+16005,"['jack', 'reacher']"
+24968,['reacher']
+17260,"['kindle', 'unlimited']"
+781,"['reading', 'challenge']"
+5404,"['books', 'movies']"
+5393,['books']
+13005,"['genre', 'fantasy']"
+32514,"['william', 'goldman']"
+18869,['mafia']
+19258,"['mario', 'puzo']"
+24688,['puzo']
+22504,"['organized', 'crime']"
+13317,['godfather']
+7711,['colômbia']
+13438,"['gossip', 'girl']"
+6475,"['cecily', 'ziegesar']"
+13439,"['gossip', 'girl', 'series']"
+8654,['cults']
+31125,['transgressive']
+31015,['torture']
+15878,['isolation']
+27817,['single']
+3491,['author']
+24353,['prisoners']
+31852,['victims']
+3987,['batman']
+26545,['sandford']
+16557,"['john', 'sanford']"
+31142,['transmetropolitan']
+16168,"['jane', 'green']"
+28678,"['stephen', 'donaldson']"
+30310,"['thomas', 'covenant']"
+28656,"['stephen', 'donaldson']"
+9726,['donaldson']
+8406,['covenant']
+16838,['kafka']
+8768,['czech']
+12499,"['franz', 'kafka']"
+8775,"['czech', 'republic']"
+8774,"['czech', 'literature']"
+10864,['espaňol']
+7565,['clásicos']
+7390,['clasicos']
+28267,"['spanish', 'language']"
+7391,['class']
+18346,"['literatura', 'española']"
+18345,"['literatura', 'espanola']"
+10572,['espanol']
+22164,"['obras', 'teatro']"
+11624,"['federico', 'garcia', 'lorca']"
+17997,['leídos']
+28262,"['spanish', 'authors']"
+6382,['castellano']
+34185,['نمایشنامه']
+14442,"['hispanic', 'literature']"
+29411,['teatre']
+28265,"['spanish', 'classics']"
+28270,['spanish']
+18343,"['literatura', 'espa', 'ola']"
+26197,"['romantic', 'comedy']"
+29954,['mediator']
+9866,['dragonlance']
+21029,"['mythology', 'folklore']"
+10289,"['edith', 'hamilton']"
+21036,"['myths', 'legends']"
+21025,"['mythology', 'folklore']"
+25773,['research']
+5332,"['books', 'owned']"
+10316,['educational']
+21031,"['mythology', 'religion']"
+5905,['bukowski']
+26944,['scottish']
+19892,"['michael', 'connelly']"
+14010,"['harry', 'bosch']"
+2516,['angels']
+24328,['printz']
+18271,"['lisa', 'see']"
+7023,"['chinese', 'culture']"
+3228,"['asian', 'fiction']"
+19285,"['mark', 'twain']"
+31421,['uglies']
+2116,['allende']
+33277,['zorro']
+6135,"['calvin', 'hobbes']"
+7770,"['comic', 'strips']"
+6347,['cartoons']
+7768,"['comic', 'strip']"
+6136,"['calvin', 'hobbes']"
+4537,"['bill', 'watterson']"
+27412,['sff']
+23302,"['pern', 'series']"
+19566,"['mccaffrey', 'anne']"
+11379,['fantasy']
+26772,"['sci', 'fantasy']"
+2650,"['anne', 'mccaffery']"
+20706,['musicals']
+8907,['danish']
+9286,['denmark']
+13054,['geology']
+28025,"['social', 'justice']"
+29388,['teaching']
+26552,['sandman']
+12785,['gaiman']
+15858,['islam']
+4443,['biblical']
+12255,['foodie']
+12200,"['food', 'books']"
+12832,['gardening']
+3906,"['barbara', 'kingsolver']"
+29089,['sustainability']
+12239,"['food', 'politics']"
+10256,['economy']
+10236,['econ']
+29434,['technology']
+19625,"['media', 'studies']"
+8680,"['cultural', 'studies']"
+26207,"['romantic', 'suspense']"
+20035,"['milan', 'kundera']"
+24141,['prayer']
+4385,"['beth', 'moore']"
+4434,"['bible', 'study']"
+31901,"['vince', 'flynn']"
+20213,"['mitch', 'rapp']"
+12145,['flynn']
+30403,"['thursday', 'next']"
+2175,"['alternate', 'reality']"
+19835,['metafiction']
+24771,['quirky']
+21487,['next']
+2186,"['alternative', 'history']"
+2176,"['alternate', 'universe']"
+30402,['thursday']
+7289,"['church', 'history']"
+6438,['catholicism']
+3427,['augustine']
+23105,['patristics']
+9385,['devotional']
+26486,['saints']
+25704,"['religious', 'studies']"
+25678,"['religion', 'theology']"
+23476,"['philosophy', 'religion']"
+1104,['century']
+28373,"['spiritual', 'reading']"
+25652,"['religion', 'spirituality']"
+14448,"['hist', 'church']"
+14572,"['history', 'biography']"
+31011,['torrey']
+27131,['seminary']
+4439,"['bible', 'theology']"
+18172,"['lifetime', 'reading', 'plan']"
+14036,"['harvard', 'classics']"
+7179,"['christian', 'spirituality']"
+23235,"['penguin', 'great', 'ideas']"
+30253,"['theology', 'religion']"
+24821,"['rachel', 'caine']"
+20454,"['morganville', 'vampires']"
+29967,"['morganville', 'vampires']"
+20450,['morganville']
+33035,['paranormal']
+547,['series']
+21387,"['new', 'adult']"
+31749,"['vampires', 'werewolves']"
+22988,"['paranormal', 'supernatural']"
+33130,"['young', 'adult', 'paranormal']"
+31732,"['vampire', 'fiction']"
+19699,['meh']
+10233,['ecology']
+10720,['environmentalism']
+13662,['green']
+17847,"['left', 'behind']"
+17849,"['left', 'behind', 'series']"
+30437,"['tim', 'lahaye']"
+19479,['maturita']
+2013,"['alexander', 'pushkin']"
+17895,['lektira']
+31825,['verse']
+24681,['pushkin']
+15406,['russian']
+21993,"['novel', 'verse']"
+21062,['nabokov']
+522,"['century', 'literature']"
+23229,"['penguin', 'classics']"
+26380,"['russian', 'fiction']"
+23266,"['percy', 'jackson']"
+25913,"['rick', 'riordan']"
+8295,"['cornelia', 'funke']"
+31248,"['trudi', 'canavan']"
+31232,['trilogy']
+11356,"['fantasy', 'magic']"
+16302,"['jeffery', 'deaver']"
+29208,"['tad', 'williams']"
+7219,"['christine', 'feehan']"
+26131,"['roman', 'history']"
+7602,"['codex', 'alera']"
+2603,"['anita', 'blake', 'series']"
+17693,"['laurell', 'hamilton']"
+8938,"['dark', 'fantasy']"
+17692,"['laurell', 'hamilton']"
+2600,['anita']
+18459,['lkh']
+17691,['laurell']
+17689,"['laurel', 'hamilton']"
+13890,"['hamilton', 'laurell']"
+21265,['need']
+22979,"['paranormal', 'fiction']"
+2604,"['anita', 'blake', 'vampire', 'hunter']"
+2605,"['anita', 'blake', 'vampire', 'hunter', 'series']"
+27611,['shifter']
+31701,"['vaginal', 'fantasy']"
+1671,"['adult', 'paranormal']"
+4751,['blake']
+27203,"['series', 'anita', 'blake']"
+3236,['asimov']
+15840,"['isaac', 'asimov']"
+12423,['foundation']
+13671,['greene']
+5765,"['british', 'fiction']"
+23444,"['philip', 'roth']"
+26287,['roth']
+25874,"['richard', 'bach']"
+19837,['metaphysical']
+13825,['wells']
+26063,['robots']
+29149,"['sword', 'sorcery']"
+30173,"['walking', 'dead']"
+32045,"['walking', 'dead']"
+23210,['pendergast']
+24254,"['preston', 'child']"
+23211,"['pendergast', 'series']"
+9804,"['douglas', 'preston']"
+24252,"['preston', 'child']"
+1837,"['agent', 'pendergast']"
+18219,"['lincoln', 'child']"
+24258,"['preston', 'douglas']"
+9807,"['douglas', 'preston', 'lincoln', 'child']"
+15295,['image']
+15296,"['image', 'comics']"
+26024,"['robert', 'kirkman']"
+31357,['twd']
+6986,"['childrens', 'poetry']"
+6932,"['children', 'poetry']"
+23842,"['poetry', 'books']"
+7483,"['classroom', 'books']"
+17149,"['kids', 'lit']"
+12288,['children']
+14917,"['house', 'night']"
+11124,['fae']
+19821,"['merry', 'gentry']"
+19808,"['meredith', 'gentry']"
+11130,['faeries']
+11136,['fairies']
+19809,"['meredith', 'gentry', 'series']"
+11128,['faerie']
+13888,['hamilton']
+11709,['fey']
+19822,"['merry', 'gentry', 'series']"
+11388,"['fantasy', 'urban']"
+22173,['occult']
+32339,['weres']
+21256,['necromancer']
+17191,['harrison']
+29848,['hollows']
+24826,"['rachel', 'morgan']"
+14714,['hollows']
+14006,['harrison']
+32609,['witch']
+26556,"['sandra', 'brown']"
+30631,['christian']
+13310,['god']
+7187,"['christian', 'thought']"
+28354,"['spiritual', 'formation']"
+7191,['christian']
+7206,"['christianity', 'faith']"
+21803,['nonfiction']
+28400,"['spirituality', 'religion']"
+23512,"['philosophy', 'theology']"
+30551,['get']
+21739,['fiction']
+21766,['nonfic']
+29869,['inklings']
+25657,"['religion', 'christianity']"
+7126,"['christian', 'growth']"
+25651,"['religion', 'philosophy']"
+30548,['finish']
+30796,['religion']
+831,['reads']
+28729,['stoicism']
+5745,"['brit', 'chick', 'lit']"
+32708,"['women', 'fiction']"
+13665,"['green', 'jane']"
+13240,['girly']
+6745,['chick']
+7989,['connecticut']
+25081,"['chick', 'lit']"
+5608,"['brain', 'candy']"
+5756,"['british', 'chick', 'lit']"
+4074,['beach']
+4182,"['left', 'behind']"
+10595,['times']
+5808,"['bronte', 'sisters']"
+5811,['brontë']
+5809,['brontes']
+18731,['ludlum']
+18733,"['ludlum', 'robert']"
+31728,"['vampire', 'chronicles']"
+30162,"['vampire', 'chronicles']"
+26476,['sagas']
+17945,['lestat']
+24036,['possession']
+18639,['louisiana']
+19537,['mayfair']
+9697,['domestic']
+6610,['characters']
+21420,"['new', 'orleans']"
+2642,['anne']
+2195,"['alvin', 'maker']"
+6257,['card']
+29235,"['tales', 'alvin', 'maker']"
+18961,['maker']
+28283,"['spec', 'fic']"
+10442,"['elizabeth', 'george']"
+30149,['twits']
+30314,"['thomas', 'hardy']"
+13965,['hardy']
+11278,"['fannie', 'flagg']"
+19482,['maugham']
+21358,['neuroscience']
+12772,"['gabriel', 'garcía', 'márquez']"
+12830,"['garcía', 'márquez']"
+28190,"['south', 'american']"
+25434,"['realismo', 'magico']"
+7687,['colombian']
+4650,['birth']
+6822,['childbirth']
+20008,['midwifery']
+9810,['doula']
+24200,"['pregnancy', 'childbirth']"
+24196,"['pregnancy', 'birth']"
+29573,"['tess', 'gerritsen']"
+25971,"['rizzoli', 'isles']"
+13119,"['gerritsen', 'tess']"
+13117,['gerritsen']
+25969,"['rizzoli', 'isles']"
+30315,"['thomas', 'harris']"
+13917,['hannibal']
+13918,"['hannibal', 'lecter']"
+27188,"['serial', 'killers']"
+24521,"['psychological', 'thriller']"
+2876,['arctic']
+3265,['assassins']
+26890,['scientists']
+27989,['snow']
+7526,['climbing']
+25606,['regions']
+6238,['caps']
+15218,['ice']
+28456,['spouses']
+9134,"['dean', 'koontz']"
+24942,['ray']
+23,['dean']
+1033,['keepers']
+28522,['stalking']
+11784,"['fiction', 'horror']"
+9136,['deankoontz']
+9622,['divorced']
+23256,['people']
+31581,['unsorted']
+14851,"['horror', 'supernatural']"
+21280,"['need', 'get']"
+4915,['book']
+22716,['paperback']
+22953,['paperbacks']
+9132,"['dean', 'koontz']"
+9130,"['dean', 'koontz']"
+17414,"['koontz', 'dean']"
+17882,"['leigh', 'nichols']"
+22213,['offenders']
+19791,['mentally']
+29550,['terror']
+31986,['voodoo']
+11500,"['favorite', 'author']"
+20159,['misc']
+29079,"['suspense', 'horror']"
+3510,"['author', 'dean', 'koontz']"
+7992,['connelly']
+7995,"['connelly', 'michael']"
+23888,"['police', 'procedural']"
+14012,"['harry', 'bosch', 'series']"
+5493,['bosch']
+2510,['angeles']
+18258,"['lisa', 'gardner']"
+12836,"['gardner', 'lisa']"
+12835,['gardner']
+24759,"['quincy', 'rainie']"
+10276,"['edgar', 'allan', 'poe']"
+23811,['poe']
+7540,"['clive', 'barker']"
+7541,"['clive', 'cussler']"
+8728,['cussler']
+9527,"['dirk', 'pitt']"
+8914,"['dante', 'alighieri']"
+16702,"['jules', 'verne']"
+31819,['verne']
+1711,['adventures']
+22345,['kindle']
+6376,['castaways']
+2223,['amazon']
+18600,"['lost', 'books']"
+22816,['owned']
+30712,['kindle']
+4149,['bedtime']
+10129,"['early', 'childhood']"
+21079,"['nancy', 'drew']"
+7255,"['christopher', 'moore']"
+8428,"['cozy', 'mysteries']"
+5991,"['business', 'marketing']"
+1713,['advertising']
+23793,['pmba']
+30434,"['tim', 'ferriss']"
+26502,"['sales', 'marketing']"
+20405,['monsters']
+20426,['moore']
+15063,"['humorous', 'fiction']"
+20427,"['moore', 'christopher']"
+13514,['grammar']
+19500,"['maximum', 'ride', 'series']"
+16328,"['jennifer', 'crusie']"
+16327,"['jennifer', 'cruise']"
+16501,"['john', 'corey', 'series']"
+9259,['demille']
+18536,"['long', 'island']"
+15312,"['immigrant', 'experience']"
+22098,['nutrition']
+31790,['vegan']
+14151,"['health', 'fitness']"
+9493,['diet']
+14160,"['health', 'nutrition']"
+25617,['reincarnation']
+5714,"['brian', 'weiss']"
+7756,"['comic', 'fantasy']"
+11906,['film']
+2284,"['american', 'civil']"
+30185,"['wheel', 'time']"
+19384,"['mary', 'higgins', 'clark']"
+21163,['native']
+21175,"['native', 'americans']"
+27449,['shamanism']
+21174,"['native', 'american', 'studies']"
+21170,"['native', 'american', 'history']"
+15498,['indigenous']
+2306,"['american', 'indian']"
+4096,['beatles']
+4696,"['black', 'dagger', 'brotherhood']"
+15980,['ward']
+13765,"['guardians', 'hoole']"
+16934,"['kathryn', 'lasky']"
+22641,['owls']
+2554,"['animal', 'fantasy']"
+4647,['birds']
+12756,['hoole']
+2706,['anthropomorphic']
+13766,"['guardians', 'gahoole', 'series']"
+12780,['gahoole']
+3133,"['arthur', 'clarke']"
+7384,['clarke']
+28246,"['space', 'odyssey']"
+10479,['ellroy']
+27927,['sleuths']
+21,['calif']
+17513,['quartet']
+6129,['calif']
+16905,"['kate', 'dicamillo']"
+10329,"['edward', 'tulane']"
+29960,"['miraculous', 'journey', 'edward']"
+6596,"['chapter', 'book']"
+16658,['journey']
+20148,"['miraculous', 'journey', 'edward', 'tulane']"
+26549,"['sandford', 'john']"
+24282,"['prey', 'series']"
+27499,"['shayla', 'black']"
+12868,['gave']
+32446,['wicked']
+32652,['wizard']
+10725,"['eoin', 'colfer']"
+2427,"['ancient', 'egypt']"
+3665,['avventura']
+10344,['egyptian']
+27969,"['smith', 'wilbur']"
+27965,['smith']
+12648,['fudge']
+21888,['norwegian']
+21887,['norway']
+286,"['grade', 'books']"
+28594,['startup']
+28596,['startups']
+5975,"['business', 'entrepreneurship']"
+19389,"['mary', 'kay', 'andrews']"
+18784,"['lynsay', 'sands']"
+2885,['argeneau']
+2887,"['argeneau', 'series']"
+31741,"['vampire', 'romance']"
+14693,['holes']
+16080,"['james', 'herriot']"
+24313,"['princess', 'diaries']"
+24310,['princess']
+30035,"['princess', 'diaries']"
+24249,['preston']
+11833,"['fiction', 'thriller']"
+24257,"['preston', 'childs']"
+14256,"['henning', 'mankell']"
+32051,['wallander']
+17442,['krimi']
+21855,"['nordic', 'noir']"
+26683,"['scandinavian', 'crime']"
+17666,['latvia']
+19188,['mankell']
+17489,"['kurt', 'wallander']"
+9200,['deckare']
+19189,"['mankell', 'henning']"
+26684,"['scandinavian', 'crime', 'fiction']"
+26691,"['scandinavian', 'mystery']"
+23878,['polar']
+17484,['kurt']
+26689,"['scandinavian', 'mysteries']"
+23895,['policial']
+29116,"['swedish', 'crime']"
+32720,"['women', 'studies']"
+32735,"['womens', 'studies']"
+25363,['reading']
+34247,['ｃhildrens']
+19459,['matilda']
+6118,"['caleb', 'carr']"
+16032,"['jacqueline', 'carey']"
+29284,['tarzan']
+10280,"['edgar', 'rice', 'burroughs']"
+10834,['eròtic']
+23146,"['pauline', 'reage']"
+16268,"['jean', 'auel']"
+16264,"['jean', 'auel']"
+10146,"['earth', 'children']"
+24211,['prehistory']
+24208,"['prehistoric', 'fiction']"
+10150,"['earths', 'children']"
+30329,['thor']
+30330,"['thor', 'brad']"
+26915,"['scot', 'harvath', 'series']"
+26928,"['scott', 'harvath']"
+28484,"['spy', 'thrillers']"
+14038,['harvath']
+30376,"['thriller', 'political']"
+4126,"['beauty', 'beast']"
+11151,"['fairy', 'retellings']"
+11161,"['fairytale', 'retellings']"
+7383,"['clark', 'mary', 'higgins']"
+7382,['clark']
+19871,['mhc']
+14354,"['higgins', 'clark']"
+6732,['chicago']
+8730,"['cussler', 'clive']"
+31372,['twilight']
+28681,"['stephenie', 'meyer']"
+31376,"['twilight', 'saga']"
+31378,"['twilight', 'series']"
+28640,"['stephanie', 'meyer']"
+829,"['reading', 'challenge']"
+26295,['rowling']
+24092,['potter']
+7898,"['companion', 'books']"
+14024,"['harry', 'potter', 'series']"
+4556,['binchy']
+4558,"['binchy', 'maeve']"
+10518,"['emily', 'giffin']"
+14694,['holiday']
+7228,"['christmas', 'books']"
+16672,['ward']
+4052,['bdb']
+16001,"['jack', 'london']"
+26482,['sailing']
+26985,['stories']
+27508,['sheldon']
+29162,"['sydney', 'sheldon']"
+26057,"['robin', 'sharma']"
+13974,"['harlan', 'coben']"
+7580,['coben']
+20915,"['myron', 'bolitar']"
+7582,"['coben', 'harlan']"
+5080,['bookgroup']
+15801,"['irene', 'nemirovsky']"
+13681,"['greg', 'iles']"
+24074,['postcolonial']
+32007,"['somerset', 'maugham']"
+6614,"['charlaine', 'harris']"
+26051,"['robin', 'hobb']"
+11418,['farseer']
+11419,"['farseer', 'trilogy']"
+3259,['assassin']
+14672,['hobb']
+14673,"['hobb', 'robin']"
+11367,['fantasy']
+1654,"['adult', 'fantasy']"
+11378,"['fantasy', 'series']"
+11336,"['fantasy', 'epic']"
+25451,"['realm', 'elderlings']"
+25104,['fantasy']
+11386,['fantasy']
+14311,"['heroic', 'fantasy']"
+17935,"['lesbian', 'fiction']"
+32662,['wlw']
+26614,"['sarah', 'waters']"
+19886,"['michael', 'bennett']"
+19888,"['michael', 'bennett', 'series']"
+12709,['futuristic']
+12700,['future']
+7256,"['christopher', 'paolini']"
+10774,['eragon']
+15585,['inheritance']
+15586,"['inheritance', 'cycle']"
+29868,"['inheritance', 'cycle']"
+10491,['elves']
+9172,"['debbie', 'macomber']"
+32753,['woolf']
+4790,['bloomsbury']
+11097,"['scott', 'fitzgerald']"
+12075,['fitzgerald']
+17968,['letters']
+23309,['persian']
+23314,"['persian', 'literature']"
+15785,['iranian']
+3405,['auel']
+24166,"['pre', 'history']"
+19224,"['margaret', 'atwood']"
+9432,['diary']
+10193,"['eating', 'disorders']"
+10192,"['eating', 'disorder']"
+12640,"['fruits', 'basket']"
+11425,['fashion']
+31382,['twins']
+7984,"['conjoined', 'twins']"
+27847,['sisters']
+9927,['dresden']
+29759,"['dresden', 'files']"
+12840,"['garth', 'nix']"
+17062,"['keys', 'kingdom']"
+2643,"['anne', 'bishop']"
+4712,"['black', 'jewels']"
+16646,"['jostein', 'gaarder']"
+21865,['norsk']
+21891,"['norwegian', 'literature']"
+12757,['gaarder']
+3106,"['art', 'theory']"
+2648,"['anne', 'frank']"
+32188,['warriors']
+10802,"['erin', 'hunter']"
+32186,"['warrior', 'cats']"
+6443,['cats']
+16511,"['john', 'green']"
+10147,"['earth', 'children', 'series']"
+3407,"['auel', 'jean']"
+10151,"['earths', 'children', 'series']"
+3702,['ayla']
+24165,"['pre', 'historic']"
+28839,"['strong', 'women']"
+24210,"['prehistorical', 'fiction']"
+12383,"['forgotten', 'realms']"
+24943,"['ray', 'bradbury']"
+17617,"['larry', 'mcmurtry']"
+19595,['mcmurtry']
+32366,['westerns']
+16944,"['katie', 'macalister']"
+4453,"['biblical', 'studies']"
+4427,['bible']
+14446,"['hist', 'bio']"
+29594,"['textual', 'criticism']"
+21434,"['new', 'testament']"
+6578,['change']
+6579,"['change', 'management']"
+6619,"['charles', 'bukowski']"
+33045,['romance']
+33311,['fiction']
+29475,"['teen', 'romance']"
+8084,['contemporary']
+14557,"['history', 'american']"
+4272,"['benjamin', 'franklin']"
+9084,['comics']
+1641,"['adriana', 'trigiani']"
+2891,['argentina']
+23378,['peru']
+19259,"['mario', 'vargas', 'llosa']"
+23380,['peruvian']
+16621,"['jose', 'saramago']"
+10665,"['english', 'novels']"
+29111,['swashbuckling']
+16087,"['james', 'lee', 'burke']"
+18981,['malazan']
+18982,"['malazan', 'book', 'fallen']"
+13079,['georgia']
+2481,['andrews']
+26648,['savannah']
+7577,['coaching']
+5990,"['business', 'management']"
+5988,"['business', 'leadership']"
+13922,['happiness']
+71,['class']
+111,"['babies', 'toddlers']"
+25715,['relígion']
+10169,"['eastern', 'philosophy']"
+29270,['tao']
+8448,"['crais', 'robert']"
+8446,['crais']
+13990,"['harper', 'connelly']"
+22981,"['paranormal', 'mystery']"
+14002,"['harris', 'charlaine']"
+13991,"['harper', 'connelly', 'series']"
+2786,['appalachia']
+31938,['virginia']
+4498,"['big', 'stone', 'gap', 'series']"
+31227,['trigiani']
+4497,"['big', 'stone', 'gap']"
+7321,"['circle', 'magic']"
+3851,['balzac']
+22120,['nyrb']
+3482,['austrian']
+28620,"['stefan', 'zweig']"
+22121,"['nyrb', 'classics']"
+3485,"['austrian', 'literature']"
+3952,['bartimaeus']
+16604,"['jonathan', 'stroud']"
+8896,"['danielle', 'steel']"
+8899,"['danielle', 'steele']"
+9922,['dreams']
+8941,"['dark', 'horse']"
+27806,['city']
+12483,"['frank', 'miller']"
+16860,['kant']
+20435,"['moral', 'philosophy']"
+23486,"['philosophy', 'ethics']"
+17521,"['frank', 'baum']"
+24822,"['rachel', 'gibson']"
+14681,['hockey']
+28445,"['sports', 'romance']"
+13881,['halo']
+31876,"['video', 'games']"
+24901,"['rangers', 'apprentice']"
+24898,"['ranger', 'apprentice']"
+16507,"['john', 'flanagan']"
+17618,"['larry', 'niven']"
+15919,['italiani']
+15920,['italiano']
+17964,"['letteratura', 'italiana']"
+15903,['italia']
+15918,['italiana']
+1971,"['alessandro', 'baricco']"
+21115,"['narrativa', 'italiana']"
+3920,['baricco']
+26193,['romans']
+18102,['libreria']
+26218,['romanzo']
+266,"['libri', 'leggere']"
+3633,"['autori', 'italiani']"
+18351,"['literatura', 'italiana']"
+15373,['italian']
+24186,['preferiti']
+25175,['italian']
+15909,"['italian', 'books']"
+15908,"['italian', 'authors']"
+17957,['letteratura']
+21988,['novecento']
+8050,['contemporanea']
+8051,['contemporanei']
+11640,['feltrinelli']
+33631,['تاريخ']
+33307,['évolution']
+14611,"['history', 'science']"
+23499,"['philosophy', 'science']"
+1389,"['year', 'books']"
+26855,"['science', 'history']"
+26874,"['science', 'studies']"
+26445,['saass']
+12962,"['general', 'science']"
+33286,['zuckerberg']
+19450,"['math', 'science']"
+28626,['stem']
+26827,"['science', 'technology']"
+10575,['français']
+15366,['french']
+23236,"['penguin', 'great', 'loves']"
+10934,['european']
+11662,"['female', 'writers']"
+928,"['century', 'classics']"
+9546,['disaster']
+9549,['disasters']
+31987,['vorkosigan']
+31988,"['vorkosigan', 'saga']"
+18518,"['lois', 'mcmaster', 'bujold']"
+9879,['dragonriders']
+27286,"['series', 'pern']"
+24785,['salvatore']
+9943,['drizzt']
+26513,['salvatore']
+18241,['lineup']
+30073,"['rory', 'gilmore', 'reading', 'challenge']"
+26245,"['rory', 'challenge']"
+26253,"['rory', 'gilmore', 'list']"
+13211,"['gilmore', 'girls', 'challenge']"
+13135,"['reading', 'list']"
+26269,"['rory', 'list']"
+25366,"['reading', 'challenge']"
+25839,['rgrc']
+26267,"['rory', 'book', 'list']"
+9556,['discipleship']
+25938,['rincewind']
+24138,"['pratchett', 'terry']"
+32651,['wizard']
+9551,"['disc', 'world']"
+28919,['grafton']
+13504,['grafton']
+17312,"['kinsey', 'millhone']"
+24317,['princesses']
+10101,['baker']
+11150,"['fairy', 'retelling']"
+29237,"['tales', 'frog', 'princess']"
+17904,"['lemony', 'snicket']"
+1371,"['series', 'unfortunate', 'events']"
+27282,"['series', 'unfortunate', 'events']"
+9784,"['dorothea', 'benton', 'frank']"
+29705,"['chronicles', 'narnia']"
+22125,['nárnia']
+21110,['narnia']
+18470,['montgomery']
+26050,"['robin', 'cook']"
+17866,"['legend', 'drizzt']"
+10015,"['dungeons', 'dragons']"
+24799,['salvatore']
+3608,['autobiographies']
+3605,['autobiographical']
+28658,"['stephen', 'fry']"
+16867,"['karen', 'chance']"
+31810,['venice']
+9743,"['donna', 'leon']"
+9855,"['dragon', 'lance']"
+9869,"['dragonlance', 'chronicles']"
+5636,"['brandon', 'sanderson']"
+20203,['mistborn']
+32620,['witcher']
+23905,"['polish', 'literature']"
+2488,"['andrzej', 'sapkowski']"
+11304,['fantastyka']
+23877,['poland']
+26581,['sapkowski']
+32462,['wiedźmin']
+25185,['polish']
+23953,['polskie']
+23903,"['polish', 'fantasy']"
+22758,['owned']
+13094,"['geralt', 'rivia']"
+15400,['polish']
+25162,['czech']
+18360,"['literatura', 'polska']"
+29355,"['tbr', 'pile']"
+18697,"['low', 'fantasy']"
+21497,['next']
+32621,"['witcher', 'saga']"
+31450,['ulubione']
+18386,"['literature', 'polish']"
+13095,"['geralt', 'rivia']"
+23952,['polska']
+11291,"['fantasia', 'epica']"
+30193,['witcher']
+5902,['bujold']
+15005,"['hugo', 'winner']"
+20067,['military']
+20064,"['military', 'sci']"
+4297,"['bernard', 'cornwell']"
+17276,"['king', 'arthur']"
+3142,"['arthurian', 'legend']"
+3147,['arthuriana']
+30179,"['warlord', 'chronicles']"
+31894,['vikings']
+26661,"['saxon', 'stories']"
+2531,"['anglo', 'saxon']"
+8650,['cult']
+9463,['dice']
+3292,['astérix']
+4226,['belgian']
+4230,['belgium']
+2391,"['amélie', 'nothomb']"
+21978,['nothomb']
+2268,"['amelie', 'nothomb']"
+4228,"['belgian', 'literature']"
+10574,['francais']
+8049,['contemporain']
+23171,['pdf']
+4475,['bibliothèque']
+12474,['francophone']
+12555,"['french', 'authors']"
+16226,['japon']
+3607,['autobiographie']
+4229,['belgique']
+12566,"['french', 'language']"
+16526,"['john', 'jakes']"
+16151,"['jan', 'karon']"
+23083,"['patricia', 'briggs']"
+19805,"['mercy', 'thompson']"
+27470,"['shape', 'shifters']"
+19806,"['mercy', 'thompson', 'series']"
+19799,"['mercedes', 'thompson']"
+18228,"['linda', 'howard']"
+32676,['wolves']
+26586,"['sara', 'donati']"
+7691,"['colonial', 'america']"
+29062,"['susan', 'elizabeth', 'phillips']"
+2136,"['alpha', 'male']"
+10615,"['enemies', 'lovers']"
+31934,"['virgin', 'heroine']"
+19325,"['marriage', 'convenience']"
+2932,"['arranged', 'marriage']"
+18652,"['love', 'hate']"
+27148,['sep']
+4942,"['book', 'boyfriend']"
+31930,['virgin']
+18653,"['love', 'hate', 'relationship']"
+1679,"['adult', 'romance']"
+16682,"['jude', 'deveraux']"
+25523,['recovery']
+1960,['alcoholism']
+4568,"['bio', 'memoir']"
+1956,['alcohol']
+9933,['drinking']
+10797,"['erich', 'segal']"
+15954,['robb']
+16258,['robb']
+15358,['death']
+15359,"['death', 'series']"
+19493,"['max', 'lucado']"
+3586,['autism']
+33712,['داستان']
+28764,['story']
+33713,"['داستان', 'ایرانی']"
+34229,"['کودک', 'نوجوان']"
+11420,['farsi']
+7592,"['cocuk', 'kitapları']"
+17329,['kitaplığım']
+33761,"['رمان', 'ایرانی']"
+33502,"['ادبیات', 'ایران']"
+33610,['ایرانی']
+33889,"['صمد', 'بهرنگی']"
+6784,['child']
+15791,"['iranian', 'literature']"
+15784,['irani']
+7590,['cocuk']
+26520,"['samad', 'behrangi']"
+18682,['loved']
+34228,['کودک']
+23316,"['persian', 'novels']"
+33717,"['داستان', 'رمان']"
+33308,['öykü']
+34226,"['کتاب', 'کودک']"
+34232,['کودکانه']
+6819,"['child', 'story']"
+14721,['holmes']
+27595,['sherlockiana']
+27592,['sherlockian']
+15434,"['incarnations', 'immortality']"
+15944,['asimov']
+21365,"['nevada', 'barr']"
+6013,['business']
+19546,['mba']
+5971,"['business', 'economics']"
+5965,"['business', 'books']"
+17789,"['leadership', 'management']"
+6010,"['business', 'strategy']"
+5901,['buisness']
+32769,"['work', 'books']"
+6005,"['business', 'self', 'help']"
+19044,"['management', 'leadership']"
+5970,"['business', 'development']"
+24397,"['product', 'management']"
+24412,"['professional', 'reading']"
+12329,['work']
+855,['books']
+26697,['scanned']
+10248,"['economics', 'business']"
+5966,"['business', 'career']"
+6001,"['business', 'reads']"
+22501,"['organizational', 'strategy']"
+13390,"['good', 'great']"
+17787,"['leadership', 'development']"
+12941,"['general', 'business']"
+25072,['business']
+22502,['organizations']
+6016,['bussiness']
+24408,"['professional', 'books']"
+17783,"['leadership', 'books']"
+1743,['afghanistan']
+17068,"['khaled', 'hosseini']"
+23066,['pastiche']
+21528,"['nicholas', 'meyer']"
+31868,['victoriana']
+23101,"['patrick', 'brian']"
+14803,['honorverse']
+20065,"['military', 'science', 'fiction']"
+14800,"['honor', 'harrington']"
+20066,"['military', 'scifi']"
+9062,"['david', 'weber']"
+14799,['honor']
+14000,['harrington']
+28597,['starwars']
+15803,"['iris', 'johansen']"
+10964,"['eve', 'duncan']"
+21009,['mysticism']
+10849,['esoteric']
+15493,['indians']
+33068,['yaqui']
+10918,['ethnic']
+28854,['studies']
+16678,['juan']
+13879,['hallucinogenic']
+11053,['experience']
+31216,['tribal']
+6373,['castaneda']
+25683,['religions']
+20104,['mind']
+6286,"['carlos', 'castaneda']"
+21680,['christian']
+28044,['socialissues']
+21008,['mystical']
+11948,['finances']
+3348,['atwood']
+20220,['mitford']
+20222,"['mitford', 'series']"
+16888,['karon']
+16889,"['karon', 'jan']"
+27951,"['small', 'town']"
+11453,"['father', 'tim']"
+13045,"['gentle', 'reads']"
+7737,"['comfort', 'reading']"
+2860,['archer']
+16301,"['jeffery', 'archer']"
+2862,"['archer', 'jeffrey']"
+23757,['plays']
+2736,"['anton', 'chekhov']"
+30215,"['theatre', 'plays']"
+23763,"['plays', 'theatre']"
+30779,['plays']
+24575,"['public', 'domain']"
+22228,['ohio']
+32299,['weiner']
+16773,['fun']
+16695,"['judy', 'blume']"
+2345,['amish']
+2348,"['amish', 'fiction']"
+4412,"['beverly', 'lewis']"
+17581,"['land', 'elyon']"
+26025,"['robert', 'kiyosaki']"
+25419,"['real', 'estate']"
+11954,"['financial', 'education']"
+11957,"['financial', 'literacy']"
+27946,"['small', 'business']"
+28616,"['steel', 'danielle']"
+28614,['steel']
+33278,['zoya']
+18340,"['literatura', 'brasileira']"
+5640,['brasil']
+5643,['brasileiros']
+18823,"['machado', 'assis']"
+24022,['português']
+5660,"['brazilian', 'lit']"
+11858,['ficção']
+5657,"['brazilian', 'authors']"
+21064,['nacional']
+7455,['classicos']
+18295,"['lit', 'brasileira']"
+18356,"['literatura', 'nacional']"
+5641,['brasileira']
+31576,"['unreliable', 'narrator']"
+10499,['português']
+5642,['brasileiro']
+18447,['livros']
+24011,['portugues']
+18822,['machado']
+5659,"['brazilian', 'classics']"
+18354,"['literatura', 'lusófona']"
+21063,['nacionais']
+31833,['vestibular']
+15221,['iceland']
+15222,['icelandic']
+2924,"['arnaldur', 'indridason']"
+23147,"['paullina', 'simons']"
+21093,['nanotechnology']
+21364,['nevada']
+3152,['artificial']
+27600,"['sherrilyn', 'kenyon']"
+8946,"['dark', 'hunter', 'series']"
+8945,"['dark', 'hunter']"
+9916,"['dream', 'hunter']"
+8948,"['dark', 'hunters']"
+17028,['kenyon']
+17030,"['kenyon', 'sherrilyn']"
+14008,['harry']
+29250,"['tami', 'hoag']"
+14669,"['hoag', 'tami']"
+14668,['hoag']
+5593,"['brad', 'meltzer']"
+12147,"['flynn', 'vince']"
+18226,"['linda', 'fairstein']"
+23072,"['pat', 'conroy']"
+27466,"['shannon', 'hale']"
+8005,['conrad']
+16628,"['joseph', 'conrad']"
+23787,['plum']
+28803,['stravaganza']
+12712,['fuvest']
+5658,"['brazilian', 'books']"
+19854,['livros']
+18755,['lusophone']
+17634,['latam']
+7364,['ssicos']
+7569,"['clássicos', 'brasileiros']"
+25641,['reler']
+30483,['tintin']
+3861,"['bandes', 'dessinées']"
+17406,['komik']
+3859,"['bande', 'dessinée']"
+14287,['herge']
+14288,['hergé']
+3858,"['bande', 'dessinee']"
+3856,"['banda', 'desenhada']"
+28824,['strips']
+30479,"['tin', 'tin']"
+4054,['bds']
+29613,"['adventures', 'tintin']"
+4046,['comics']
+21327,['nepal']
+26625,['sarjakuvat']
+24705,['quadrinhos']
+27198,['serier']
+3869,['bangla']
+26346,['running']
+12068,['fitness']
+11025,['exercise']
+26348,"['running', 'books']"
+3321,['athletics']
+2788,['appalachian']
+16561,"['john', 'scalzi']"
+2056,['aliens']
+22894,['pakistan']
+10963,"['eve', 'dallas']"
+25996,['robb']
+25997,['robb']
+25998,['robb']
+21840,"['nora', 'roberts', 'robb']"
+26172,"['romance', 'suspense']"
+17724,"['law', 'enforcement']"
+27257,"['series', 'death']"
+13506,['grafton']
+1940,"['alastair', 'reynolds']"
+24878,['ramona']
+17138,"['kids', 'chapter', 'books']"
+17142,"['kids', 'fiction']"
+17160,['kids']
+25335,['kids']
+6869,"['children', 'chapter', 'books']"
+24879,"['ramona', 'quimby']"
+3770,"['back', 'day']"
+6964,"['childrens', 'chapter']"
+17175,['kidsbooks']
+29266,['tangerine']
+33044,"['realistic', 'fiction']"
+1048,['grade']
+127,"['realistic', 'fiction']"
+6875,"['children', 'fiction']"
+21452,"['newberry', 'honor']"
+33149,"['young', 'reader']"
+6019,['butcher']
+8066,"['contemporary', 'fantasy']"
+14013,"['harry', 'dresden']"
+6020,"['butcher', 'jim']"
+19397,"['mary', 'russell']"
+17720,"['laurie', 'king']"
+4607,"['biography', 'memoir']"
+4580,['biografie']
+3166,['artists']
+4901,['bone']
+13588,"['graphic', 'novels']"
+16130,"['james', 'rollins']"
+10327,"['edward', 'rutherfurd']"
+13615,"['great', 'britain']"
+28735,['stonehenge']
+17584,['landover']
+13449,"['gothic', 'fiction']"
+13452,"['gothic', 'literature']"
+18569,"['lord', 'peter', 'wimsey']"
+22826,['oxford']
+26665,['sayers']
+9788,"['dorothy', 'sayers']"
+26178,['romancé']
+8883,"['daniel', 'silva']"
+12764,"['gabriel', 'allon']"
+27782,['silva']
+27783,"['silva', 'daniel']"
+12765,"['gabriel', 'allon', 'series']"
+2124,['allon']
+17275,"['king', 'maxwell']"
+17282,"['king', 'maxwell']"
+3836,"['baldacci', 'king', 'maxwell']"
+26997,"['king', 'michelle', 'maxwell']"
+17283,"['king', 'maxwell', 'series']"
+13462,"['government', 'intrigue']"
+9028,"['david', 'baldacci', 'king', 'maxwell']"
+10966,"['eve', 'duncan', 'series']"
+16484,"['johansen', 'iris']"
+2001,"['alex', 'rider']"
+2894,['argentinian']
+2897,['argentinos']
+18339,"['literatura', 'argentina']"
+2892,['argentine']
+18599,"['lost', 'book', 'club']"
+7307,"['ciencia', 'ficcion']"
+2893,"['argentine', 'literature']"
+2895,"['argentinian', 'lit']"
+1627,"['adolfo', 'bioy', 'casares']"
+17661,['latinoamericanos']
+17659,['latinoamericana']
+11736,['ficción']
+18609,"['lost', 'lit']"
+2896,"['argentinian', 'literature']"
+7035,"['chitra', 'banerjee', 'divakaruni']"
+29217,"['taj', 'mahal']"
+4967,"['book', 'club']"
+643,['reads']
+1331,"['historical', 'novel', 'building']"
+4972,"['book', 'club', 'suggestions']"
+8666,"['cultural', 'fiction']"
+4971,"['book', 'club', 'selections']"
+4958,"['book', 'club', 'book']"
+14485,"['historical', 'fic']"
+30692,"['historical', 'fiction']"
+13884,"['halo', 'series']"
+12817,['games']
+12606,"['frog', 'toad']"
+12593,['friends']
+25359,['readers']
+4195,"['beginning', 'reader']"
+12609,['frogs']
+31130,"['transitional', 'chapter']"
+10127,"['early', 'chapter', 'books']"
+543,['grade']
+10186,['easy']
+6316,['carpathians']
+8954,"['dark', 'series']"
+11626,['feehan']
+11629,"['feehan', 'christine']"
+24174,['preacher']
+9097,['vertigo']
+13594,"['graphic', 'novels']"
+7776,['comicbooks']
+12839,"['garth', 'ennis']"
+13596,['graphicnovel']
+25122,"['graphic', 'novels']"
+7750,"['comic', 'books', 'graphic', 'novels']"
+13593,"['graphic', 'novel']"
+31082,"['trade', 'paperbacks']"
+13555,"['graphic', 'novel', 'manga']"
+30687,"['graphic', 'novels']"
+13599,['graphics']
+13538,"['graphic', 'fiction']"
+11517,"['favorite', 'comics']"
+13592,"['graphic', 'series']"
+7809,"['comics', 'graphicnovels']"
+7130,"['christian', 'historical', 'fiction']"
+29718,['clique']
+7535,['clique']
+29719,"['clique', 'series']"
+18276,"['lisi', 'harrison']"
+7537,"['clique', 'series']"
+13242,"['girly', 'books']"
+7536,"['clique', 'books']"
+19610,"['mean', 'girls']"
+575,['stars']
+11845,"['fiction', 'young']"
+13436,['gossip']
+26745,"['school', 'life']"
+1226,"['grade', 'books']"
+7924,"['completed', 'series']"
+23998,['popularity']
+13235,['girls']
+10760,['epubs']
+13366,"['good', 'books']"
+32998,"['chick', 'lit']"
+29480,['teen']
+19986,"['middle', 'school', 'reads']"
+29460,"['teen', 'drama']"
+25177,"['middle', 'school']"
+7538,['cliques']
+29476,"['teen', 'series']"
+7494,"['clean', 'romance']"
+18730,"['lucy', 'maud', 'montgomery']"
+7738,"['comfort', 'reads']"
+20412,['montgomery']
+16471,"['joel', 'osteen']"
+18604,"['lost', 'fleet']"
+32758,['wordless']
+26117,['rollins']
+28255,"['space', 'trilogy']"
+14235,['hellboy']
+17309,['kinsey']
+2146,"['alphabet', 'series']"
+10962,"['eve', 'roarke']"
+22891,['painting']
+3169,['arts']
+17477,['kunst']
+3084,"['art', 'related']"
+2697,"['anthony', 'horowitz']"
+13812,"['guy', 'gavriel', 'kay']"
+27185,"['sergei', 'lukyanenko']"
+32218,['watch']
+22643,['copy']
+18739,"['lukyanenko', 'sergei']"
+2663,"['anne', 'rivers', 'siddons']"
+17718,"['laurie', 'king']"
+14518,"['historical', 'mysteries']"
+20971,"['mystery', 'historical']"
+26366,['russell']
+19398,"['mary', 'russell', 'series']"
+5778,"['british', 'mysteries']"
+19374,['mary']
+22446,['opposites']
+9834,['seuss']
+4867,"['body', 'parts']"
+6900,"['children', 'books']"
+11633,['feet']
+9835,['suess']
+25212,['kids']
+28770,"['story', 'time']"
+25086,['childrens']
+10296,['edrd']
+4859,['body']
+29884,['kids']
+18266,"['lisa', 'kleypas']"
+25600,"['regency', 'romance']"
+14530,"['historical', 'romances']"
+6715,"['chetan', 'bhagat']"
+28316,['spider']
+9621,['divorce']
+21465,"['newbery', 'challenge']"
+21449,"['newberry', 'award', 'winners']"
+30639,['comics']
+28994,"['super', 'heroes']"
+4908,['bones']
+16938,"['kathy', 'reichs']"
+29514,"['temperance', 'brennan']"
+25611,['reichs']
+12366,['forensics']
+12355,['forensic']
+29515,"['temperance', 'brennan', 'series']"
+25612,"['reichs', 'kathy']"
+12363,"['forensic', 'science']"
+5686,['brennan']
+4910,"['bones', 'series']"
+31620,"['urban', 'fiction']"
+27744,['sidney']
+27509,"['sheldon', 'sidney']"
+1934,"['alan', 'moore']"
+16716,"['julie', 'garwood']"
+14394,['highlander']
+14397,['highlanders']
+19678,"['medieval', 'romance']"
+14395,"['highlander', 'romance']"
+14393,"['highland', 'romance']"
+12842,['garwood']
+14391,['highland']
+14398,['highlands']
+12844,"['garwood', 'julie']"
+23676,['pirate']
+3532,"['author', 'julie', 'garwood']"
+9053,"['david', 'nicholls']"
+6804,"['child', 'lee']"
+16008,"['jack', 'reacher', 'series']"
+12517,"['frederick', 'forsyth']"
+12408,['forsyth']
+16709,"['julia', 'quinn']"
+5725,['bridgertons']
+5724,"['bridgerton', 'series']"
+14541,['historicals']
+3531,"['author', 'julia', 'quinn']"
+24765,"['quinn', 'julia']"
+12598,"['friends', 'lovers']"
+28127,"['sookie', 'stackhouse']"
+10270,['eddings']
+14871,"['horse', 'racing']"
+32194,"['warriors', 'series']"
+29908,"['legend', 'drizzt']"
+16040,"['jacquelyn', 'frank']"
+21577,['nightwalkers']
+9263,['demon']
+21578,"['nightwalkers', 'series']"
+2519,"['angels', 'demons']"
+12480,"['frank', 'jacquelyn']"
+11369,"['fantasy', 'romance']"
+23798,['pnr']
+24871,['rama']
+21245,['nebula']
+21246,"['nebula', 'award']"
+13954,['hard']
+14999,"['hugo', 'nebula']"
+7433,"['classic', 'sci']"
+21254,"['nebula', 'winners']"
+12021,"['first', 'contact']"
+13952,"['hard', 'science', 'fiction']"
+13950,"['hard', 'sci']"
+30800,['sci']
+26808,['sci']
+13953,"['hard', 'scifi']"
+21249,"['nebula', 'award', 'winners']"
+16877,"['karen', 'marie', 'moning']"
+14396,"['highlander', 'series']"
+30465,"['time', 'travel', 'romance']"
+20391,['moning']
+17368,['kmm']
+20392,"['moning', 'karen', 'marie']"
+16879,"['karen', 'moning']"
+26949,"['scottish', 'romance']"
+19766,['kilts']
+16979,['keepers']
+27250,"['series', 'highlander']"
+4303,['berserker']
+14894,['hot']
+12820,['gandhi']
+5912,['bulgakov']
+22526,['orphans']
+1845,['agile']
+22441,['operations']
+17801,['lean']
+24430,"['project', 'management']"
+31716,"['value', 'delivery']"
+14704,['holidays']
+31521,['unicorns']
+31519,['unicorn']
+31520,"['unicorn', 'chronicles']"
+5850,"['bruce', 'coville']"
+12611,['childhood']
+22246,"['old', 'favorites']"
+6844,"['childhood', 'nostalgia']"
+3127,"['artemis', 'fowl']"
+23442,"['philip', 'pullman']"
+19399,"['mary', 'stewart']"
+20949,"['mystery', 'thriller']"
+29073,['suspence']
+11881,['fiksi']
+6346,['cartoon']
+17746,['lds']
+17755,"['lds', 'fiction']"
+1758,"['african', 'american', 'fiction']"
+29563,"['terry', 'mcmillan']"
+17902,"['lemonade', 'syllabus']"
+1762,"['african', 'american', 'literature']"
+1761,"['african', 'american', 'lit']"
+1754,"['african', 'american', 'authors']"
+4705,"['black', 'fiction']"
+25830,['revolutionary']
+25826,['revolution']
+33018,"['historical', 'fiction']"
+16233,"['jason', 'bourne']"
+13673,['greenland']
+7090,"['christian', 'biography']"
+4596,"['biographies', 'memoirs']"
+4634,['bios']
+3614,"['autobiography', 'biography']"
+7134,"['christian', 'inspiration']"
+21702,"['fiction', 'christian']"
+28926,['suffering']
+27841,"['siri', 'hustvedt']"
+11243,"['family', 'relationships']"
+21869,"['north', 'america']"
+246,"['books', 'list']"
+243,['books']
+270,"['must', 'reads']"
+23549,['physical']
+4107,['beautiful']
+26699,"['scanned', 'books']"
+229,['books']
+31298,['tsundoku']
+13419,['goosebumps']
+24796,['stine']
+25977,['stine']
+33887,"['صرخة', 'الرعب']"
+3194,['kid']
+13421,"['goosebumps', 'series']"
+29443,"['ted', 'dekker']"
+9237,['dekker']
+7243,"['christmas', 'stories']"
+7242,"['christmas', 'reads']"
+14695,"['holiday', 'books']"
+16655,['journalists']
+31111,['trains']
+10594,"['life', 'book', 'club']"
+20293,"['modern', 'library', 'best']"
+18750,"['lurlene', 'mcdaniel']"
+28660,"['stephen', 'hunter']"
+12361,"['forensic', 'mysteries']"
+20986,"['mystery', 'series']"
+18673,['lovecraft']
+13828,['lovecraft']
+8629,"['cthulhu', 'mythos']"
+32303,"['weird', 'fiction']"
+18677,['lovecraftian']
+19598,"['mcnaught', 'judith']"
+19817,['mermaids']
+90,['folklore']
+18173,"['lift', 'flap']"
+23013,"['parenting', 'books']"
+24193,"['pregnancy', 'parenting']"
+3750,"['baby', 'parenting']"
+3758,"['baby', 'stuff']"
+26381,"['russian', 'history']"
+5768,"['british', 'history']"
+18324,"['literary', 'criticism']"
+21685,['fic']
+11123,['factual']
+11464,['fav']
+25816,['revenge']
+2686,['antarctica']
+6109,"['caldecott', 'medal']"
+6113,"['caldecott', 'winners']"
+31093,"['traditional', 'literature']"
+6099,"['caldecott', 'award']"
+6103,"['caldecott', 'books']"
+14477,"['historical', 'crime']"
+7362,['sansom']
+19472,"['matthew', 'shardlake']"
+27476,['shardlake']
+31309,['tudor']
+11061,['exploration']
+1808,"['agatha', 'raisin']"
+8427,['cozy']
+18793,['beaton']
+2423,['anchee']
+2931,"['around', 'world', 'books']"
+3225,"['asian', 'culture']"
+7025,"['chinese', 'history']"
+7027,"['chinese', 'literature']"
+22509,['oriental']
+3219,"['asian', 'american']"
+4588,"['biographical', 'fiction']"
+7026,"['chinese', 'lit']"
+28126,['sookie']
+31253,"['true', 'blood']"
+28128,"['sookie', 'stackhouse', 'series']"
+14001,['harris']
+20598,"['mrs', 'pollifax']"
+9786,"['dorothy', 'gilman']"
+8702,"['curious', 'george']"
+18634,"['louise', 'erdrich']"
+21877,"['north', 'dakota']"
+15315,['immigrants']
+19469,"['matthew', 'reilly']"
+23219,['pendragon']
+17452,"['kristen', 'britain']"
+6471,"['cecelia', 'ahern']"
+2064,"['alistair', 'maclean']"
+19394,"['mary', 'poppins']"
+16021,"['jackie', 'collins']"
+31148,['trashy']
+18725,"['lucky', 'santangelo']"
+18726,"['lucky', 'santangelo', 'series']"
+7683,"['collins', 'jackie']"
+18722,['lucky']
+10425,"['elin', 'hilderbrand']"
+3816,['baking']
+19405,"['maryjanice', 'davidson']"
+31472,['undead']
+31473,"['undead', 'series']"
+19388,"['mary', 'janice', 'davidson']"
+24721,"['queen', 'betsy']"
+9067,['davidson']
+9070,"['davidson', 'maryjanice']"
+18107,['librivox']
+16491,"['john', 'buchan']"
+11542,"['favorite', 'picture', 'books']"
+6104,"['caldecott', 'challenge']"
+27009,['seasons']
+6112,"['caldecott', 'winner']"
+6242,"['captain', 'underpants']"
+9006,"['dav', 'pilkey']"
+969,['grade']
+9730,['donated']
+24164,"['pre', 'goodreads']"
+27212,"['series', 'books']"
+5300,['books']
+16027,['jacob']
+25165,['elementary']
+4262,['books']
+32513,"['william', 'gibson']"
+13168,['gibson']
+20214,"['mitch', 'rapp', 'series']"
+20211,['mitch']
+7303,['cia']
+24911,['rapp']
+21572,['nightside']
+27794,"['simon', 'green']"
+19228,"['margaret', 'peterson', 'haddix']"
+32982,['last']
+25895,"['richard', 'paul', 'evans']"
+10957,['evans']
+10960,"['evans', 'richard', 'paul']"
+17749,"['lds', 'authors']"
+10522,"['emily', 'windsnap']"
+19815,['mermaid']
+19816,"['mermaid', 'books']"
+18450,"['liz', 'kessler']"
+20501,"['mother', 'daughter', 'book', 'club']"
+10523,"['emily', 'windsnap', 'series']"
+15960,['fiction']
+16571,"['john', 'wyndham']"
+24268,"['pretty', 'little', 'liars']"
+27833,"['sir', 'arthur', 'conan', 'doyle']"
+13502,['graffiti']
+10458,"['elizabeth', 'strout']"
+20500,"['mother', 'daughter']"
+11226,"['family', 'drama']"
+33226,['zane']
+27809,"['sinclair', 'lewis']"
+27123,['selfhelp']
+24543,"['psychology', 'self', 'help']"
+27098,"['self', 'help', 'books']"
+18151,"['life', 'lessons']"
+6179,"['canada', 'reads']"
+20363,"['mommy', 'books']"
+2039,"['alice', 'hoffman']"
+18193,['lightning']
+31797,['veganism']
+14143,"['health', 'nutrition']"
+14145,"['health', 'wellness']"
+13552,"['graphic', 'novel', 'comics']"
+29497,['tegneserier']
+4050,['tintin']
+2206,['alzheimers']
+27749,"['siege', 'leningrad']"
+1847,['aging']
+1668,"['adult', 'fiction']"
+23332,"['personal', 'dev']"
+7978,"['conflict', 'resolution']"
+805,['books']
+20133,['ministry']
+25505,['recommendations']
+23346,"['personal', 'improvement']"
+5956,"['business', 'leadership']"
+13213,"['gilmore', 'girls', 'reading', 'challenge']"
+13205,"['gilmore', 'challenge']"
+6876,"['children', 'lit']"
+32439,['wicca']
+22870,['pagan']
+3646,['avalon']
+4251,"['belva', 'plain']"
+29549,"['terri', 'blackstock']"
+27758,"['sigma', 'force']"
+6710,['chesterton']
+12737,['chesterton']
+26065,"['robyn', 'carr']"
+4223,['belgariad']
+11409,['farm']
+17391,['kobo']
+7426,"['classic', 'mystery']"
+23883,['poldark']
+23415,['pets']
+1938,['alaska']
+2568,"['animal', 'rights']"
+32566,['winter']
+20257,['willems']
+27479,['sharing']
+23635,['pigeon']
+9531,"['dirk', 'pitt', 'series']"
+7539,['clive']
+1696,"['adventure', 'fiction']"
+8734,"['cussler', 'pitt']"
+11750,"['fiction', 'adventure']"
+7543,"['clive', 'cussler', 'dirk', 'pitt']"
+23684,['pitt']
+9525,['dirk']
+12096,"['flagg', 'fannie']"
+1920,['alabama']
+2297,"['american', 'girl']"
+4086,['bears']
+4287,"['berenstain', 'bears']"
+24115,['poésie']
+23822,['poesie']
+21126,['naruto']
+12915,"['gemma', 'halliday']"
+6364,"['cassandra', 'palmer']"
+6365,"['cassandra', 'palmer', 'series']"
+15316,['immigration']
+7313,['cinderella']
+31089,['traditional']
+31092,"['traditional', 'lit']"
+15952,['robb']
+16261,['jdrobb']
+21072,"['nalini', 'singh']"
+24489,"['psy', 'changeling']"
+17459,"['kristin', 'hannah']"
+10592,['world']
+24054,"['post', 'apocalyptic', 'fiction']"
+29536,['teotwawki']
+22356,['shelves']
+21817,"['nook', 'books']"
+31863,"['victorian', 'lit']"
+22813,"['owned', 'tbr']"
+521,"['century', 'lit']"
+26027,"['robert', 'louis', 'stevenson']"
+28710,['stevenson']
+30696,['horror']
+14860,['horror']
+28415,['spooky']
+30326,"['thomas', 'tryon']"
+14841,"['horror', 'mystery']"
+31331,"['turkish', 'literature']"
+31405,"['türk', 'edebiyatı']"
+7987,"['conn', 'iggulden']"
+10552,['emperor']
+2002,"['alex', 'rider', 'series']"
+28471,"['spy', 'books']"
+14817,['horowitz']
+3687,['awesome']
+1549,"['action', 'packed']"
+7704,['colors']
+31689,['andrews']
+31783,['andrews']
+10436,"['elizabeth', 'berg']"
+10787,"['eric', 'jerome', 'dickey']"
+18222,"['lincoln', 'rhyme']"
+9163,['deaver']
+16308,"['jeffrey', 'deaver']"
+284,['grade']
+24840,['racism']
+16758,"['junior', 'year']"
+5532,['bowie']
+28146,"['sophomore', 'year']"
+2623,"['ann', 'rule']"
+3755,"['baby', 'sitters', 'club']"
+5860,['bsc']
+3764,"['babysitters', 'club']"
+2617,"['ann', 'martin']"
+29629,"['baby', 'sitters', 'club']"
+2474,"['andrew', 'clements']"
+21639,['talking']
+8089,['contest']
+18549,['longmire']
+20422,['moon']
+4941,"['book', 'awards']"
+18119,['libs']
+4940,"['book', 'award']"
+10493,"['elvis', 'cole']"
+20470,['morocco']
+6057,['box']
+17726,"['law', 'attraction']"
+9422,"['diana', 'wynne', 'jones']"
+9791,"['dorothy', 'sayers']"
+5779,"['british', 'mystery']"
+13337,"['golden', 'age', 'mystery']"
+11803,"['fiction', 'mystery']"
+20953,"['mystery', 'classic']"
+13336,"['golden', 'age', 'mysteries']"
+7425,"['classic', 'mysteries']"
+32544,['wimsey']
+26666,"['sayers', 'dorothy']"
+20952,"['mystery', 'british']"
+13335,"['golden', 'age']"
+9350,"['detective', 'novels']"
+3975,['basketball']
+3448,"['austen', 'inspired']"
+34249,['ｍａｎｇａ']
+4302,['berserk']
+19784,['mental']
+18863,['madness']
+19737,"['memoir', 'bio']"
+29182,"['systematic', 'theology']"
+2332,"['american', 'west']"
+29897,"['last', 'apprentice']"
+16629,"['joseph', 'delaney']"
+17626,"['last', 'apprentice']"
+32163,"['wardstone', 'chronicles']"
+6362,"['cassandra', 'clare']"
+29969,"['mortal', 'instruments']"
+20476,"['mortal', 'instruments']"
+27432,['shadowhunters']
+8124,"['cook', 'robin']"
+19655,"['medical', 'thrillers']"
+19640,"['medical', 'fiction']"
+19646,"['medical', 'mystery']"
+8110,['cook']
+14707,['holiness']
+29457,"['teen', 'books']"
+659,['reads']
+33034,['novels']
+10181,['easy']
+24171,"['pre', 'teen']"
+29458,"['teen', 'chick', 'lit']"
+14561,"['history', 'ancient']"
+17310,"['kinsey', 'milhone']"
+20409,['montana']
+4863,"['body', 'language']"
+24545,"['psychology', 'sociology']"
+10649,"['english', 'books']"
+31734,"['vampire', 'kisses']"
+26563,"['sands', 'lynsay']"
+10471,['schreiber']
+31736,"['vampire', 'knight']"
+4441,['bibles']
+2199,"['always', 'reading']"
+16036,"['jacqueline', 'wilson']"
+13146,"['ghost', 'story']"
+19380,"['mary', 'downing', 'hahn']"
+5844,"['brown', 'sandra']"
+18904,"['magic', 'tree', 'house']"
+18907,"['magic', 'treehouse']"
+18906,"['magic', 'tree', 'house', 'series']"
+19393,"['mary', 'pope', 'osborne']"
+20648,['mummies']
+18908,"['magic', 'treehouse', 'series']"
+18905,"['magic', 'tree', 'house', 'books']"
+16532,"['john', 'carre']"
+17773,['carre']
+28480,"['spy', 'stories']"
+17828,['lecarre']
+19103,"['manga', 'graphic', 'novels']"
+27723,['shōnen']
+32184,['warrior']
+10803,"['erin', 'hunter', 'books']"
+32189,"['warriors', 'books']"
+32185,"['warrior', 'books']"
+6397,['books']
+15087,"['hunter', 'erin']"
+32192,"['warriors', 'fire', 'ice']"
+11988,"['finished', 'series']"
+12082,"['five', 'stars']"
+24963,['reading']
+1105,['grade']
+22241,['old']
+32190,"['warriors', 'cats']"
+32191,"['warriors', 'erin', 'hunter']"
+2565,"['animal', 'pov']"
+3120,['arte']
+18262,"['lisa', 'jackson']"
+28320,"['spiderwick', 'chronicles']"
+28319,['spiderwick']
+14717,"['holly', 'black']"
+30111,"['spiderwick', 'chronicles']"
+6105,"['caldecott', 'honor']"
+27734,['siblings']
+19979,"['middle', 'grade', 'fiction']"
+6907,"['children', 'fantasy']"
+783,['reads']
+27314,['series']
+22810,['owned']
+30955,"['tony', 'diterlizzi']"
+98,['fantasy']
+5921,['bunnicula']
+27699,['shoujo']
+27640,['shojo']
+19125,"['manga', 'manhwa']"
+27901,"['skulduggery', 'pleasant']"
+9206,"['dee', 'henderson']"
+1790,['afterlife']
+22298,"['omar', 'tyree']"
+31621,"['urban', 'lit']"
+31615,"['urban', 'books']"
+4685,"['black', 'authors']"
+20829,['favs']
+4701,"['black', 'experience']"
+20818,['faves']
+25378,"['reading', 'like', 'writer']"
+14423,['hinduism']
+10163,['eastern']
+26575,['sanskrit']
+14421,['hindu']
+2446,"['ancient', 'texts']"
+10170,"['eastern', 'religion']"
+28376,"['spiritual', 'religious']"
+23226,['penguin']
+31786,['vedanta']
+25662,"['religion', 'hinduism']"
+3297,['home']
+23216,['pending']
+26966,['scripture']
+15749,['inventory']
+25675,"['religion', 'spirituality', 'philosophy']"
+2449,['ancients']
+33099,"['yoga', 'meditation']"
+33101,"['yoga', 'teacher', 'training']"
+26457,"['sacred', 'texts']"
+32801,"['world', 'religions']"
+25706,"['religious', 'texts']"
+3310,"['atheism', 'religion']"
+30822,['spirituality']
+2680,['anonymous']
+33096,"['yoga', 'meditation']"
+10168,"['eastern', 'literature']"
+31597,['upanishads']
+15440,['incomplete']
+3718,['lit']
+13306,['goals']
+33098,"['yoga', 'eastern']"
+25711,"['religon', 'spirituality', 'mythology']"
+33513,"['اسطوره', 'شناسی']"
+14424,"['hinduism', 'yoga']"
+26118,"['rollins', 'james']"
+27759,"['sigma', 'force', 'series']"
+27757,['sigma']
+24627,"['pulitzer', 'prize', 'fiction']"
+24631,"['pulitzer', 'prize', 'winner']"
+24638,"['pulitzer', 'winner']"
+8631,['cuban']
+24616,"['pulitzer', 'fiction', 'winners']"
+24636,"['pulitzer', 'project']"
+24374,"['prize', 'winners']"
+17656,"['latino', 'lit']"
+24641,"['pulitzer', 'winners', 'fiction']"
+18620,['lottery']
+7264,"['chronicles', 'ancient', 'darkness']"
+27848,"['sisters', 'grimm']"
+30103,"['sisters', 'grimm']"
+19890,"['michael', 'buckley']"
+13715,['grimm']
+12448,"['fractured', 'fairy', 'tales']"
+13227,"['girl', 'power']"
+11156,"['fairy', 'tales', 'retold']"
+15998,"['jack', 'higgins']"
+14356,"['higgins', 'jack']"
+32138,['fiction']
+14353,['higgins']
+18020,"['liam', 'devlin']"
+32922,"['wwii', 'fiction']"
+5567,"['boxcar', 'children']"
+29677,"['boxcar', 'children']"
+23466,"['philosophical', 'fiction']"
+20194,['missions']
+18034,['libertarian']
+19008,"['malorie', 'blackman']"
+21979,"['noughts', 'crosses']"
+9563,['discrimination']
+10083,['dystopie']
+17707,"['lauren', 'myracle']"
+31300,['ttyl']
+15710,"['internet', 'girls']"
+4151,"['bedtime', 'stories']"
+23802,['poc']
+2858,['archaeology']
+9806,"['douglas', 'preston', 'lincoln', 'child']"
+18668,"['love', 'triangle']"
+6313,['carpathian']
+6315,"['carpathian', 'series']"
+21297,['negotiation']
+16542,"['john', 'ortberg']"
+22215,['office']
+28349,"['spiritual', 'development']"
+16376,"['jesus', 'books']"
+7169,"['christian', 'religion']"
+23285,['performing']
+11922,['films']
+20516,['motion']
+23594,['pictur']
+7316,['cinema']
+26957,['screenplays']
+31870,['video']
+20253,['mnemonic']
+16573,['johnny']
+29506,['television']
+28294,['specific']
+29593,['texts']
+1229,"['grade', 'shelf']"
+5832,['brothers']
+4708,"['black', 'history']"
+1765,"['african', 'american', 'studies']"
+4680,['black']
+29095,"['suzanne', 'collins']"
+10478,"['ellis', 'peters']"
+5823,"['brother', 'cadfael']"
+32038,['wales']
+7282,"['church', 'books']"
+17751,"['lds', 'books']"
+20458,['mormon']
+20466,['mormonism']
+17762,"['lds', 'fiction']"
+25364,['reading']
+13430,['gospel']
+25686,"['religious', 'books']"
+26969,['scriptures']
+14751,"['holy', 'spirit']"
+18434,['living']
+7293,"['church', 'ministry']"
+21463,"['newbery', 'awards']"
+21476,['newbury']
+21453,"['newberry', 'medal']"
+21475,['newberys']
+21460,"['newbery', 'award', 'books']"
+21448,"['newberry', 'award']"
+21471,"['newbery', 'medal', 'winner']"
+21451,"['newberry', 'books']"
+14981,"['hugh', 'lofting']"
+21461,"['newbery', 'award', 'winner']"
+2417,['anatomy']
+27488,['sharpe']
+2645,"['anne', 'bronte']"
+29325,"['tbr', 'classics']"
+7476,"['classics', 'tbr']"
+31869,['victorians']
+5757,"['british', 'classics']"
+15817,"['irish', 'literature']"
+16663,['joyce']
+1977,"['alex', 'berenson']"
+6419,"['catherine', 'coulter']"
+26242,['rory']
+26261,"['rory', 'gilmore', 'reading', 'challenge']"
+8909,"['danish', 'literature']"
+26248,"['rory', 'gilmore', 'book', 'list']"
+13217,"['gilmore', 'reading', 'list']"
+6886,"['children', 'picture', 'books']"
+13209,"['gilmore', 'girls', 'book', 'list']"
+13212,"['gilmore', 'girls', 'list']"
+26249,"['rory', 'gilmore', 'booklist']"
+26250,"['rory', 'gilmore', 'books']"
+8912,['dansk']
+11708,"['fever', 'series']"
+11706,['fever']
+11589,"['favourite', 'series']"
+17081,"['kick', 'ass', 'heroines']"
+4317,"['best', 'books', 'ever']"
+12034,"['first', 'series']"
+33049,['series']
+27238,"['series', 'finished']"
+33138,"['young', 'adults']"
+33036,"['paranormal', 'romance']"
+698,['reads']
+1076,['star']
+17084,"['kickass', 'heroines']"
+29018,"['supernatural', 'paranormal']"
+22991,"['paranormal', 'urban', 'fantasy']"
+15569,['informational']
+13979,"['harlem', 'renaissance']"
+4856,"['bodice', 'ripper']"
+2135,"['alpha', 'hero']"
+24908,['rape']
+2538,['angst']
+4857,"['bodice', 'rippers']"
+2541,['angsty']
+16978,['keeper']
+26162,"['romance', 'novels']"
+26177,['romances']
+19597,['mcnaught']
+24039,"['possessive', 'hero']"
+9994,['duke']
+27163,"['septimus', 'heap']"
+2526,"['angie', 'sage']"
+15469,"['indian', 'history']"
+13865,['half']
+23157,['paused']
+15457,"['india', 'history']"
+12580,['freud']
+24482,['psicología']
+7183,"['christian', 'suspense']"
+11991,['finnish']
+11994,"['finnish', 'literature']"
+11990,['finland']
+17359,['klassikot']
+19574,['mccarthy']
+6478,"['cedar', 'cove']"
+18835,"['macomber', 'debbie']"
+6479,"['cedar', 'cove', 'series']"
+18834,['macomber']
+13619,"['great', 'depression']"
+1054,['trimester']
+29311,"['taylor', 'caldwell']"
+17917,"['leo', 'lionni']"
+13334,['golden']
+25806,['retriever']
+25772,['rescue']
+24357,['private']
+20090,['millhone']
+9389,['devotionals']
+18187,"['light', 'reading']"
+23789,"['plum', 'sykes']"
+13795,['guiltypleasures']
+6772,['chiclit']
+20918,"['myron', 'bolitar', 'series']"
+13980,"['harlen', 'coben']"
+4885,['bolitar']
+20914,['myron']
+13976,"['harlan', 'coben', 'myron', 'bolitar']"
+31493,"['underland', 'chronicles']"
+13689,['gregor']
+3676,"['award', 'winner']"
+16265,"['jean', 'craighead', 'george']"
+9444,"['diary', 'wimpy', 'kid']"
+1996,"['alex', 'kava']"
+6441,"['cathy', 'glass']"
+6786,"['child', 'abuse']"
+20025,"['mike', 'lupica']"
+31729,"['vampire', 'diaries']"
+30163,"['vampire', 'diaries']"
+17523,['smith']
+18458,['smith']
+31755,['vampiros']
+16079,"['james', 'herbert']"
+16069,"['james', 'clavell']"
+26409,['rwanda']
+33272,['zoo']
+6982,"['childrens', 'picture']"
+24685,"['put', 'zoo']"
+33142,"['young', 'children']"
+5143,"['books', 'kids']"
+30899,['toddler']
+23623,['picturebook']
+25313,['kids']
+17593,"['language', 'arts']"
+1007,['star']
+136,"['books', 'kindergarten']"
+7430,"['classic', 'picture', 'books']"
+5155,"['books', 'boys']"
+23708,"['planet', 'apes']"
+27062,"['seen', 'movie']"
+32224,"['watched', 'movie']"
+8705,"['current', 'affairs']"
+17875,['lehane']
+18578,"['loretta', 'chase']"
+31016,"['tortured', 'hero']"
+34235,['ℱａｖｏｒｉｔｅｓ']
+5472,['borges']
+16618,"['jorge', 'luis', 'borges']"
+9141,"['dear', 'dumb', 'diary']"
+21440,"['new', 'zealand']"
+29653,['big']
+4016,['bbc']
+4034,"['bbc', 'big']"
+16230,"['jaqueline', 'wilson']"
+4031,"['bbc', 'list']"
+4024,"['bbc', 'big', 'top']"
+16037,"['jacqueline', 'wilson', 'books']"
+12413,['foster']
+4020,['bbc']
+31073,"['tracy', 'beaker']"
+16044,"['jacquline', 'wilson']"
+4039,"['bbc', 'top']"
+204,['books']
+25187,"['primary', 'school']"
+24297,"['primary', 'school']"
+4033,"['bbc', 'big']"
+4036,['bbc']
+4389,['betsy']
+24722,"['queen', 'betsy', 'series']"
+9069,"['davidson', 'mary', 'janice']"
+21526,"['nicholas', 'evans']"
+23394,"['peter', 'hamilton']"
+13320,['gods']
+16431,['nesbo']
+14015,"['harry', 'hole']"
+21334,['nesbo']
+17441,['krim']
+16433,['nesbø']
+16910,"['kate', 'mosse']"
+29281,['tarot']
+17602,['languedoc']
+27928,"['slice', 'life']"
+33108,['yotsuba']
+12804,['gambling']
+19212,['march']
+115,"['realistic', 'fiction']"
+1454,['abhorsen']
+15833,"['irvine', 'welsh']"
+26946,"['scottish', 'fiction']"
+32329,['welsh']
+31126,"['transgressive', 'fiction']"
+16381,['jeunesse']
+24645,['pullman']
+21541,"['nicolas', 'sparks']"
+23221,"['pendragon', 'series']"
+33999,"['قصص', 'قصيرة']"
+23904,"['polish', 'lit']"
+17897,['lektury']
+6904,"['children', 'classic']"
+22959,"['papua', 'new', 'guinea']"
+22180,['oceania']
+5075,"['booker', 'shortlist']"
+28202,"['south', 'pacific']"
+5071,"['booker', 'prize', 'shortlist']"
+13620,"['great', 'expectations']"
+21441,"['new', 'zealand', 'author']"
+29386,['teachers']
+15873,['island']
+5508,['botns']
+21442,"['new', 'zealand', 'authors']"
+21384,['new']
+22859,"['pacific', 'islands']"
+25375,"['reading', 'group']"
+18469,"['lloyd', 'jones']"
+15861,['islamic']
+12165,['folktales']
+12163,['folktale']
+10602,"['ender', 'game']"
+10608,"['ender', 'series']"
+10604,"['ender', 'saga']"
+10607,"['ender', 'saga']"
+10609,"['enders', 'game']"
+10610,"['enders', 'saga']"
+22536,['osc']
+23268,"['percy', 'jackson', 'olympians']"
+28492,['squirrels']
+31688,['andrews']
+9043,"['david', 'gemmell']"
+12791,"['gallagher', 'girls']"
+2126,"['ally', 'carter']"
+12792,"['gallagher', 'girls', 'series']"
+205,['books']
+20415,['months']
+19487,"['maurice', 'sendak']"
+11514,"['favorite', 'childrens', 'books']"
+24089,"['potential', 'reading', 'log']"
+14255,"['henderson', 'dee']"
+22138,"['malley', 'series']"
+14254,['henderson']
+28545,"['star', 'wars', 'canon']"
+12489,"['frankenstein', 'series']"
+10852,['esoterica']
+7132,"['christian', 'history']"
+20166,['miscellaneous']
+32219,['watched']
+18848,"['made', 'movie']"
+5257,['books']
+11178,"['faith', 'god']"
+4617,"['biography', 'memoirs']"
+2359,['amnesia']
+5337,['books']
+19761,"['memory', 'loss']"
+5338,['books']
+19751,"['memoirs', 'bios']"
+5359,['books']
+2071,['books']
+5406,['books']
+2156,['already']
+25423,"['real', 'life']"
+177,['star']
+5433,"['books', 'movies']"
+1584,['adaptation']
+24577,"['public', 'library']"
+5288,"['books', 'movies']"
+10562,['emprestados']
+7869,['commitment']
+26642,"['saudi', 'arabia']"
+12918,['gemmell']
+12919,"['gemmell', 'david']"
+9925,"['drenai', 'saga']"
+7514,['clifford']
+27735,['sicily']
+32169,['warhammer']
+14882,"['horus', 'heresy']"
+32166,['warhammer']
+8471,['creative']
+15658,['instructional']
+29591,['textbooks']
+14675,['hobbies']
+3082,"['art', 'reference']"
+5606,['brain']
+27881,['skills']
+9901,['draw']
+31951,['visual']
+2995,"['art', 'creativity']"
+2954,"['art', 'creativity']"
+3101,"['art', 'technique']"
+15288,['illustration']
+3175,"['arts', 'crafts']"
+9625,['diy']
+2977,"['art', 'artists']"
+3076,"['art', 'photography']"
+1196,"['books', 'need']"
+2967,"['art', 'architecture']"
+8433,['craft']
+3769,"['back', 'burner']"
+3102,"['art', 'techniques']"
+29590,['textbook']
+2951,"['art', 'craft']"
+2992,"['art', 'craft']"
+22570,['others']
+30599,['art']
+3179,['artsy']
+15686,['interesting']
+17804,['learn']
+1194,['books']
+5410,['books']
+21285,['need']
+5414,"['books', 'twenties']"
+19196,['manuali']
+3080,"['art', 'practical']"
+3013,"['art', 'education']"
+15212,"['ian', 'rankin']"
+25473,['rebus']
+32552,"['wings', 'fire']"
+2765,['apj']
+1447,"['abdul', 'kalam']"
+3594,"['auto', 'biographies']"
+1359,"['abdul', 'kalam']"
+16845,['kalam']
+20815,['fav']
+4991,['book']
+1027,['books']
+114,['preschoolers']
+12395,"['format', 'picture', 'book']"
+12729,['fantasy']
+13741,['growing']
+6701,['cherub']
+6685,"['chelsea', 'cain']"
+27187,"['serial', 'killer']"
+13695,"['gretchen', 'lowell']"
+20933,"['mysteries', 'thrillers']"
+22487,['oregon']
+6087,"['cain', 'chelsea']"
+11638,"['felix', 'castor']"
+20024,"['mike', 'carey']"
+29118,"['sweep', 'series']"
+20015,['might']
+27315,"['series', 'start']"
+19530,['maybe']
+18922,['magick']
+32627,"['witches', 'magic']"
+33057,['witches']
+32624,"['witches', 'magic']"
+32612,"['witch', 'books']"
+25770,['rereads']
+18608,"['lost', 'interest']"
+14804,['hoopla']
+8017,['considering']
+32625,"['witches', 'warlocks']"
+32635,"['witchy', 'fiction']"
+14921,"['house', 'night', 'series']"
+23166,['cast']
+31355,['twain']
+19160,['manga']
+27722,['shōjo']
+19151,"['manga', 'shoujo']"
+27643,"['shojo', 'manga']"
+2901,"['arina', 'tanemura']"
+27701,"['shoujo', 'manga']"
+19072,"['manga', 'books']"
+30729,['manga']
+19102,"['manga', 'graphic', 'novel']"
+19064,"['manga', 'comics']"
+22789,"['owned', 'manga']"
+19109,['manga']
+19140,"['manga', 'owned']"
+19149,"['manga', 'shojo']"
+19077,"['manga', 'collection']"
+13575,"['graphic', 'novels', 'manga']"
+19142,"['manga', 'romance']"
+22698,['manga']
+19171,['mangas']
+25226,['mangas']
+11535,"['favorite', 'manga']"
+19127,"['manga', 'manhwa', 'manhua']"
+19146,"['manga', 'series']"
+19108,['manga']
+7763,"['comic', 'manga']"
+2595,"['anime', 'manga']"
+19111,['manga']
+20856,['manga']
+19115,"['manga', 'ive']"
+29803,"['gentlemen', 'alliance']"
+6442,"['cathy', 'hopkins']"
+17607,"['lara', 'adrian']"
+19997,"['midnight', 'breed']"
+297,['century']
+33104,['york']
+32554,['winkle']
+25945,['rip']
+23662,['pinkalicious']
+23658,['pink']
+31145,['transportation']
+34173,"['نجيب', 'محفوظ']"
+21069,"['naguib', 'mahfouz']"
+33804,"['روايات', 'عربية']"
+10348,"['egyptian', 'literature']"
+19968,"['middle', 'eastern']"
+21758,['western']
+3958,"['baseball', 'books']"
+31156,"['travel', 'adventure']"
+21205,"['nature', 'writing']"
+20540,['mountains']
+14420,['himalayas']
+12061,['fish']
+8423,['cows']
+11410,"['farm', 'animals']"
+18471,['lmm']
+16479,"['johanna', 'lindsey']"
+19309,['marlowe']
+2046,"['alice', 'sebold']"
+11107,['fablehaven']
+17419,['korea']
+3999,['bats']
+1518,['acceptance']
+31939,"['virginia', 'andrews']"
+6381,"['casteel', 'series']"
+19910,"['michael', 'morpurgo']"
+32140,['horse']
+6763,"['chicken', 'soup']"
+26189,"['romanian', 'literature']"
+26183,['romanian']
+1294,['milne']
+32556,"['winnie', 'pooh']"
+23966,['pooh']
+25472,['reborn']
+6454,"['cause', 'effect']"
+12024,"['first', 'day', 'school']"
+17683,"['laura', 'numeroff']"
+3772,"['back', 'school']"
+20542,['mouse']
+27175,['sequencing']
+17363,"['kleypas', 'lisa']"
+32055,['wallflowers']
+17361,['kleypas']
+3544,"['author', 'lisa', 'kleypas']"
+14465,"['historic', 'romance']"
+32054,['wallflower']
+22447,"['opposites', 'attract']"
+31867,"['victorian', 'romance']"
+14540,['historicalromance']
+29679,['breadwinner']
+1109,['quarter']
+1086,"['book', 'challenge']"
+29240,['taliban']
+18710,['ltcy']
+9611,['diversity']
+20627,"['multicultural', 'literature']"
+1052,['quarter']
+5667,['breadwinner']
+6598,"['chapter', 'books']"
+9179,"['deborah', 'ellis']"
+16252,['jazz']
+27923,['sleep']
+6798,"['child', 'development']"
+25357,['reader']
+28460,['spring']
+28108,['sonlight']
+25085,"['children', 'books']"
+25332,['kids']
+17974,['level']
+10126,"['early', 'chapter', 'book']"
+13485,['grade']
+8850,"['dale', 'brown']"
+3946,['barsoom']
+19335,['mars']
+29148,"['sword', 'planet']"
+26470,['safety']
+27091,"['self', 'esteem']"
+17048,"['kevin', 'henkes']"
+11632,['feelings']
+21076,['names']
+28018,"['social', 'emotional']"
+10549,['emotions']
+23196,"['peer', 'instructor']"
+10268,['edci']
+2741,['anxiety']
+26167,"['romance', 'regency']"
+14525,"['historical', 'regency']"
+30959,"['tony', 'hillerman']"
+28264,"['spanish', 'civil']"
+6060,['sansom']
+16929,"['kathleen', 'woodiwiss']"
+16924,"['kathleen', 'woodiwiss']"
+32749,['woodiwiss']
+12481,"['frank', 'lloyd', 'wright']"
+32762,"['wordless', 'picture', 'books']"
+17928,['leprosy']
+31858,"['victoria', 'hislop']"
+8511,['crete']
+5583,['boys']
+12020,"['first', 'chapter', 'books']"
+6595,['chapter']
+17128,"['kids', 'book']"
+22534,['osborne']
+25326,['boys']
+15991,"['jack', 'annie']"
+16754,"['junie', 'jones']"
+16752,['junie']
+31132,"['transitional', 'chapter', 'books']"
+16753,"['junie', 'jones']"
+9205,['dee']
+15816,"['irish', 'lit']"
+19034,"['booker', 'winners']"
+5072,"['booker', 'prize', 'winner']"
+15811,"['irish', 'authors']"
+19031,"['booker', 'prize', 'winner']"
+2646,"['anne', 'enright']"
+22094,"['nursery', 'rhymes']"
+3649,['avatar']
+24476,"['pseudonymous', 'bosch']"
+27037,"['secret', 'series']"
+29175,['synesthesia']
+20693,"['music', 'related']"
+26084,"['rock', 'roll']"
+19749,"['memoirs', 'biographies']"
+26067,['rock']
+26068,"['rock', 'roll']"
+9297,['depression']
+19744,"['memoirs', 'biographies']"
+4577,['biografi']
+27011,['seattle']
+20680,"['music', 'bios']"
+26594,"['sarah', 'addison']"
+21876,"['north', 'carolina']"
+3438,['aussie']
+24329,"['printz', 'award']"
+4121,"['beautiful', 'writing']"
+4944,"['book', 'boyfriends']"
+15138,['cried']
+21369,['never']
+5669,"['breaking', 'dawn']"
+9738,['done']
+19862,"['meyer', 'stephenie']"
+29473,"['teen', 'reads']"
+29466,"['teen', 'lit']"
+6702,"['cherub', 'series']"
+26033,"['robert', 'muchamore']"
+21339,['netgalley']
+25154,['grade']
+29478,"['teen', 'spy']"
+25193,"['sixth', 'grade']"
+31317,['tunnels']
+31318,"['tunnels', 'series']"
+8337,"['cotton', 'malone']"
+4301,"['berry', 'steve']"
+4300,['berry']
+8339,"['cotton', 'malone', 'series']"
+2014,"['alexander', 'great']"
+14535,"['historical', 'thriller']"
+1708,"['adventure', 'thriller']"
+19007,['malone']
+30360,"['thriller', 'adventure']"
+23032,['parma']
+2338,['americans']
+24717,['quarterbacks']
+23991,['popular']
+22857,['pacific']
+31836,['veterans']
+26003,['robert']
+21125,['narratives']
+6154,['campaigns']
+17829,['leckie']
+2881,['area']
+895,['reads']
+3654,['aventuras']
+3653,['aventura']
+18246,"['linwood', 'barclay']"
+24018,"['portuguese', 'lit']"
+11091,"['eça', 'queirós']"
+21057,['estante']
+24016,"['portuguese', 'classics']"
+10498,['portugues']
+10844,['escola']
+24015,"['portuguese', 'books']"
+7456,"['classicos', 'portugueses']"
+18758,['lusófonos']
+18754,['lusofonia']
+21056,['estante']
+10903,['estante']
+24020,"['portuguese', 'writers']"
+11731,['ficcao']
+18756,"['lusophone', 'authors']"
+24013,"['portuguese', 'author']"
+27510,['shelf']
+7567,['clássico']
+4464,"['biblioteca', 'pessoal']"
+3629,"['autores', 'lusófonos']"
+20128,['biblioteca']
+3903,"['barbara', 'delinsky']"
+23186,['peanuts']
+6641,"['charlie', 'brown']"
+14261,['henry']
+12522,['free']
+9190,['december']
+5360,['books']
+15215,['ibooks']
+12322,['kiddos']
+6867,"['children', 'books']"
+6870,"['children', 'christmas']"
+22694,"['keep', 'life']"
+21403,"['new', 'books', 'children']"
+7226,['christmas']
+6638,['charlie']
+23674,['piper']
+7229,"['christmas', 'books']"
+7244,"['christmas', 'story']"
+14701,"['holiday', 'reading']"
+15848,"['isabella', 'books']"
+25908,"['richelle', 'mead']"
+26721,"['scary', 'stories']"
+22839,['cast']
+19519,"['maya', 'banks']"
+29127,"['sweet', 'series']"
+29119,['sweet']
+3881,"['banks', 'maya']"
+13339,"['golden', 'books']"
+4294,['berlin']
+21043,['méxico']
+29929,"['lost', 'fleet']"
+29538,"['tere', 'liye']"
+19998,"['midnight', 'breed', 'series']"
+1639,"['adrian', 'lara']"
+1637,['adrian']
+3541,"['author', 'lara', 'adrian']"
+17608,"['lara', 'adrian', 'midnight', 'breed']"
+27275,"['series', 'midnight', 'breed']"
+19807,['meredith']
+13049,['gentry']
+2470,"['andrea', 'hirata']"
+21995,"['novel', 'indonesia']"
+16274,"['jeaniene', 'frost']"
+21555,"['night', 'huntress']"
+17080,"['kick', 'ass', 'heroine']"
+21556,"['night', 'huntress', 'series']"
+12633,"['frost', 'jeaniene']"
+17083,"['kickass', 'heroine']"
+3798,"['badass', 'heroine']"
+4844,"['bob', 'ong']"
+11898,['filipino']
+18955,"['maisie', 'dobbs']"
+16038,"['jacqueline', 'winspear']"
+23774,['pll']
+9787,"['dorothy', 'koomson']"
+29853,['host']
+19852,['metropop']
+25987,"['road', 'trip']"
+22922,"['pandora', 'hearts']"
+8802,['machale']
+28104,['songs']
+20393,['monkey']
+26364,['russa']
+15475,"['indian', 'mythology']"
+18933,['mahabharata']
+21022,"['mythological', 'fiction']"
+23803,"['poc', 'author']"
+11063,['exploratology']
+14422,"['hindu', 'mythology']"
+9610,"['diverse', 'reads']"
+9900,['draupadi']
+18932,['mahabharat']
+15291,"['ilona', 'andrews']"
+16903,"['kate', 'daniels']"
+6727,"['chibi', 'vampire']"
+27816,"['singh', 'nalini']"
+24490,"['psy', 'changeling', 'series']"
+3550,"['author', 'nalini', 'singh']"
+27717,"['shugo', 'chara']"
+29900,"['last', 'dragon', 'chronicles']"
+17628,"['last', 'dragon', 'chronicles']"
+7064,"['chris', 'lacey']"
+24229,['presentation']
+24232,['presentations']
+2063,"['alison', 'weir']"
+10448,['elizabeth']
+30146,['tudors']
+19239,"['maria', 'snyder']"
+7060,"['chris', 'bohjalian']"
+14016,"['harry', 'hole', 'series']"
+26692,"['scandinavian', 'noir']"
+22538,['oslo']
+21851,"['nordic', 'crime']"
+22618,['overdrive']
+29513,['temperance']
+26670,['scalzi']
+22251,['old']
+22253,"['old', 'mans']"
+19261,"['marisa', 'santos']"
+27041,['secrets']
+15706,"['international', 'relations']"
+13287,['globalization']
+13056,['geopolitics']
+12353,"['foreign', 'policy']"
+15705,"['international', 'politics']"
+12348,"['foreign', 'affairs']"
+13279,['global']
+23898,['policy']
+23939,"['politics', 'current', 'events']"
+22147,['obama']
+14612,"['history', 'politics']"
+23940,"['politics', 'economics']"
+23933,"['politics', 'economics']"
+12954,"['general', 'fiction']"
+8706,"['current', 'events']"
+12955,"['general', 'nonfiction']"
+2320,"['american', 'politics']"
+21161,"['national', 'security']"
+23942,"['politics', 'history']"
+33848,['سياسة']
+21785,"['nonfiction', 'general']"
+15707,"['international', 'studies']"
+23932,"['politics', 'current', 'events']"
+15702,"['international', 'development']"
+24578,"['public', 'policy']"
+23911,"['political', 'economy']"
+11405,"['fareed', 'zakaria']"
+2296,"['american', 'foreign', 'policy']"
+5635,"['brandon', 'mull']"
+9303,"['derek', 'landy']"
+12632,['frost']
+29035,['surfing']
+3466,"['australian', 'author']"
+3471,"['australian', 'fiction']"
+16077,"['james', 'frey']"
+11838,"['fiction', 'voodoo']"
+1889,['airhead']
+2629,"['anna', 'godbersen']"
+18764,['luxe']
+8890,['daniel']
+11678,"['feminist', 'literature']"
+27673,"['short', 'stories', 'novellas']"
+16902,"['kate', 'chopin']"
+671,['reads']
+5349,"['books', 'school']"
+26738,"['school', 'assigned']"
+7675,"['college', 'reading']"
+22029,"['novellas', 'short', 'stories']"
+12291,['college']
+7670,"['college', 'books']"
+28603,['statistics']
+18637,"['louise', 'penny']"
+1119,"['sigma', 'force', 'series']"
+27760,"['sigma', 'series']"
+15595,['inkworld']
+15591,['inkheart']
+15592,"['inkheart', 'trilogy']"
+31230,['trilogies']
+33984,['مكتبتي']
+34105,['محفوظ']
+192,"['best', 'books', 'time']"
+33607,"['اولاد', 'حارتنا']"
+34153,['مكتبتى']
+33483,['ادب']
+6473,"['cecilia', 'ahern']"
+11146,"['fairy', 'tail']"
+9424,"['diane', 'chamberlain']"
+12922,"['gena', 'showalter']"
+18573,"['lords', 'underworld']"
+27708,['showalter']
+33381,"['أحلام', 'مستغانمي']"
+33473,"['احلام', 'مستغانمي']"
+33741,"['ذاكرة', 'الجسد']"
+33380,"['أحلام', 'مستغانمى']"
+33472,"['احلام', 'مستغانمى']"
+1859,['ahlam']
+33471,['احلام']
+1860,"['ahlam', 'mosteghanemi']"
+33528,"['الأدب', 'العربي']"
+34031,"['كتب', 'عربية']"
+33807,"['روايات', 'عربيه']"
+33510,['استعارة']
+16125,"['james', 'potter']"
+23956,['polygamy']
+34066,['تحزن']
+34026,"['كتب', 'دينية']"
+34068,['لاتحزن']
+4799,"['blue', 'bloods']"
+8955,"['dark', 'swan']"
+8956,"['dark', 'swan', 'series']"
+19940,"['mickey', 'haller']"
+19941,"['mickey', 'haller', 'series']"
+15081,"['hunger', 'games']"
+29858,"['hunger', 'games']"
+26542,['sanderson']
+8324,['cosmere']
+8967,"['darkest', 'powers']"
+31724,"['vampire', 'academy']"
+31726,"['vampire', 'academy', 'series']"
+4695,"['black', 'dagger']"
+16581,"['jojo', 'moyes']"
+1039,['clues']
+15274,"['iles', 'greg']"
+23246,"['penn', 'cage']"
+15273,['iles']
+20196,['mississippi']
+23247,"['penn', 'cage', 'series']"
+9676,['fighting']
+20351,['mom']
+5314,['books']
+13682,"['greg', 'iles', 'first', 'edition']"
+13683,"['greg', 'iles', 'penn', 'cage', 'series']"
+13677,['greg']
+22489,['organ']
+14180,['heart']
+31144,['transplantation']
+9752,['donors']
+21565,"['night', 'world']"
+29905,['league']
+9400,['dexter']
+16291,"['jeff', 'lindsay']"
+30952,"['toni', 'morrison']"
+33838,['ساراماجو']
+33844,"['سلسلة', 'الجوائز']"
+26591,"['sara', 'shepard']"
+24270,"['pretty', 'little', 'liars', 'series']"
+23775,"['pll', 'series']"
+10982,['evernight']
+7487,"['claudia', 'gray']"
+10983,"['evernight', 'series']"
+32747,"['wondrous', 'strange']"
+17940,"['lesley', 'livingston']"
+11133,['faery']
+31928,"['virgil', 'flowers']"
+26569,"['sanford', 'john']"
+31929,"['virgil', 'flowers', 'series']"
+16556,"['john', 'sandford', 'virgil', 'flowers']"
+26566,['sanford']
+32539,"['wimpy', 'kid']"
+23264,['percy']
+9258,['demigods']
+24744,['quests']
+22289,['olympians']
+23273,"['percy', 'jackson', 'series']"
+1698,"['adventure', 'myths', 'quests', 'series', 'actio']"
+19488,['max']
+19760,['memory']
+16108,"['james', 'patterson', 'michael', 'bennett']"
+23116,"['patterson', 'michael', 'bennett']"
+32574,"['winter', 'reads']"
+8740,['cute']
+766,['books']
+16512,"['john', 'green', 'books']"
+5688,"['brent', 'weeks']"
+18987,"['malcolm', 'gladwell']"
+28032,"['social', 'sciences']"
+4200,"['behavioral', 'economics']"
+1528,['achievement']
+33622,"['بهاء', 'طاهر']"
+33964,['فلسطين']
+33853,"['سيرة', 'ذاتية']"
+33850,"['سير', 'ذاتية']"
+33965,['فلسطينيات']
+34122,"['مريد', 'البرغوثي']"
+15881,"['israel', 'palestine']"
+22907,"['palestinian', 'literature']"
+33582,"['القضية', 'الفلسطينية']"
+34121,"['مريد', 'البرغوثى']"
+30677,['first']
+2834,"['arabic', 'lit']"
+10598,"['endangered', 'species']"
+26724,['scat']
+16289,"['jeff', 'kinney']"
+33946,"['غسان', 'كنفاني']"
+34134,"['مصطفى', 'محمود']"
+34136,"['مصطفي', 'محمود']"
+33702,"['مصطفى', 'محمود']"
+5682,['breed']
+16909,"['kate', 'morton']"
+33751,"['رضوى', 'عاشور']"
+33445,"['أنيس', 'منصور']"
+33605,"['انيس', 'منصور']"
+33385,"['أحمد', 'خالد', 'توفيق']"
+33477,"['احمد', 'خالد', 'توفيق']"
+34246,"['ﻳﻮﺳﻒ', 'زيدان']"
+7638,"['cole', 'kresley']"
+10917,['ethiopia']
+9663,['doctors']
+33921,"['عصام', 'يوسف']"
+33936,"['عمر', 'طاهر']"
+33402,"['أدب', 'ساخر']"
+3253,"['aspergers', 'syndrome']"
+10646,['english']
+10639,['engl']
+3251,['aspergers']
+2517,"['angels', 'demons']"
+33386,"['أحمد', 'مراد']"
+15320,['immortals']
+29864,['immortals']
+2200,"['alyson', 'noel']"
+22845,['james']
+23170,['james']
+12258,"['foodie', 'books']"
+12218,"['food', 'fiction']"
+12262,"['foodie', 'fiction']"
+12208,"['food', 'cooking']"
+12243,"['food', 'related']"
+12182,"['food', 'cooking']"
+8636,['culinary']
+17841,"['lee', 'childs']"
+8019,['conspiracies']
+17840,"['lee', 'child', 'jack', 'reacher']"
+11011,['police']
+8320,['corruption']
+4892,['bombers']
+19179,['manhattan']
+28903,['subways']
+31540,['unknown']
+17612,"['larissa', 'ione']"
+9273,['demonica']
+9275,"['demonica', 'series']"
+15431,['incarceron']
+29556,['terrorists']
+28851,['students']
+15772,"['ione', 'larissa']"
+3542,"['author', 'larissa', 'ione']"
+32617,['witchcraft']
+26497,"['salem', 'witch', 'trials']"
+1953,['alchemy']
+16916,"['katherine', 'howe']"
+32581,['wisconsin']
+9196,['deception']
+652,['books']
+22022,['novelists']
+8576,['critics']
+28859,"['study', 'bibles']"
+28858,"['study', 'bible']"
+10910,['esv']
+13351,['gone']
+13355,"['gone', 'series']"
+19900,"['michael', 'grant']"
+13354,"['gone', 'novels']"
+33007,['dystopian']
+29025,['superpowers']
+15080,['hunger']
+9598,['distopian']
+28717,"['stieg', 'larsson']"
+16718,"['julie', 'james']"
+2681,['anorexia']
+17717,"['laurie', 'halse', 'anderson']"
+4862,"['body', 'image']"
+32448,"['wicked', 'lovely']"
+16787,['justice']
+10950,['evangelism']
+20185,['mission']
+2141,"['alpha', 'omega']"
+2133,"['alpha', 'omega']"
+18270,"['lisa', 'scottoline']"
+10468,['hopkins']
+16522,"['john', 'hart']"
+1444,['abduction']
+14030,"['hart', 'john']"
+10278,"['edgar', 'award']"
+34213,"['يوسف', 'زيدان']"
+28313,"['spencer', 'quinn']"
+6711,"['chet', 'bernie']"
+9673,['books']
+7709,['columbine']
+33956,['فكر']
+33735,['دين']
+20496,"['mostafa', 'mahmoud']"
+33703,"['مصطفي', 'محمود']"
+34011,['كتب']
+33739,['دينية']
+33517,['اسلاميات']
+33452,['إسلاميات']
+33429,['أديان']
+20738,"['mustafa', 'mahmoud']"
+32506,['trent']
+27913,['slaughter']
+27915,"['slaughter', 'karin']"
+16880,"['karen', 'slaughter']"
+12048,"['first', 'reads']"
+32507,"['trent', 'series']"
+23034,['parody']
+30299,['thirst']
+29609,['clues']
+28306,['speeches']
+10684,['ensayo']
+19609,"['mead', 'richelle']"
+21087,"['nancy', 'thayer']"
+25628,['relationship']
+8993,['dating']
+1537,"['act', 'like', 'lady', 'think', 'like']"
+1714,['advice']
+28691,"['steve', 'harvey']"
+5521,"['bounty', 'hunter']"
+28637,['stephanie']
+639,['books']
+9769,"['dork', 'diaries']"
+9766,['dork']
+9429,['diaries']
+9770,"['dork', 'diaries']"
+9778,"['dork', 'diary']"
+9779,"['dork', 'diarys']"
+9768,"['dork', 'diares']"
+9776,"['dork', 'diaries', 'series']"
+9783,['dorky']
+16458,"['joe', 'hill']"
+15249,['idw']
+14191,"['heather', 'brewer']"
+21878,"['north', 'korea']"
+18238,"['lindsey', 'kelk']"
+29935,['luxe']
+18765,"['luxe', 'series']"
+15034,"['human', 'rights']"
+19712,"['melissa', 'cruz']"
+22507,"['orhan', 'pamuk']"
+15888,['istanbul']
+31330,"['turkish', 'lit']"
+22912,['pamuk']
+33325,['šport']
+11202,"['fallen', 'angels']"
+6227,['cape']
+19996,"['midlife', 'crisis']"
+7593,['cod']
+1645,"['adult', 'books']"
+11818,['fiction']
+11766,"['fiction', 'contemporary']"
+10054,"['dysfunctional', 'family']"
+11219,['families']
+5008,['book']
+4070,"['beach', 'books']"
+10052,['dysfunctional']
+27766,['signed']
+26396,"['russo', 'richard']"
+8562,['crisis']
+19995,['midlife']
+25482,"['recent', 'reads']"
+6740,"['chicagoland', 'vampires']"
+7037,"['chloe', 'neill']"
+18946,['maine']
+15107,"['hush', 'hush']"
+7503,['cleopatra']
+19927,"['michelle', 'moran']"
+12097,['flanagan']
+19669,"['medieval', 'fantasy']"
+2864,['archery']
+2218,['amazing']
+11524,"['favorite', 'fantasy']"
+11310,"['fantasy', 'adventure']"
+24899,"['ranger', 'apprentice', 'series']"
+19680,"['medieval', 'times']"
+27170,['sequels']
+12098,"['flanagan', 'john']"
+6696,"['cherise', 'sinclair']"
+12542,['freebie']
+19778,['mennonite']
+3615,"['autobiography', 'biography', 'memoir']"
+20503,"['mother', 'daughter', 'relationships']"
+28163,"['soul', 'eater']"
+7258,"['christopher', 'pike']"
+31352,['tvd']
+18994,"['male', 'pov']"
+22942,"['paper', 'towns']"
+28952,['summer']
+736,['books']
+28533,['standalones']
+5570,"['boxed', 'set']"
+5571,"['boxed', 'sets']"
+11467,"['fav', 'books']"
+4316,"['best', 'books']"
+27288,['series']
+25914,"['rick', 'riordan', 'books']"
+4374,"['best', 'series']"
+5575,['boxsets']
+13651,"['greek', 'gods']"
+12011,['firelight']
+24718,['quebec']
+6774,"['chief', 'inspector', 'gamache']"
+15617,"['inspector', 'gamache']"
+12800,['gamache']
+6192,"['canadian', 'mystery']"
+23251,"['penny', 'louise']"
+6196,['canadá']
+29531,['tennis']
+19999,"['midnight', 'breeds']"
+17708,"['lauren', 'oliver']"
+11200,['fallen']
+11207,"['fallen', 'series']"
+2499,['angel']
+30086,"['saxon', 'stories']"
+8301,"['cornwell', 'bernard']"
+31893,['viking']
+2029,"['alfred', 'great']"
+8923,"['dark', 'ages']"
+2532,"['anglo', 'saxon', 'england']"
+19456,['maths']
+21100,['napoleon']
+11960,"['financial', 'terrorism']"
+13386,"['good', 'reads', 'recommendation']"
+17884,"['leila', 'meacham']"
+26471,['saga']
+17450,"['kristen', 'ashley']"
+2138,"['alpha', 'males']"
+26076,"['rock', 'chick']"
+2132,['alpha']
+3786,"['bad', 'boys']"
+3783,"['bad', 'boy']"
+18520,['lol']
+6332,"['carrie', 'ryan']"
+29794,"['forest', 'hands', 'teeth']"
+10074,"['dystopian', 'post', 'apocalyptic']"
+12369,"['forest', 'hands', 'teeth']"
+25879,"['richard', 'castle']"
+6386,['castle']
+21589,"['nikki', 'heat']"
+20452,"['morganville', 'vampire']"
+22301,['omnibus']
+22702,['need']
+20770,"['book', 'shelf']"
+31720,"['vamp', 'books']"
+16464,"['joe', 'pike']"
+16343,['jenny']
+3249,"['asperger', 'syndrome']"
+28793,"['strange', 'angels']"
+18203,"['lili', 'crow']"
+28794,"['strange', 'angels', 'series']"
+18205,"['lilith', 'saintcrow']"
+33604,['انت']
+24834,"['rachel', 'ward']"
+26343,['runaways']
+16333,"['jennifer', 'estep']"
+10389,"['elemental', 'assassin']"
+3248,['asperger']
+16597,"['jonathan', 'kellerman']"
+1990,"['alex', 'delaware']"
+2479,"['andrew', 'peterson']"
+21146,"['nathan', 'mcbride']"
+23413,"['peterson', 'andrew']"
+22696,['kindle']
+11599,['fbi']
+17216,"['kindle', 'book']"
+27984,['sniper']
+31545,['unlimited']
+711,['books']
+25239,['next']
+22747,"['owned', 'unread']"
+1552,"['action', 'suspense']"
+17245,"['kindle', 'lending', 'library']"
+24301,['prime']
+23924,"['political', 'spy', 'thriller']"
+23412,['peterson']
+21147,"['nathan', 'mcbride', 'series']"
+8910,['danny']
+17065,['kgi']
+17736,['lawyers']
+19767,['uniform']
+17735,['lawyer']
+16719,"['julie', 'kagawa']"
+8408,"['cover', 'love']"
+18670,"['love', 'triangles']"
+15825,"['iron', 'fey', 'series']"
+24332,"['printz', 'honor']"
+30198,"['wolves', 'mercy', 'falls']"
+32677,"['wolves', 'mercy', 'falls']"
+16179,"['jane', 'yellowrock']"
+11177,"['faith', 'hunter']"
+3913,"['barclay', 'linwood']"
+10063,"['dystopia', 'utopia']"
+27313,"['series', 'finish']"
+24112,['powers']
+33006,['dystopia']
+9281,"['dengeki', 'daisy']"
+4690,"['black', 'butler']"
+22904,['palestine']
+19914,"['michael', 'scott']"
+21527,"['nicholas', 'flamel']"
+30093,"['secrets', 'immortal', 'nichola']"
+1041,"['clues', 'series']"
+29611,"['clues', 'series']"
+13790,"['guillermo', 'toro']"
+28167,"['soul', 'screamers']"
+24833,"['rachel', 'vincent']"
+23262,"['perahu', 'kertas']"
+12107,"['flavia', 'luce']"
+6434,"['catholic', 'church']"
+32551,['wings']
+2813,"['aprilynne', 'pike']"
+32553,"['wings', 'series']"
+11406,['faries']
+31242,['trolls']
+22401,"['one', 'piece']"
+21557,"['night', 'huntress', 'world']"
+21558,"['night', 'huntress', 'world', 'series']"
+16276,"['jeanine', 'frost']"
+28609,"['steam', 'punk']"
+30119,['strain']
+20711,['musicians']
+19836,['metal']
+10693,['entertainment']
+7929,['composers']
+13040,['genres']
+14198,['heavy']
+28878,['styles']
+22535,['osbourne']
+22834,['ozzy']
+15607,['insatiable']
+9845,['dracula']
+667,['books']
+15709,['internet']
+7623,"['cognitive', 'science']"
+7946,['computers']
+17807,['learning']
+26877,"['science', 'technology']"
+32269,['web']
+21356,['neuroplasticity']
+7619,['cognitive']
+5624,['brains']
+576,['states']
+6714,['chetan']
+18188,"['light', 'reads']"
+30456,"['time', 'pass']"
+20828,['favourites']
+31147,['trash']
+15478,"['indian', 'novels']"
+30470,['timepass']
+4422,['bhagat']
+10026,"['durjoy', 'datta']"
+6148,"['camilla', 'lackberg']"
+6149,"['camilla', 'läckberg']"
+31932,"['virgin', 'hero']"
+15200,['iad']
+3537,"['author', 'kresley', 'cole']"
+27256,"['series', 'immortals', 'dark']"
+9166,"['deaver', 'jeffery']"
+18223,"['lincoln', 'rhyme', 'series']"
+18217,['lincoln']
+2267,"['amelia', 'sachs']"
+9167,"['deaver', 'jeffrey']"
+16303,"['jeffery', 'deaver', 'lincoln', 'rhyme']"
+33470,"['احببتك', 'اكثر', 'ينبغي']"
+29761,['edge']
+16767,"['jussi', 'adler', 'olsen']"
+9291,['department']
+22512,['origami']
+4491,"['big', 'nate']"
+29867,"['infernal', 'devices']"
+33067,"['yann', 'martel']"
+29308,['taxidermy']
+29866,"['immortals', 'series']"
+15317,['immortal']
+10979,['evermore']
+32337,['hunter']
+29064,"['susan', 'mallery']"
+6692,['chemistry']
+27900,['skulduggery']
+16024,"['jackson', 'brodie']"
+18931,['magyk']
+27164,"['septimus', 'heap', 'series']"
+3211,"['ashley', 'kristen']"
+3539,"['author', 'kristen', 'ashley']"
+8273,['cops']
+17451,"['kristen', 'ashley', 'books']"
+26077,"['rock', 'chick', 'series']"
+8268,['cop']
+26078,"['rock', 'chicks']"
+12681,"['funny', 'hell']"
+2676,"['annoying', 'heroine']"
+14125,['hea']
+17906,['lendable']
+27651,"['shopaholic', 'series']"
+9055,"['david', 'platt']"
+7111,"['christian', 'faith']"
+27948,"['small', 'group']"
+28363,"['spiritual', 'life']"
+24844,['radical']
+27709,"['showalter', 'gena']"
+18574,"['lords', 'underworld', 'series']"
+18621,['lotu']
+3518,"['author', 'gena', 'showalter']"
+17045,"['kerstin', 'gier']"
+6486,['celebrities']
+32312,['weisberger']
+11256,['famous']
+6663,['cheating']
+32175,"['warm', 'bodies']"
+5358,['books']
+19543,"['maze', 'runner']"
+16070,"['james', 'dashner']"
+29952,"['maze', 'runner']"
+32610,"['witch', 'wizard']"
+32615,"['witch', 'wizard']"
+17615,"['larry', 'correia']"
+33677,"['حسن', 'الجندي']"
+33676,"['حسن', 'الجندى']"
+33478,"['احمد', 'مراد']"
+33643,"['تراب', 'الماس']"
+17701,"['lauren', 'conrad']"
+17510,['candy']
+5356,['books']
+6487,['celebrity']
+10758,['epub']
+25249,['kindle']
+15324,"['immortals', 'series']"
+21670,"['noel', 'alyson']"
+15319,['immortality']
+29863,"['immortal', 'series']"
+15318,"['immortal', 'series']"
+9822,['downloaded']
+5473,['boring']
+17706,"['lauren', 'kate']"
+2038,"['alice', 'clayton']"
+12690,"['funny', 'romance']"
+22271,"['older', 'woman', 'younger']"
+26121,['rom']
+18852,"['made', 'laugh']"
+20562,"['movie', 'star']"
+1564,['actors']
+25551,['redhead']
+1562,['actor']
+4800,"['blue', 'bloods', 'series']"
+18583,"['lorien', 'legacies']"
+6388,"['castle', 'richard']"
+31350,['tie']
+21590,"['nikki', 'heat', 'series']"
+21539,"['nicky', 'charles']"
+12543,['freebies']
+17727,"['law', 'lycans']"
+17241,"['kindle', 'freebie']"
+32669,['wolf']
+12527,"['free', 'ebook']"
+27469,"['shape', 'shifter']"
+12524,"['free', 'books']"
+12528,"['free', 'ebooks']"
+32347,"['werewolves', 'shifters']"
+31925,['virals']
+31926,"['virals', 'series']"
+20063,"['military', 'romance']"
+17066,"['kgi', 'series']"
+29738,"['dark', 'divine']"
+5680,"['bree', 'despain']"
+8930,"['dark', 'divine']"
+2852,['arc']
+29739,"['dark', 'divine', 'series']"
+4112,"['beautiful', 'covers']"
+21492,"['next', 'series']"
+10213,['ebooks']
+32346,"['werewolves', 'shapeshifters']"
+660,['release']
+8931,"['dark', 'divine', 'series']"
+7665,"['colleen', 'houck']"
+30141,"['tiger', 'saga']"
+30423,"['tiger', 'saga']"
+16414,"['jill', 'shalvis']"
+18723,"['lucky', 'harbor']"
+27953,"['small', 'town', 'romance']"
+6722,['chew']
+7814,['comics']
+13567,"['graphic', 'novels', 'comic', 'books']"
+7860,['comixology']
+7818,"['comics', 'image']"
+30393,"['throne', 'glass']"
+22478,"['orange', 'prize']"
+18594,['loss']
+21542,"['nicole', 'krauss']"
+11215,"['false', 'identity']"
+6383,"['caster', 'chronicles']"
+4113,"['beautiful', 'creatures']"
+16850,['garcia']
+16852,['garcía']
+8648,"['culper', 'ring']"
+24235,['presidency']
+2874,['archives']
+21241,"['near', 'death', 'experience']"
+14197,"['heaven', 'real']"
+30897,"['todd', 'burpo']"
+1669,"['adult', 'nonfiction']"
+686,['books']
+11171,"['faith', 'based']"
+25712,['religous']
+5357,['books']
+5937,['burpo']
+278,"['books', 'must']"
+9159,"['death', 'penalty']"
+10226,"['eclipse', 'novella']"
+11249,"['family', 'secrets']"
+29292,"['tatiana', 'rosnay']"
+6032,"['author', 'sarah', 'key']"
+31036,"['tournament', 'books']"
+30884,['tob']
+8776,['czechoslovakia']
+727,"['tournament', 'books']"
+6331,"['carrie', 'jones']"
+27363,"['seven', 'realms']"
+7311,"['cinda', 'williams', 'chima']"
+15824,"['iron', 'fey']"
+29873,"['iron', 'fey']"
+11079,['extras']
+13787,"['guild', 'hunter']"
+27815,['singh']
+27245,"['series', 'guild', 'hunter']"
+13788,"['guild', 'hunter', 'series']"
+22985,"['paranormal', 'romances']"
+21073,"['nalini', 'singh', 'guild', 'hunter']"
+13789,"['guild', 'hunters']"
+22674,['ebook']
+13022,"['genre', 'paranormal', 'romance']"
+31418,['pnr']
+8204,['cookery']
+8231,"['cooking', 'food']"
+17411,['kookboeken']
+17331,['kitchen']
+25488,"['recipe', 'books']"
+31801,"['vegetarian', 'cookbooks']"
+8175,['cookbooks']
+12213,"['food', 'drink']"
+8222,"['cooking', 'books']"
+8635,['cuisine']
+13075,"['george', 'bush']"
+11437,"['faster', 'kiss']"
+11537,"['favorite', 'mangas']"
+19616,"['meca', 'tanaka']"
+21570,['nightshade']
+2469,"['andrea', 'cremer']"
+21571,"['nightshade', 'series']"
+3811,"['bailey', 'flanigan', 'series']"
+3810,"['bailey', 'flanigan']"
+8328,['cosmos']
+21732,"['fiction', 'science']"
+23980,"['pop', 'science']"
+8723,"['curse', 'workers']"
+673,['releases']
+15989,"['jaci', 'burton']"
+3319,['athletes']
+23728,"['play', 'play']"
+28421,"['sport', 'romance']"
+3318,['athlete']
+2210,"['amanda', 'hocking']"
+20763,"['blood', 'approves']"
+20764,"['blood', 'approves', 'series']"
+15494,['indie']
+14683,"['hocking', 'amanda']"
+3843,['balkans']
+10164,"['eastern', 'europe']"
+26088,"['rock', 'star']"
+26091,"['rock', 'stars']"
+22282,"['olivia', 'cunning']"
+26097,['rockstar']
+26099,['rockstars']
+26094,['rockers']
+27829,"['sinners', 'tour']"
+20710,['musician']
+26092,['rocker']
+14903,"['hot', 'hot', 'hot']"
+26090,"['rock', 'star', 'romance']"
+26098,"['rockstar', 'romance']"
+19865,['mfm']
+19776,['menagé']
+26069,"['rock', 'band']"
+26149,"['romance', 'erotic']"
+26209,['romantica']
+14323,"['hex', 'hall']"
+29936,"['lying', 'game']"
+11160,"['fairytale', 'retelling']"
+14979,"['hugh', 'howey']"
+22787,"['owned', 'kindle']"
+7696,['colonization']
+4697,"['black', 'dagger', 'brotherhood', 'series']"
+12759,"['gabaldon', 'diana']"
+18564,"['lord', 'john', 'grey']"
+4801,"['blue', 'exorcist']"
+4459,['bibliophiles']
+18659,"['love', 'reading']"
+27733,"['sibling', 'rivalry']"
+31509,"['unfinished', 'series']"
+22995,['paranormalcy']
+32711,"['women', 'issues']"
+32719,"['women', 'rights']"
+19981,"['middle', 'reader']"
+31360,['tweens']
+29670,"['books', 'beginning']"
+9180,"['deborah', 'harkness']"
+2088,"['souls', 'trilogy']"
+15239,"['identity', 'theft']"
+2197,"['alvirah', 'meehan', 'lotto', 'winner']"
+14355,"['higgins', 'clark', 'mary']"
+12575,"['french', 'revolution']"
+32634,['witchy']
+23142,"['paula', 'brackston']"
+8797,"['warren', 'series']"
+16481,['johansen']
+545,"['new', 'trilogy', 'eve', 'dunc']"
+15806,"['iris', 'johanson']"
+29081,"['suspense', 'mystery']"
+12364,"['forensic', 'sculptor']"
+10961,['eve']
+15805,"['iris', 'johansen', 'eve', 'duncan']"
+10968,"['eve', 'quinn', 'bonnie']"
+27426,"['shadow', 'falls']"
+6050,['hunter']
+27427,"['shadow', 'falls', 'series']"
+4786,['bloodlines']
+14909,['houellebecq']
+24368,"['prix', 'goncourt']"
+20912,['mymap']
+16988,['kellerman']
+16990,"['kellerman', 'jonathan']"
+724,['releases']
+15329,['imperialism']
+16858,"['kane', 'chronicles']"
+10349,"['egyptian', 'mythology']"
+25942,['riordan']
+29881,"['kane', 'chronicles']"
+9949,['dropped']
+1967,['aleph']
+33812,"['روايات', 'مترجمة']"
+22933,['paper']
+23151,"['paulo', 'coelho']"
+5662,"['brazilian', 'rainforest']"
+2621,"['ann', 'patchett']"
+23427,"['pharmaceutical', 'research']"
+9264,"['demon', 'cycle']"
+23409,"['peter', 'brett']"
+17865,['legend']
+18805,['romance']
+20243,['romance']
+27916,['slave']
+18013,['lgbtqa']
+12884,"['gay', 'romance']"
+34251,['ｆａｖｏｕｒｉｔｅｓ']
+20455,"['morganville', 'vampires', 'series']"
+20456,"['morganville', 'vamps']"
+6089,"['caine', 'rachel']"
+20451,"['morganville', 'series']"
+24820,"['rachel', 'cain']"
+20453,"['morganville', 'vampire', 'series']"
+6288,"['carlos', 'ruiz', 'zafon']"
+13277,"['glen', 'duncan']"
+8984,"['darynda', 'jones']"
+6636,"['charley', 'davidson']"
+1980,"['alex', 'craft']"
+16336,"['jennifer', 'mcmahon']"
+9252,['delirium']
+10071,"['dystopian', 'novels']"
+9253,"['delirium', 'series']"
+16885,"['karin', 'slaughter', 'trent']"
+31205,['trent']
+3688,"['awesome', 'books']"
+24831,"['rachel', 'renée', 'russell']"
+9772,"['dork', 'diaries']"
+9767,"['dork', 'dairies']"
+20766,['book']
+12682,"['funny', 'books']"
+11977,"['finish', 'reading']"
+29232,"['tales', 'talented', 'pop']"
+11987,"['finished', 'reading']"
+13489,['grade']
+21401,"['new', 'books']"
+30353,"['three', 'stars']"
+9775,"['dork', 'diaries', 'pop', 'star']"
+30203,"['thea', 'harrison']"
+10371,"['elder', 'races']"
+15676,['interactive']
+16334,"['jennifer', 'armentrout']"
+12334,"['forbidden', 'love']"
+16324,"['jennifer', 'armentrout']"
+8407,"['covenant', 'series']"
+3094,"['art', 'student']"
+16141,"['jamie', 'mcguire']"
+34188,"['نور', 'عبد', 'المجيد']"
+26991,['seals']
+20058,"['military', 'fiction']"
+16429,['jla']
+6687,"['chelsea', 'handler']"
+14232,['hell']
+28641,"['stephanie', 'perkins']"
+1616,"['adler', 'olsen']"
+17443,"['krimi', 'thriller']"
+26678,"['scandi', 'crime']"
+12907,['gelesen']
+17444,['krimier']
+12414,"['foster', 'children']"
+29946,['magicians']
+20998,"['mystery', 'thriller', 'horror']"
+20672,['museums']
+9118,"['deaf', 'culture']"
+5711,"['brian', 'selznick']"
+9116,['deaf']
+9975,"['dual', 'plots']"
+13492,"['grade', 'semester']"
+9119,['deafness']
+16795,['juv']
+29384,"['teacher', 'student']"
+6721,"['chevy', 'stevens']"
+13254,['giveaways']
+15598,"['boonsboro', 'trilogy']"
+21842,"['nora', 'roberts']"
+4916,['book']
+7857,"['coming', 'soon']"
+21947,['yet']
+33372,"['أثير', 'عبدالله', 'النشمي']"
+33370,"['أثير', 'عبدالله']"
+33369,"['أثير', 'عبد', 'الله', 'النشمي']"
+33980,"['ديسمبر', 'تنتهي', 'الأحلام']"
+10396,['elementals']
+5738,"['brigid', 'kemmerer']"
+10405,['elements']
+699,['release']
+700,['releases']
+27491,['shatter']
+32333,"['wendy', 'mass']"
+26561,['sands']
+18779,"['lyndsay', 'sands']"
+2373,['amulet']
+5829,"['brotherband', 'chronicles']"
+5828,['brotherband']
+29747,"['darkest', 'minds']"
+32231,['watersong']
+27506,"['shel', 'silverstein']"
+15975,['fiction']
+3149,['article']
+2911,"['armand', 'gamache', 'series']"
+34148,['مقالات']
+5067,"['booker', 'prize']"
+9178,"['debora', 'geary']"
+21900,['library']
+12897,"['geary', 'debora']"
+20317,"['modern', 'witch']"
+16114,"['james', 'patterson', 'private']"
+24366,"['private', 'series']"
+16003,"['jack', 'morgan']"
+16115,"['james', 'patterson', 'private', 'series']"
+16004,"['jack', 'morgan', 'series']"
+23121,"['patterson', 'private']"
+11865,"['fifty', 'shades']"
+11866,"['fifty', 'shades', 'grey']"
+1143,['shades']
+21553,"['night', 'angel']"
+13726,"['gritty', 'fantasy']"
+723,['release']
+21522,"['nicci', 'french']"
+11116,['facebook']
+2181,"['alternating', 'viewpoints']"
+16545,"['john', 'puller']"
+28552,"['star', 'wars', 'legends']"
+29700,"['chemical', 'garden']"
+17702,"['lauren', 'destefano']"
+6691,"['chemical', 'garden']"
+14056,['hats']
+27016,"['second', 'chance']"
+11605,"['fbi', 'attorney']"
+27019,"['second', 'chances']"
+9453,"['diary', 'wimpy', 'kid', 'series']"
+6077,"['cabin', 'fever']"
+8843,"['dairy', 'wimpy', 'kid']"
+9458,"['diary', 'wimpy', 'kid']"
+9656,['doawk']
+2042,"['alice', 'wonderland']"
+32425,"['white', 'rabbit', 'chronicles']"
+2035,['alice']
+30187,"['white', 'rabbit', 'chronicles']"
+17119,['kidnapping']
+3245,['asoiaf']
+19322,"['marriage', 'family']"
+19318,"['marriage', 'family']"
+7146,"['christian', 'marriage']"
+19320,"['marriage', 'books']"
+24824,"['rachel', 'hawkins']"
+14324,"['hex', 'hall', 'series']"
+14168,"['health', 'wellness']"
+14138,"['health', 'fitness']"
+6084,"['cahills', 'vespers']"
+1040,"['clues', 'cahills', 'vespers']"
+24464,['providence']
+7677,"['college', 'romance']"
+24465,"['providence', 'series']"
+12313,['review']
+8512,"['crewel', 'world']"
+4063,['bea']
+33046,['sci']
+25450,['really']
+22188,['october']
+31484,"['never', 'sky']"
+11617,['february']
+10411,['elephants']
+13428,['gorilla']
+6249,['captivity']
+29896,"['land', 'stories']"
+21412,"['new', 'jersey']"
+4235,"['bella', 'andre']"
+30124,['sullivans']
+2464,"['andre', 'bella']"
+11250,"['family', 'series']"
+28942,['sullivans']
+21480,['newsflesh']
+20144,"['mira', 'grant']"
+19245,"['marie', 'force']"
+12338,"['force', 'marie']"
+17242,"['kindle', 'freebies']"
+17243,"['kindle', 'lendable']"
+27822,"['single', 'parent']"
+2353,"['amish', 'tripathi']"
+27629,"['shiva', 'trilogy']"
+4542,['billionaire']
+11864,['fifty']
+19627,"['media', 'tie']"
+15083,"['hunger', 'games', 'series']"
+13781,['guide']
+13783,['guides']
+7902,['companions']
+20554,"['movie', 'companions']"
+30277,['thg']
+29469,"['teen', 'nonfiction']"
+22719,"['physical', 'copy']"
+22656,['book']
+7897,['companion']
+5485,"['borrowed', 'library']"
+22607,"['outread', 'aubrey']"
+5035,"['book', 'film']"
+29461,"['teen', 'dystopian']"
+10577,['biblioteca']
+10080,['dystopians']
+20555,"['movie', 'extras']"
+26841,"['science', 'fiction', 'dystopia']"
+15082,"['hunger', 'games', 'books']"
+15084,"['hunger', 'games', 'trilogy']"
+20564,"['movie', 'tie']"
+15795,['iraq']
+7067,"['chris', 'kyle']"
+10495,"['elvis', 'cole', 'joe', 'pike', 'series']"
+31283,['trylle']
+31285,"['trylle', 'trilogy']"
+13072,"['george', 'martin']"
+13272,['glbtq']
+9606,['diverse']
+9608,"['diverse', 'books']"
+24733,"['queer', 'lit']"
+25126,['harder']
+18016,['lgbtqiap']
+24265,"['pretty', 'covers']"
+18003,"['lgbt', 'characters']"
+3579,"['authors', 'color']"
+5361,['books']
+17663,['latinx']
+7266,"['chronicles', 'nick']"
+7267,"['chronicles', 'nick', 'series']"
+27217,"['series', 'chronicles', 'nick']"
+29706,"['chronicles', 'nick']"
+3564,"['author', 'sherrilyn', 'kenyon']"
+18977,['malaysia']
+13710,"['grim', 'reaper']"
+17686,"['laurann', 'dohner']"
+21428,"['new', 'species']"
+26799,"['sci', 'romance']"
+26847,"['science', 'fiction', 'romance']"
+27612,"['shifter', 'romance']"
+9687,"['dohner', 'laurann']"
+23038,"['part', 'series']"
+10978,['everglades']
+7050,['chomp']
+2121,['alligator']
+29049,['survivalist']
+6451,['caudill']
+32483,['wildlife']
+6445,['caudill']
+25460,"['rebecca', 'caudill']"
+25445,['reality']
+25465,"['rebecca', 'caudill']"
+32657,['wjhs']
+16904,"['kate', 'daniels', 'series']"
+13037,"['genre', 'urban', 'fantasy']"
+18909,"['magic', 'users']"
+752,['release']
+7519,"['clifton', 'chronicles']"
+29717,"['clifton', 'chronicles']"
+7518,['clifton']
+24795,['mathewson']
+21303,['neighbors']
+21301,"['neighbor', 'hell']"
+25976,['mathewson']
+30487,['titanic']
+2625,['anna']
+17008,"['kendare', 'blake']"
+33019,['horror']
+10017,['duology']
+8952,"['dark', 'romance']"
+2048,['alien']
+29774,['expanse']
+11043,['expanse']
+19717,"['melody', 'anne']"
+25827,['revolution']
+15170,['copy']
+22657,['books']
+15378,['library']
+32215,"['waste', 'time']"
+10654,"['english', 'fiction']"
+25811,['rev']
+13315,"['goddess', 'test']"
+30481,"['tina', 'reber']"
+15822,"['iron', 'druid']"
+17047,"['kevin', 'hearne']"
+15823,"['iron', 'druid', 'chronicles']"
+9964,['druids']
+27828,['sinners']
+27830,"['sinners', 'tour', 'series']"
+3863,['bands']
+8693,"['cunning', 'olivia']"
+14898,"['hot', 'steamy']"
+4136,"['becca', 'fitzpatrick']"
+15109,"['hush', 'hush', 'series']"
+20418,['monument']
+17398,"['kody', 'keplinger']"
+16739,['june']
+33133,"['young', 'adult', 'romance']"
+28959,"['summer', 'books']"
+7490,['clean']
+27628,['shiva']
+21021,['mythological']
+21028,"['mythology', 'fiction']"
+21014,"['myth', 'fiction']"
+15465,"['indian', 'book', 'challenge']"
+25071,['books']
+10675,['enjoyed']
+27630,"['shiva', 'triology']"
+5440,['books']
+15474,"['indian', 'myth']"
+17851,"['left', 'midway']"
+9741,"['done', 'reading']"
+17850,['left']
+12886,"['gayle', 'forman']"
+18598,['lost']
+20433,"['moral', 'dilemma']"
+4961,"['book', 'club', 'ideas']"
+1434,"['abbi', 'glines']"
+2521,"['angels', 'dark']"
+24311,"['princess', 'academy']"
+29734,['dacians']
+8822,['dacians']
+29859,"['hunger', 'games', 'trilogy']"
+22763,['owned']
+684,"['book', 'challenge']"
+10078,"['dystopian', 'utopian']"
+695,"['reading', 'challenge']"
+24937,"['ravinder', 'singh']"
+28540,"['star', 'trek']"
+19832,['meta']
+2015,"['alexandra', 'adornetto']"
+19544,"['maze', 'runner', 'series']"
+24222,['prequel']
+14193,"['heather', 'gudenkauf']"
+21560,"['night', 'prince']"
+19433,['matched']
+26980,['breeze']
+26981,"['breeze', 'series']"
+21391,"['new', 'adult', 'romance']"
+2180,"['alternating', 'pov']"
+34112,"['محمد', 'صادق']"
+28434,"['sports', 'fiction']"
+18762,['lux']
+18763,"['lux', 'series']"
+29934,"['lunar', 'chronicles']"
+21385,['new']
+29150,"['sword', 'laser']"
+32793,"['world', 'fantasy', 'award']"
+11298,['fantastical']
+21335,['nesbo']
+10431,"['elisabeth', 'naughton']"
+27018,"['second', 'chance', 'romance']"
+17253,['kindle']
+29082,"['suspense', 'romance']"
+17259,['kindle']
+26206,"['romantic', 'suspence']"
+10539,['emotional']
+22726,['tbr']
+17240,"['kindle', 'free']"
+21499,['next']
+18474,['loanable']
+29282,"['tarryn', 'fisher']"
+8057,"['contemporary', 'african', 'american', 'ficti']"
+11028,['existence']
+11029,"['existence', 'trilogy']"
+2915,"['armenian', 'genocide']"
+2913,['armenia']
+29177,['syria']
+12986,['genocide']
+32806,['world']
+2914,['armenian']
+9603,['divergent']
+31824,"['veronica', 'roth']"
+7511,['cliffhanger']
+29144,"['swoon', 'worthy']"
+30167,"['vincent', 'boys']"
+33148,"['young', 'love']"
+9976,"['dual', 'pov']"
+19476,['mature']
+30168,"['vincent', 'boys', 'series']"
+28848,"['student', 'teacher']"
+5933,"['burn', 'burn']"
+2875,['arcs']
+19246,['marie']
+17868,"['legend', 'series']"
+26276,"['rose', 'harbor']"
+4142,"['bed', 'breakfast']"
+4508,['bikers']
+10068,"['dystopian', 'future']"
+25466,"['rebecca', 'donovan']"
+7664,"['colleen', 'hoover']"
+28950,['summer']
+7401,"['class', 'warfare']"
+22818,"['owned', 'unread']"
+28582,['started']
+31225,['tried']
+8070,"['contemporary', 'literature']"
+29351,"['tbr', 'owned']"
+27563,['shelved']
+24775,"['quit', 'reading']"
+24774,['quit']
+22794,['owned']
+9545,['disappointing']
+22896,['pal']
+28583,"['started', 'finish']"
+30820,['soon']
+1418,"['abandoned', 'books']"
+719,"['reading', 'challenge']"
+28585,"['started', 'finished']"
+26674,['scandanavian']
+19340,"['martha', 'vineyard']"
+21408,"['new', 'fiction']"
+9184,['debut']
+25887,"['richard', 'judy', 'book', 'club']"
+10108,['james']
+10366,['james']
+26603,"['sarah', 'jio']"
+422,"['present', 'time']"
+22860,"['pacific', 'northwest']"
+6799,"['child', 'disappearance']"
+32206,['washington']
+3299,['library']
+29130,"['sweeter', 'reads']"
+25358,"['reader', 'choice']"
+9979,"['dual', 'timelines']"
+8256,['cool']
+27866,"['skating', 'sensation']"
+9777,"['dork', 'diaries', 'skating', 'sensation']"
+9782,['dorks']
+12664,"['fun', 'books']"
+730,"['school', 'year']"
+692,"['forty', 'book', 'challenge']"
+18655,['love']
+24830,"['rachel', 'renèe', 'russell']"
+24829,"['rachel', 'renee', 'russell']"
+28951,['summer']
+5382,['books']
+4307,['best']
+5275,"['books', 'english']"
+5185,['books']
+24828,"['rachel', 'renee', 'russel']"
+26761,"['school', 'stories']"
+25322,['younger']
+11482,"['fave', 'books']"
+13244,"['girly', 'girl']"
+27865,['skating']
+21400,"['new', 'book']"
+16679,['judaica']
+4637,"['bios', 'memoirs']"
+16396,"['jewish', 'themes']"
+32234,['wattpad']
+29166,"['sylvia', 'day']"
+3293,['asylum']
+18855,"['madeleine', 'roux']"
+13876,"['halloween', 'reads']"
+15969,['lynn']
+5653,['brazen']
+10686,['entangled']
+12801,"['gamble', 'brothers']"
+9604,"['divergent', 'series']"
+33839,"['ساق', 'البامبو']"
+33843,"['سعود', 'السنعوسي']"
+16730,['july']
+32023,"['waiting', 'release']"
+5674,['breathing']
+5675,"['breathing', 'series']"
+30516,['released']
+16740,['june']
+23085,"['patricia', 'cornwall']"
+12362,"['forensic', 'mystery']"
+24256,"['preston', 'child', 'pendergast']"
+28953,['summer']
+809,['challenge']
+14187,['heartbreaking']
+3273,"['assisted', 'suicide']"
+31425,"['ugly', 'cry']"
+2627,"['anna', 'banks']"
+30128,"['syrena', 'legacy']"
+19818,"['mermaids', 'sirens']"
+19819,['merpeople']
+19811,['merfolk']
+29176,"['syrena', 'legacy']"
+18269,"['lisa', 'renee', 'jones']"
+16370,"['jessica', 'sorensen']"
+30090,['secret']
+26525,"['samantha', 'towle']"
+29299,['tattoos']
+6842,"['childhood', 'friends']"
+6662,['cheaters']
+16337,"['jennifer', 'probst']"
+19329,"['marriage', 'billionaire']"
+8594,['crossfire']
+28613,"['steamy', 'romance']"
+15672,['intense']
+21971,"['yet', 'released']"
+16737,['june']
+10704,['entwined']
+9535,"['dirty', 'talk']"
+22219,"['office', 'romance']"
+3668,"['awaiting', 'release']"
+2149,['alphas']
+14897,"['hot', 'alpha', 'male']"
+15441,"['incomplete', 'series']"
+20347,"['molly', 'mcadams']"
+1215,['intrested']
+5384,['books']
+753,['releases']
+8054,['contemporaries']
+22736,['voices']
+26941,"['scott', 'snyder']"
+26526,"['samantha', 'young']"
+18800,['leighton']
+8421,['cowboys']
+8420,['cowboy']
+30189,"['wild', 'ones']"
+21389,"['new', 'adult', 'college']"
+3415,['august']
+8372,['country']
+17883,['leighton']
+11875,['fighters']
+11871,['fighter']
+13219,"['gina', 'maxwell']"
+20244,['mma']
+11877,"['fighting', 'love']"
+20245,"['mma', 'fighter']"
+10687,"['entangled', 'brazen']"
+5834,"['brothers', 'best', 'friend']"
+5654,"['brazen', 'collection']"
+11874,"['fighter', 'romance']"
+13220,"['gina', 'maxwell']"
+11876,['fighting']
+11873,"['fighter', 'mma']"
+20247,"['mma', 'fighting']"
+20246,"['mma', 'fighters']"
+29275,"['tara', 'sivec']"
+7042,"['chocolate', 'lovers']"
+13905,"['hangman', 'daughter']"
+32503,['robie']
+20224,"['mither', 'mages']"
+26951,"['scottoline', 'lisa']"
+15967,['kenner']
+4416,['beyonders']
+17449,"['kristan', 'higgins']"
+9366,['detroit']
+712,['books']
+3416,['august']
+32021,['waiting']
+3414,['august']
+3494,"['author', 'abbi', 'glines']"
+16547,"['john', 'puller', 'series']"
+26429,['stephens']
+30342,['thoughtless']
+33251,['zimbabwe']
+23685,"['pittacus', 'lore']"
+19276,"['mark', 'lawrence']"
+15799,"['ireland', 'fiction']"
+16253,"['jazz', 'age']"
+30126,"['sweet', 'trilogy']"
+32332,"['wendy', 'higgins']"
+21328,['nephilim']
+10273,['edelweiss']
+16886,"['karina', 'halle']"
+33579,"['الفيل', 'الازرق']"
+5676,['breathless']
+4546,['billionaires']
+8046,"['contemp', 'romance']"
+3548,"['author', 'maya', 'banks']"
+21426,"['new', 'series']"
+5677,"['breathless', 'series']"
+15646,"['insta', 'love']"
+3879,['banks']
+8276,"['cora', 'carmack']"
+18592,['losing']
+14900,"['hot', 'teacher']"
+18042,['libraries']
+24691,['puzzles']
+7910,['competition']
+4830,"['board', 'games']"
+19506,['may']
+19503,['may']
+27166,['sequel']
+27173,['sequels']
+29921,"['lone', 'city']"
+4065,['bea']
+27158,['september']
+17455,"['kristen', 'proby']"
+9774,"['dork', 'diaries']"
+17512,['fiore']
+25988,"['road', 'trips']"
+2809,['april']
+25990,['roadtrip']
+33540,"['الاسود', 'يليق']"
+32639,['seattle']
+29631,"['bad', 'boys']"
+16197,['january']
+27393,"['sexy', 'romance']"
+20258,['mob']
+28575,"['stark', 'trilogy']"
+7216,"['christina', 'lauren']"
+4108,"['beautiful', 'bastard']"
+4503,['biker']
+20527,"['motorcycle', 'club']"
+18859,"['madeline', 'sheehan']"
+19553,['books']
+19558,['romance']
+4504,"['biker', 'books']"
+20529,['motorcycle']
+4509,['bikers']
+20530,['motorcycles']
+20528,"['motorcycle', 'clubs']"
+3780,"['bad', 'ass', 'bikers']"
+4506,['biker']
+31476,"['undeniable', 'series']"
+19551,['biker']
+31475,['undeniable']
+19554,['club']
+31917,['violence']
+4505,"['biker', 'boys']"
+3784,"['bad', 'boy', 'bikers']"
+4507,"['biker', 'romance']"
+20630,['multigenerational']
+4109,"['beautiful', 'bastard', 'series']"
+17700,"['lauren', 'christina']"
+24861,"['raine', 'miller']"
+29661,"['blackstone', 'affair']"
+13981,['harlequin']
+13982,"['harlequin', 'kiss']"
+738,['books']
+30379,"['thriller', 'spy']"
+21094,['nantucket']
+14412,['hilderbrand']
+14414,"['hilderbrand', 'elin']"
+4068,['beach']
+3286,['astronauts']
+21128,['nasa']
+833,['releases']
+29612,['wave']
+832,['release']
+25917,"['rick', 'yancey']"
+30427,['tijan']
+24793,['lilley']
+31593,['air']
+25974,['lilley']
+23784,"['plot', 'twist']"
+1973,"['alex', 'award']"
+12441,"['fox', 'hare']"
+14218,['heist']
+159,['series']
+22135,"['hare', 'fox', 'series']"
+17842,"['lee', 'goldberg']"
+17341,"['kitty', 'french']"
+29165,"['sylvain', 'reynard']"
+12773,"['gabriel', 'inferno']"
+9192,['december']
+9187,['dec']
+32032,"['waiting', 'released']"
+30094,['selection']
+17177,"['kiera', 'cass']"
+30095,"['selection', 'series']"
+27073,['selection']
+29765,['elite']
+31944,"['virtual', 'reality']"
+29872,"['iron', 'druid', 'chronicles']"
+14179,"['hearne', 'kevin']"
+18990,"['male', 'author']"
+3360,"['audible', 'books']"
+13323,"['gods', 'goddesses']"
+29013,"['supernatural', 'fantasy']"
+31618,"['urban', 'fantasy', 'paranormal']"
+9962,['druid']
+29871,"['iron', 'druid']"
+29720,['coincidence']
+29721,"['coincidence', 'series']"
+30995,"['top', 'tbr']"
+21058,['romance']
+26278,"['rosemary', 'beach']"
+22574,['otp']
+27934,"['slow', 'burn']"
+6248,"['captive', 'prince']"
+27920,['slaves']
+4357,['best']
+2937,['arson']
+6773,"['chief', 'inspector', 'armand', 'gamache']"
+26602,"['sarah', 'maas']"
+13827,['ward']
+14663,['ward']
+29618,['arrangement']
+16246,"['jay', 'crownover']"
+29293,['tattoo']
+19292,['marked']
+20390,"['monica', 'murphy']"
+11188,"['fake', 'relationship']"
+8603,"['crownover', 'jay']"
+32894,['wtf']
+16945,"['katie', 'mcgarry']"
+4111,"['beautiful', 'cover']"
+8412,['covergasm']
+18667,"['love', 'cover']"
+33047,"['science', 'fiction']"
+11522,"['favorite', 'covers']"
+12006,['firebird']
+13427,"['gorgeous', 'covers']"
+20526,['motorcycle']
+14108,['hawkeye']
+7830,"['comics', 'marvel']"
+28992,"['super', 'hero']"
+7787,"['comics', 'manga']"
+19463,"['matt', 'fraction']"
+29008,['superheros']
+3652,['avengers']
+19369,"['marvel', 'unlimited']"
+9507,['digital']
+31085,['trades']
+18996,"['male', 'protagonist']"
+7747,"['comic', 'books', 'graphic', 'novels']"
+19368,"['marvel', 'universe']"
+26551,"['sandi', 'lynn']"
+16825,['tucker']
+29522,"['ten', 'tiny', 'breaths']"
+27780,['silo']
+2483,"['andrews', 'ilona']"
+3520,"['author', 'ilona', 'andrews']"
+813,['favorites']
+22414,"['ongoing', 'series']"
+11530,"['favorite', 'heroine']"
+27160,['september']
+32811,['world']
+27713,['shreve']
+767,['books']
+27560,"['shell', 'shock']"
+6796,"['child', 'custody', 'case']"
+1507,"['abusive', 'relationships']"
+32821,"['world', 'one']"
+2808,['april']
+26279,"['rosemary', 'beach', 'series']"
+30965,['far']
+33754,['رعب']
+16439,"['joanna', 'wylde']"
+3797,"['badass', 'bikers']"
+14899,"['hot', 'bikers']"
+19599,['mcs']
+9536,"['dirty', 'talker']"
+25456,['reapers']
+12376,"['forever', 'trilogy']"
+2139,['alpha']
+26168,"['romance', 'series']"
+4545,"['billionaire', 'romance']"
+20092,['millionaire']
+12371,['forever']
+27220,"['series', 'complete']"
+18783,"['lynn', 'sandi']"
+25640,['released']
+29276,['tara']
+28413,['splintered']
+32743,['wonderland']
+1321,['howard']
+12837,['gargoyles']
+33927,"['علاء', 'الاسوانى']"
+33925,"['علاء', 'الأسوانى']"
+33928,"['علاء', 'الاسواني']"
+15983,['scott']
+30934,"['tom', 'rob', 'smith']"
+24832,"['rachel', 'dyken']"
+19214,['march']
+29649,['bet']
+29999,['others']
+13110,"['german', 'occupation']"
+3104,"['art', 'theft']"
+16950,"['katy', 'evans']"
+9986,"['duck', 'dynasty']"
+1372,"['shade', 'vampire']"
+13947,"['hard', 'luck']"
+16198,['january']
+20057,['military']
+19293,"['marked', 'series']"
+20640,"['multiple', 'pov']"
+24205,['pregnant']
+28072,['soldier']
+24566,['ptsd']
+16827,['bromberg']
+19878,['sheridan']
+27017,"['second', 'chance', 'love']"
+1926,"['alan', 'bradley']"
+27153,['september']
+21959,"['released', 'yet']"
+32022,['waiting']
+32752,['wool']
+8595,"['crossfire', 'series']"
+10084,['dystopìa']
+785,['releases']
+24839,['racing']
+19215,['march']
+9939,['driven']
+5806,['bromberg']
+15946,['redmerski']
+22050,['november']
+29762,"['edge', 'never']"
+15987,['redmerski']
+6174,['wait']
+21986,['nov']
+22048,['november']
+6175,['wait']
+9435,"['diary', 'panget']"
+9642,['dnp']
+584,['series']
+1307,"['court', 'thorns', 'roses']"
+814,['favourites']
+901,['tbr']
+10464,['casey']
+10526,"['emma', 'chase']"
+29267,['tangled']
+17503,"['kylie', 'scott']"
+28511,"['stage', 'dive']"
+33683,['حوجن']
+29574,"['tessa', 'dare']"
+9789,"['dorothy', 'must']"
+24967,['tellings']
+8895,"['danielle', 'paige']"
+11619,['february']
+19552,['bikers']
+19555,['clubs']
+9104,['warren']
+9342,"['detective', 'warren', 'series']"
+8796,['warren']
+1464,['abolitionist']
+31844,['keeland']
+22190,['october']
+24860,"['rainbow', 'rowell']"
+29255,"['tammy', 'falkner']"
+30053,"['reed', 'brothers']"
+29301,"['tattoos', 'piercings']"
+2231,"['amazon', 'freebie']"
+17879,['leidos']
+20204,['misterio']
+18091,"['library', 'reads']"
+2117,"['allende', 'isabel']"
+16731,['july']
+30428,"['tillie', 'cole']"
+7674,"['college', 'love']"
+26959,['scribd']
+29123,"['sweet', 'home']"
+11656,"['female', 'pov']"
+32159,['ward']
+27207,"['series', 'black', 'dagger', 'brotherhood']"
+32161,['ward']
+3529,"['author', 'ward']"
+22323,"['dublin', 'street']"
+12599,"['friends', 'benefits']"
+1182,['stars']
+1060,['stars']
+14904,"['hot', 'romance']"
+1649,"['adult', 'contemporary']"
+4338,"['best', 'friends']"
+29142,['swoon']
+3561,"['author', 'samantha', 'young']"
+23222,"['penelope', 'douglas']"
+3417,['august']
+28630,"['step', 'siblings']"
+28631,['stepbrother']
+14380,"['high', 'school', 'romance']"
+11195,"['fall', 'away', 'series']"
+24932,"['raven', 'shadow']"
+2701,"['anthony', 'ryan']"
+24934,"['ravens', 'shadow']"
+13711,['grimdark']
+20052,"['military', 'fantasy']"
+17690,"['laurelin', 'paige']"
+16432,['nesbö']
+22114,"['nypd', 'red']"
+16111,"['james', 'patterson', 'nypd', 'red']"
+4237,"['bella', 'forrest']"
+3846,['ballet']
+8870,['dance']
+19507,['may']
+26015,"['robert', 'galbraith']"
+8293,"['cormoran', 'strike']"
+18873,"['mafia', 'romance']"
+19810,"['meredith', 'wild']"
+22639,['owlcrate']
+784,['release']
+25944,['riot']
+3433,"['aurora', 'rose', 'reynolds']"
+33675,"['حبيبتي', 'بكماء']"
+7017,"['chinese', 'american']"
+19021,['booker']
+19027,"['booker', 'longlist']"
+315,['series']
+16123,"['james', 'patterson', 'womens', 'murder', 'club']"
+32733,"['womens', 'murder', 'club', 'series']"
+19216,['march']
+3854,['band']
+26093,"['rocker', 'romance']"
+21344,['netherlands']
+2372,['amsterdam']
+22178,['ocd']
+24378,['probably']
+13724,"['grit', 'lit']"
+29294,"['tattoo', 'artist']"
+29296,['tattooed']
+27767,"['signed', 'books']"
+17680,"['laura', 'kaye']"
+16741,['june']
+17118,['kidnapped']
+14308,"['heroes', 'olympus']"
+33963,['فلتغفري']
+2713,"['anti', 'hero']"
+7587,['cocktail']
+7588,"['cocktail', 'series']"
+15553,['infidelity']
+27032,"['secret', 'baby']"
+31586,['series']
+8461,['crazy']
+8916,"['daphne', 'maurier']"
+10547,"['emotional', 'rollercoaster']"
+31240,"['tristan', 'danika']"
+17234,"['kindle', 'first']"
+3336,"['attack', 'titan']"
+19065,"['manga', 'graphic', 'novels']"
+13521,['grandparents']
+20272,"['mock', 'newbery']"
+6452,['caudill']
+31603,"['upper', 'elementary']"
+4818,['bluestem']
+13517,['grandfathers']
+21337,"['net', 'galley']"
+15129,"['number', 'four']"
+18024,"['liane', 'moriarty']"
+32017,['wait']
+23250,['penny']
+2910,"['armand', 'gamache']"
+23103,"['patrick', 'rothfuss']"
+27675,"['short', 'stories', 'anthologies']"
+13747,['grrm']
+14670,"['hoarder', 'stash']"
+19926,"['michelle', 'knight']"
+11971,['finding']
+34201,['هيبتا']
+12631,['frontlines']
+12332,['forbidden']
+17009,"['kendra', 'elliot']"
+774,['favorites']
+15773,['iowa']
+16177,"['jane', 'smiley']"
+11415,['farming']
+19241,"['mariana', 'zapata']"
+27186,['serial']
+1826,"['age', 'gap']"
+32428,"['whitney', 'gracia', 'williams']"
+29242,"['talk', 'dirty']"
+7510,"['cliff', 'hanger']"
+27194,['serials']
+7513,['cliffhangers']
+27667,['short']
+12116,"['flintlock', 'fantasy']"
+16054,['jamaica']
+30886,['tob']
+19022,['booker']
+779,['publication']
+16199,['january']
+33524,"['اقوم', 'قيلا']"
+9193,['december']
+4211,"['behind', 'scenes']"
+15814,"['irish', 'fiction']"
+4355,['best']
+31483,"['suspicion', 'series']"
+1921,"['alafair', 'burke']"
+31482,['suspicion']
+1666,"['adult', 'mystery']"
+16447,"['jodi', 'malpas']"
+22395,"['one', 'night']"
+10845,['escort']
+13921,"['happily', 'ever']"
+15252,['stay']
+23100,"['patrick', 'ness']"
+20111,"['mind', 'fuck']"
+8951,"['dark', 'reads']"
+8925,"['dark', 'twisted']"
+22052,['november']
+8950,['dark']
+31386,['twisted']
+5917,['bully']
+3269,"['asshole', 'hero']"
+31041,"['tournament', 'books']"
+10058,['dyslexia']
+13841,['hacker']
+13842,"['hacker', 'series']"
+1970,"['alessandra', 'torre']"
+32472,"['wild', 'meredith']"
+770,['challenge']
+7917,"['complete', 'series']"
+15214,['ibook']
+14896,"['hot', 'alpha']"
+29833,"['hacker', 'series']"
+33176,['youtubers']
+13226,"['girl', 'online']"
+33171,['youtube']
+33175,"['youtuber', 'books']"
+3418,['august']
+10088,['détective']
+10798,"['erik', 'larson']"
+32351,"['west', 'virginia']"
+4742,['blackmail']
+17453,"['kristen', 'callihan']"
+26170,"['romance', 'sports']"
+4356,['best']
+11671,['feminismo']
+11683,"['feminist', 'reads']"
+11677,"['feminist', 'lit']"
+25125,['harder']
+23804,"['poc', 'authors']"
+5362,['books']
+21581,['nigéria']
+23223,"['penelope', 'ward']"
+9569,"['discworld', 'series']"
+13840,['habits']
+19508,['may']
+29840,['heir']
+29009,['superhéroes']
+20600,['marvel']
+24907,"['ransom', 'riggs']"
+20174,"['miss', 'peregrine']"
+25539,"['red', 'queen']"
+31856,"['victoria', 'aveyard']"
+807,['books']
+24520,"['psychological', 'suspense']"
+9185,"['debut', 'novel']"
+31910,"['vino', 'literati']"
+31604,['uppercase']
+27884,"['skimm', 'reads']"
+28775,['storytelling']
+26734,['scholastic']
+20273,"['mock', 'newbery']"
+16200,['january']
+8885,"['daniel', 'silva', 'gabriel', 'allon']"
+8873,"['danial', 'silva']"
+28483,"['spy', 'thriller', 'espionage']"
+9052,"['david', 'mitchell']"
+14230,"['helena', 'hunting']"
+14682,"['hockey', 'romance']"
+4698,"['black', 'dagger', 'legacy']"
+32160,['ward']
+9194,['december']
+10465,['kennedy']
+9344,"['detective', 'harry', 'bosch']"
+20996,"['mystery', 'thriller', 'crime']"
+19942,"['micky', 'haller']"
+9029,"['david', 'baldacci', 'robie']"
+32504,"['robie', 'series']"
+3838,"['baldacci', 'robie']"
+3840,"['baldacci', 'robie']"
+1069,['series']
+13251,['giveaway']
+28554,"['star', 'wars', 'new', 'canon']"
+28556,"['star', 'wars', 'novels']"
+28564,"['star', 'wars']"
+5506,['botm']
+16216,"['japanese', 'internment']"
+19272,"['mark', 'edwards']"
+22258,"['old', 'school']"
+9452,"['diary', 'wimpy', 'kid', 'old', 'school']"
+5341,['books']
+9348,"['detective', 'mystery', 'suspense', 'thriller']"
+17420,['korean']
+28201,"['south', 'korea']"
+17424,"['korean', 'literature']"
+22505,['organizing']
+20130,['minimalism']
+22494,['organization']
+2811,['april']
+19262,"['marissa', 'meyer']"
+18746,"['lunar', 'chronicles']"
+29198,['frazier']
+30498,['frazier']
+24522,"['psychological', 'thrillers']"
+799,"['book', 'challenge']"
+25369,"['reading', 'challenge']"
+30383,['thriller']
+10776,['ereader']
+17569,"['lake', 'alex']"
+5224,['books']
+860,['challenge']
+30750,['need']
+25370,"['reading', 'challenge']"
+20178,"['missing', 'child']"
+32117,['owned']
+5021,"['book', 'riot', 'rec']"
+25108,['first']
+13612,"['great', 'book']"
+19217,['march']
+13199,"['gillian', 'flynn']"
+5005,"['book', 'month']"
+5006,"['book', 'month', 'club']"
+17698,"['lauren', 'blakely']"
+31212,"['trials', 'apollo']"
+16792,"['justin', 'cronin']"
+30003,['passage']
+19390,"['mary', 'kubica']"
+897,['releases']
+857,['books']
+22211,['campus']
+27152,['sept']
+29122,"['sweet', 'guys']"
+28954,['summer']
+16733,['july']
+10805,"['erin', 'watt']"
+7625,['coho']
+896,['release']
+3419,['august']
+14404,"['highschool', 'college']"
+28629,"['step', 'brother']"
+28838,"['strong', 'heroine']"
+7673,"['college', 'life']"
+3410,['aug']
+7678,"['college', 'university']"
+16201,['january']
+16149,['jan']
+27819,"['single', 'dad']"
+4358,['best']
+863,['favorites']
+25861,['rich']
+19037,['whore']
+32783,"['workplace', 'romance']"
