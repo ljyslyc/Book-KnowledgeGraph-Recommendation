@@ -1,6 +1,6 @@
 boto3==1.11.11
 botocore==1.14.11
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 Click==7.0
 docutils==0.15.2
